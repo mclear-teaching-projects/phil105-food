@@ -1,0 +1,37 @@
+.reveal blockquote {
+  border-left: 10px solid #ccc;
+  border-right: 10px solid #ccc;
+  text-align: left;
+  padding: 0.25em .5em;
+  font-family: Calibri;
+  font-size: .85em;
+}
+.reveal p {
+    text-align: left;
+    font-size: .90em
+}
+
+.reveal ul {
+    text-align: left;
+}
+
+.reveal ol {
+    text-align: left;
+    line-height: 1.5;
+}
+
+.reveal li {
+    text-align: left;
+    line-height: 1.5;
+    font-size: .90em
+}
+
+.reveal dl {
+    line-height: 1.5;
+    font-size: .90em
+}
+
+.reveal img {
+    height: auto;
+    max-width: 45%;
+}
