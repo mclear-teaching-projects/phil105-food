@@ -33,7 +33,7 @@ NEWEST_FIRST_ARCHIVES = False
 MENUITEMS = (
     ('Schedule', '/schedule'),
     ('Assignments', '/assignments'),
-    ('Paper Topics', '/papers'),
+    # ('Paper Topics', '/papers'),
     ('Resources', '/resources'),
     ('Contact', '/contact'),
     # ('Syllabus', '/syllabus'),
