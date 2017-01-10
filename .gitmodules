@@ -2,3 +2,8 @@
 	path = syllabus_phil105
 	url = https://github.com/mclear-teaching-projects/syllabus_template.git
     ignore = dirty 
+
+[submodule "pelican-bootstrap3"]
+	path = pelican-bootstrap3
+	url = https://github.com/mclear-teaching-projects/phil105/pelican-bootstrap3.git
+    ignore = dirty 
