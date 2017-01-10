@@ -4,13 +4,13 @@
 
 Dr. Colin McLear\\
 Office: 1003 Oldfather Hall\\
-Office Hours: M/W 1:30-2:30pm\\
+Office Hours: T/R 1-2 p.m.\\
 Email: [[mailto:mclear@unl.edu][mclear@unl.edu]]
 
-Kevin Patton (TA)\\
-Office: 1022 Oldfather Hall\\
-Office Hours: M/W 11:30-12:30\\
-Email: [[mailto:fregespuzzle@gmail.com][fregespuzzle@gmail.com]]
+Christopher Stratman (TA)\\
+Office:  1019 Oldfather Hall\\
+Office Hours: W 1-2 p.m.\\
+Email: [[mailto:cstratman@huskers.unl.edu][cstratman@huskers.unl.edu]]
 
 Email is the best way to reach me. I answer emails on weekdays, usually
 within 24 hrs.
@@ -25,7 +25,7 @@ a response, please adhere to these basic email etiquette guidelines:
    account also reduces the likelihood that your email will be mistaken
    for spam.
 -  Include an informative subject line that summarizes the content of
-   your email (e.g. “Question about Assignment 3 for PHIL101″ instead of
+   your email (e.g. “Question about Assignment 3 for PHIL105″ instead of
    “Question”).
 -  Begin your email with an appropriate greeting (Dear/Hi/Hello
    [professor's name]).

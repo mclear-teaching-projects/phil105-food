@@ -16,11 +16,11 @@ questions we shall pursue include:
 
 - What are the major economic and political structures governing food
   production and comsumption in the United States and other western countries?
-  How do these struc- tures impact developing countries?
+  How do these structures impact developing countries?
 
 - What are the environmental and social consequences of various sorts of
   eating habits? For example, do food choices contribute to environmental
-  degradation and social in- justice?
+  degradation and social injustice?
 
 - How should we treat the animals we eat? Do we have ethical obligations to
   treat them in particular ways?

@@ -2,40 +2,38 @@
 
 -----
 
-|----------+---------+------------------------------------------------|
-| Week \nbsp \nbsp | Date\nbsp\nbsp\nbsp | Topic                                          |
-|----------+---------+------------------------------------------------|
-|        1 | 8/22    | What is philosophy?; Intro to Logic            |
-|          | 8/24    | Logic & Argument                               |
-|        2 | 8/29    | Physicalism & Consciousness                    |
-|          | 8/31    | Nagel's Argument                               |
-|        3 | 9/5     | Labor Day (No Class)                           |
-|          | 9/7     | The Knowledge Argument                         |
-|        4 | 9/12    | Lewis against the Knowledge Argument           |
-|          | 9/14    | The Function of Consciousness                  |
-|        5 | 9/19    | The Function of Consciousness (continued)      |
-|          | 9/21    | The Puzzle of Representation                   |
-|        6 | 9/26    | Catch-up                                       |
-|          | 9/28    | Can Machines Think?                            |
-|        7 | 10/3    | The Chinese Room Argument                      |
-|          | 10/5    | Objections to the Chinese Room Argument        |
-|        8 | 10/10   | Mid-Term Review                                |
-|          | 10/12   | Mid-Term                                       |
-|        9 | 10/17   | Fall Break (No Class)                          |
-|          | 10/19   | Freedom & Determinism                          |
-|       10 | 10/24   | Freedom & Alternate Possibilities              |
-|          | 10/26   | Determinism & Moral Responsibility             |
-|       11 | 10/31   | Determinism & Moral Responsibility (continued) |
-|          | 11/2    | Free Will & Neuroscience                       |
-|       12 | 11/7    | Free Will & Legal Responsibility               |
-|          | 11/9    | No Class                                       |
-|       13 | 11/14   | Ethics & Meta-Ethics                           |
-|          | 11/16   | Two Kinds of Moral Skepticism                  |
-|       14 | 11/21   | Moral Skepticism (continued)                   |
-|          | 11/23   | Student Holiday (No Class)                     |
-|       15 | 11/28   | The Meaning of Life & Absurdity                |
-|          | 11/30   | The Absurd (continued);                        |
-|       16 | 12/5    | Meaning of Life (continued); Papers due Friday |
-|          | 12/7    | Exam Review                                    |
-|       17 | 12/16   | Final Exam 10:00 to 12:00 noon                 |
-|----------+---------+------------------------------------------------|
+|----------+---------+--------------------------------------------|
+| Week \nbsp \nbsp | Date\nbsp\nbsp\nbsp | Topic                                      |
+|----------+---------+--------------------------------------------|
+|        1 | 1/10    | Introduction; What is food?                |
+|          | 1/12    | Food, nutrition, & social kinds            |
+|        2 | 1/17    | Social construction                        |
+|          | 1/19    | Food & cannibalism                         |
+|        3 | 1/24    | Overview of the food system                |
+|          | 1/26    | Overview continued                         |
+|        4 | 1/31    | Foer & Bittman                             |
+|          | 2/2     | No Class                                   |
+|        5 | 2/7     | Food Politics                              |
+|          | 2/9     | Food Politics, continued                   |
+|        6 | 2/14    | Ethics of eating                           |
+|          | 2/16    | No Class                                   |
+|        7 | 2/21    | Into to ethical theory -- consequentialism |
+|          | 2/23    | Consequentialism applied                   |
+|        8 | 2/28    | Intro to deontology                        |
+|          | 3/2     | No Class                                   |
+|        9 | 3/7     | Deontology applied                         |
+|          | 3/9     | Moral Vegetarianism                        |
+|       10 | 3/14    | Catch-up/Review                            |
+|          | 3/16    | Mid-term exam                              |
+|       11 | 3/28    | Ethically acceptable meat                  |
+|          | 3/30    | No class                                   |
+|       12 | 4/4     | Ethically acceptable meat (cont)           |
+|          | 4/6     | Food & religious identity                  |
+|       13 | 4/11    | religion (cont)                            |
+|          | 4/13    | No class                                   |
+|       14 | 4/18    | Feminist perspectives on food              |
+|          | 4/20    | Food justice                               |
+|       15 | 4/25    | Environmental concerns & food justice      |
+|          | 4/27    | Catch-up & review                          |
+|       16 | 5/4     | Final Exam 3:30 to 5:30 p.m.               |
+|----------+---------+--------------------------------------------|
