@@ -1,0 +1,127 @@
+#+TITLE: PHIL 105 Class Plan 
+#+DATE: Spring 2017
+
+* Week 1
+** Class 1 (1/10)
+- Questions for students (think/share? or write down?)
+  - What is one thing you want to learn in this class?
+  - What is one food you love to eat?
+  - Have you ever been a part of a food production process?    
+- Introduction
+- What is food?
+  - We open with the question of what food is. Is it something natural? Do we,
+    as individuals, or as a society, get to choose whether something counts as food?
+    - What is it to be a member of a kind?
+      1. Bachelor
+      2. Chair
+      3. Human being
+      4. Person
+      5. Cool
+      6. Planet
+      7. Labrador Retriever
+      8. Hydrogen
+      9. Lawyer
+    - What is it for something to be a "natural" kind?
+** Class 2 (1/12)
+*** Definition
+  #+BEGIN_QUOTE
+    the reason why it is important to lay out clear definitions for difficult
+    or contentious concepts is that any conclusions you reach properly apply
+    only to those concepts (e.g. ‘free trade’) as defined. A clear definition
+    of how you will use the term thereby both helps and constrains discussion.
+    [1] It helps discussion because it gives a determinate and non-ambiguous
+    meaning to the term. [2] It limits discussion because it means that whatever
+    you conclude does not necessarily apply to other uses of the term. As it
+    turns out, much disagreement in life results from the disagreeing parties,
+    without their realizing it, meaning different things by their terms.
+    [@baggini2010, 32]
+  #+END_QUOTE
+  - Too narrow or too broad?
+    - If one’s definition is too narrow or idiosyncratic, it may be that one’s findings cannot be applied as broadly as could be hoped.
+    - If, on the other hand, a definition is too broad, it may lead to equally erroneous or misleading conclusions.
+
+*** Necessary & sufficient  conditions
+- Necessary conditions :: what is /required/ for something to be the case.
+- Sufficient conditions :: what is /enough/ for something to be the case.
+
+    
+- Food as nutrient vs. food as social kind
+*** What is a "nutrient"?
+- Excerpts from /Nutrition for Dummies/
+    - are there nutrients that we wouldn't count as food? (sufficient conditions)
+      - feces: [[http://gawker.com/5985723/can-you-eat-your-own-poop?tag=Food][Can you eat your own poop?]]
+    - are there foods that aren't nutrients? (necessary conditions)
+  - Food and it's image
+    - [[https://www.youtube.com/watch?v=QqQVll-MP3I][Opening to Food Inc.]]
+  - Introducing the notion of a social kind
+* Week 2
+** Class 3 (1/17)
+- What is a "social kind"?
+  - What is "social construction"?
+    - what examples can we think of that are socially constructed kinds?
+  - Haslanger, excerpt from ch.2 of /Resisting Reality/ (§§2-3)
+** Class 4 (1/19)
+- Food and cannibalism
+- Swift, "A modest proposal"
+- Wisnewski, "Murder, Cannibalism, and Indirect Suicide"
+* Week 3
+** Class 5 (1/24)
+- Overview of the food system, with a focus on corn
+  - Michael Pollan, Omnivore’s Dilemma (MP 1-84)
+** Class 6 (1/26)
+- Overview continued (MP 85-122)
+* Week 4
+** Class 7 (1/31)
+- Jonathan Safran Foer, Eating Animals, “Storytelling” (JSF 3-16) & “All or Nothing or Something Else” (JSF 21-41)
+- Bittman, "Some Animals Are More Equal Than Others"
+** No Class (2/2)
+* Week 5
+** Class 8 (2/7)
+- Marion Nestle, Food Politics, Ch. 4-6
+** Class 9 (2/9)
+- Nestle, Food Politics, Ch. 7
+* Week 6
+** Class 10 (2/14)
+- Ethics of eating animals
+  - Jeff McMahan, “The Meat-Eaters”
+  - David Foster Wallace, “Consider the Lobster”
+** Class 11 (2/16)
+- Introducing ethical theories
+  - Consequentialism
+    - James Rachels, Elements of Moral Philosophy, chs. 7-8
+* Week 7
+** Class 12 (2/21)
+- Consequentialism applied
+  - Alastair Norcross, "Puppies, Pigs and People"
+** Class 13 (2/23)
+- Intro to deontology
+  - Immanuel Kant, “Rational Beings Alone Have Moral Worth”
+  - Holly Wilson, “The Green Kant: Kant’s Treatment of Animals”
+* Week 8
+** Class 14 (2/28)
+** No Class (3/2)
+* Week 9
+** Class 15 (3/7)
+** Class 16 (3/9)
+* Week 10
+** Class 17 (3/14)
+** Class 18 (3/16)
+* Spring Break
+* Week 11
+** Class 19 (3/28)
+** No Class (3/30)
+* Week 12
+** Class 20 (4/4)
+** Class 21 (4/6)
+* Week 13
+** Class 22 (4/11)
+** No Class (4/13)
+* Week 14
+** Class 23 (4/18)
+** Class 24 (4/20)
+* Week 15
+** Class 25 (4/25)
+** Class 26 (4/27)
+* Week 16
+** Exam
+
