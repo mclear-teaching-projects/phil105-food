@@ -1,0 +1,23 @@
+#+TITLE: Week 2 - The Social Construction of Concepts
+#+DATE: January 16, 2017
+#+SLUG: week2-construction
+#+TAGS: philosophy, definitions, concepts, cannibilism, normativity
+#+STATUS: draft
+ 
+------
+
+This week we continue our discussion of what counts as "food". We'll look in
+particular at the notion of a social kind, and relatedly, a "socially
+constructed" concept. We'll also discuss cannibilism and the cultural norms
+that surround the consumption of food. 
+
+** Class 3 (1/17)
+- What is a "social kind"?
+  - What is "social construction"?
+    - what examples can we think of that are socially constructed kinds?
+  - READ: Haslanger, [[file:{filename}/readings/haslanger_ch3.pdf][ch.3 of /Resisting Reality/ ]]
+
+** Class 4 (1/19)
+- Food and cannibalism
+  - READ: [[file:{filename}/readings/swift_proposal.pdf][Swift, "A modest proposal"]]
+  - READ: [[file:{filename}/readings/wisnewski_cannibilism.pdf][Wisnewski, "Murder, Cannibalism, and Indirect Suicide"]]
