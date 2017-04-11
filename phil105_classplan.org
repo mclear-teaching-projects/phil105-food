@@ -43,9 +43,27 @@
 *** Necessary & sufficient  conditions
 - Necessary conditions :: what is /required/ for something to be the case.
 - Sufficient conditions :: what is /enough/ for something to be the case.
+*** Social Construction
+- Generic social construction :: Something is a social construction in the generic sense just in case it is an intended or unintended product of a social practice.
 
+  - Includes all artifacts, and much else besides
+    - washing machines (artifact; causally constructed)
+    - husband/wife (non-artifact; constitutively constructed)
+    - professor (non-artifact; constitutively constructed)
+      
+- Causal construction :: Something is causally constructed iff social factors play a causal role in bringing it into existence or, to some substantial extent, in its being the way it is.
+     
+     - *Example*: social vs. biological causes in evaluating that someone is male/female
+
+- Constitutive construction :: Something is constitutively constructed iff in defining it we must make reference to social factors.
+
+- Discursive construction :: Something is discursively constructed just in case it is the way it is, to some substantial extent, because of what is attributed (and/or self-attributed) to it.
     
-- Food as nutrient vs. food as social kind
+- Pragmatic construction :: A classificatory apparatus (be it a full-blown classification scheme or just a conceptual distinction or descriptive term) is socially constructed just in case its use is determined, at least in part, by social factors.
+     
+  - A distinction is /weakly pragmatically constructed/ if social factors only partly determine our use of it.
+
+  - A distinction is /strongly pragmatically constructed/ if social factors wholly determine our use of it, and it fails to represent accurately any “fact of the matter.”
 *** What is a "nutrient"?
 - Excerpts from /Nutrition for Dummies/
     - are there nutrients that we wouldn't count as food? (sufficient conditions)
@@ -54,13 +72,125 @@
   - Food and it's image
     - [[https://www.youtube.com/watch?v=QqQVll-MP3I][Opening to Food Inc.]]
   - Introducing the notion of a social kind
+*** Food as nutrient vs. food as social kind
+*** Group work
+- Try and specify a necessary feature of X; Is there a sufficient feature?
+  1. water
+  2. human being
+  3. funny
+  4. planet
+  5. person
+  6. gold
+  7. cool (not the temperature)
+  8. bachelor
+  9. president of the USA
+  10. superbowl (the game)
+
+- Give an example of a natural kind & a social kind
+  - say why each is each
+  - is the social kind causal or constitutive? Why?
+  
 * Week 2
 ** Class 3 (1/17)
+*** Assignments
+  - READ: Scherer, [[http://firstwefeast.com/eat/2015/04/philosophy-of-meat-bread][What is a sandwich?]]
+  - READ: Pollan, [[http://www.nytimes.com/2007/01/28/magazine/28nutritionism.t.html][Unhappy Meals]]
+  - OPTIONAL: Ceglowski, [[http://idlewords.com/2010/03/scott_and_scurvy.htm][Scott & Scurvy]]
+  - OPTIONAL: Taubes, [[http://www.nytimes.com/2002/07/07/magazine/what-if-it-s-all-been-a-big-fat-lie.html][What if it's all been a big fat lie?]]
+** Class 4 (1/19)
+*** Class plan
+**** Review Necessary/Sufficient Conditions
+**** Review distinction between Natural & Social Kinds
+- What is "social construction"?
+- What kinds are "socially constructed"?
+- GROUP EXERCISE: Give examples of natural & social kinds. Identify the
+  salient natural/social characteristic(s) for each
+**** Food
+- Is food a natural or a social kind?
+- PRO NATURAL: food as nutrient/nutrient delivery vehicle
+  - Not sufficient: Is shit food? Are people food?
+  - Not necessary: Are there any foods that lack any nutritional value?
+    - Fiber ([[https://en.wikipedia.org/wiki/Cellulose][celluose]])
+**** Nutritionism
+- READ: "Nutritionism and Functional Foods", Gyorgy Scrinis
+- What is "nutritionism"?
+- Nutritionism :: An ideology that conceives of food purely in terms of
+                  nutrients consumed for the maintenance & development of the
+                  organism's bodily health
+                  
+- Why is nutritionism an "ideology"?
+
+- What is wrong with nutritionism?
+  1. ignores context
+    - isolates nutrients from each other
+    - isolates food from diet
+    - isolates diet from culture/life
+  2. Assumes food is only for bodily health
+
+*** Notes
+**** Natural vs. Social Kinds
 - What is a "social kind"?
   - What is "social construction"?
-    - what examples can we think of that are socially constructed kinds?
-  - Haslanger, excerpt from ch.2 of /Resisting Reality/ (§§2-3)
-** Class 4 (1/19)
+      - Is food a social kind?
+**** Cannibalism
+- Cannibilism is not morally wrong
+- One can legitimately consent to being eaten
+  - Consent distinguishes (indirect) suicide from murder or other wrongful
+    killing here
+
+***** Objections to Cannibalism
+1. Cannibalism is a kind of illness
+#+BEGIN_QUOTE
+  Cannibalism/suicide are manifestations of mental illness. The mentally ill
+  are not competent. Thus, because competence is a prerequisite for legitimate
+  consent, Brandes did not consent. (16)
+#+END_QUOTE
+
+- Begs the question
+  - that cannibalism is illegitimate or cannot be consented to is just what is
+    up for debate
+
+- Cannibalism will kill you
+#+BEGIN_QUOTE
+  A popular view now seems to be that the consumption of human flesh is a
+  cause of this disease [Kuru]. If this is true, it seems, we have a reason not to consume human flesh: namely, it will kill you.
+#+END_QUOTE
+
+- We consume lots of things that harm us without it being morally/legally illegitimate
+
+3. Cannibalism is disgusting/outrageous 
+#+BEGIN_QUOTE
+  The sense of general disgust that pervaded that population, the argument
+  goes, and the moral outrage that accompanied this disgust, would far
+  outweigh whatever meager culinary benefits might accrue by consuming the
+  dead. (18-19)
+#+END_QUOTE        
+
+- There are lots of things that might be deemed, at a time, outrageous or
+  societal harms, but conservative stance isn't itself justification
+
+4. Cannibalism violates obligations to the dead
+#+BEGIN_QUOTE
+  The final argument against cannibalism is an argument from obligation to the
+  dead. On this view, cannibalism violates the general principle that we ought
+  to respect the dead, and hence, cannibalism is morally impermissible. (19)
+#+END_QUOTE
+
+- In some cultures cannibalims is a form of respecting the dead (e.g. Fore
+  people of Papua New Guinea)
+
+   - Swift's satire: could Swift's story work if food were a natural kind?
+   - Is "meat" a social kind? 
+        
+3. Nutritionism
+   - What is nutritionism?
+   - What problems are there with nutritionism?
+
+4. Group work:
+   - what are some examples of natural kinds? Of social kinds? Why? What are
+     salient characteristics?
+
+*** Assignments
 - Food and cannibalism
 - Swift, "A modest proposal"
 - Wisnewski, "Murder, Cannibalism, and Indirect Suicide"
@@ -68,60 +198,309 @@
 ** Class 5 (1/24)
 - Overview of the food system, with a focus on corn
   - Michael Pollan, Omnivore’s Dilemma (MP 1-84)
+*** Plan
+- Logistics
+  - mention paper topics
+  - section attendance
+- Definition of food wrap-up
+- Pollan overview
+  - what is the book about?
+  - importance of understanding the food chain
+*** Group work 
+- Name one commodity and one non-commodity. Describe a salient feature of each
+- Name one good that is (or is in the process of being) commodified
+*** Logistics
+- Paper topics (April 14th)
+- Friday section attendance
+- clickers
+*** Notes
+**** What is the "omnivore's dilemma"?
+**** America's Agrarian past
+- Agrarianism :: a social philosophy which sees farming as a way of life,
+                 valuable not only for the food and agriculture it produces,
+                 but also in itself.
+
+                 
+                 
+
+**** The industrialized food system 
+- Features of the system
+  1. Scale
+  2. Monoculture
+  3. Efficiency
+  4. Commodification
+**** The history of corn's role in the rise of industrialized agriculture
+***** Synthetic nitrogen
+***** Earl Butz & Ag Policy
+***** Naylor Curve
+#+BEGIN_QUOTE
+  the typical Iowa farmer is selling corn for a dollar less than it costs
+  him to grow it. Yet the corn keeps coming, more of it every year. (53)
+#+END_QUOTE
+***** The invention of commodity corn
+
+**** The problem with industrialized agriculture
+**** Family vs. Corporate Farms
+- [[https://www.washingtonpost.com/news/wonk/wp/2013/08/11/farms-are-gigantic-now-even-the-family-owned-ones/?utm_term=.827ad79b41b3][Farms are gigantic now]]
+- [[https://en.wikipedia.org/wiki/Family_farm][The family farm (wikipedia)]]
+- [[https://en.wikipedia.org/wiki/Corporate_farming#Family_farms][Corporate farming (wikipedia)]]
+- [[http://www.motherjones.com/tom-philpott/2013/09/does-corporate-farming-exist-barely][Does corporate farming exist?]]
+
 ** Class 6 (1/26)
 - Overview continued (MP 85-122)
+- Lecture via clicker questions?
+- Homework: Eat a meal without corn
+
+*** Notes
 * Week 4
 ** Class 7 (1/31)
-- Jonathan Safran Foer, Eating Animals, “Storytelling” (JSF 3-16) & “All or Nothing or Something Else” (JSF 21-41)
-- Bittman, "Some Animals Are More Equal Than Others"
+- Marion Nestle, Food Politics, Ch. 4-6
 ** No Class (2/2)
 * Week 5
 ** Class 8 (2/7)
-- Marion Nestle, Food Politics, Ch. 4-6
-** Class 9 (2/9)
 - Nestle, Food Politics, Ch. 7
+- David Foster Wallace, “[[http://www.gourmet.com/magazine/2000s/2004/08/consider_the_lobster.html][Consider the Lobster]]”
+  
+  
+*** Plan
+- Discuss plan for week:
+  - Today food politics
+  - Thursday Ethics of eating
+**** Slides on Nestle
+***** PACs
+Federal multi-candidate PACs may contribute to candidates as follows:
+
+- $5,000 to a candidate or candidate committee for each election (primary and general elections count as separate elections);
+- $15,000 to a political party per year; and
+- $5,000 to another PAC per year.
+
+PACs may make unlimited expenditures independently of a candidate or political party
+
+**** Consider the lobster
+  - Group activity: Is it ok to boil the lobster for the sake of a meal?
+    Why/Why not?
+
+*** Notes
+**** Nestle Cornell Talk
+***** Obesity prevention
+1. Eat less
+2. Eat better
+3. Move more
+
+- Industry favors increased exercise 
+   - But exercise is actually staying pretty stable
+***** Eating habits
+- People are eating more since the 1980s
+- 1900 calories per person to 2100 calories per person 
+***** How to change eating habits?  
+- Eating less by regulating food sizes (e.g capping soda at 16 oz)
+- Eat less via assumption of responsibility
+  - Child obesity is the fault of irresposible parents, not the food industry
+  - Adult obesity is a failure of personal responsibility
+***** Government Regulation 
+- Government recommendations for less processed food and more fruits/vegetables
+***** Nutritionism
+- Nutritionism as reductive focus on single nutrients that aids food industry
+  inteterests in increased processing and additives
+- Dietary guidelines as expressing tension between focus on foods and focus on
+  nutrients
+***** Dilemma facing food industry
+- Public health interests in reducing junk food
+- Wall street investor interest in increasing ROI as much and as quickly as possible
+  
+****** Counting calories
+- How many more calories in a 64oz soda than in an 8oz soda?
+  - There are 8x the calories (about 800)
+    - First year nutrition students thought it was *impossible* that soda could have 800 calories 
+****** Advertising added nutrients
+- junk foods that are "healthy"
+- "functional foods" :: foods that possess features other than those of normal nutrients that are supposed to improve health
+  - functional foods increase food sales
+  - functional foods can often advertise health benefits that aren't proven & encourage views of low-calorie status of what are really high-calorie foods 
+  - treat processed foods as "health foods"
+****** Promoting a food environment where it is ok to eat more than is necessary or healthy
+***** Eat less & Eat better
+- Personal responsibility isn't enough
+- Need to find a better food environment
+***** Food company strategies that mirror Big Tobacco
+****** Blame personal responsibility
+****** Dispute the science
+****** Promote education, activity
+****** Defend self-regulation
+****** Fund research, community groups underming obesity causes
+****** Co-opt professional organizations
+****** Attack critics
+****** Lobby against public health measures 
+****** File lawsuits
+
+  
+** Class 9 (2/9)
+- Ethics of eating animals
+  - Jonathan Safran Foer, Eating Animals, “Storytelling” (JSF 3-16) & “All or Nothing or Something Else” (JSF 21-41)
+  - Bittman, "[[https://opinionator.blogs.nytimes.com/2011/03/15/some-animals-are-more-equal-than-others/?_r=0][Some Animals Are More Equal Than Others]]"
+
+*** Plan
+- Overview of DFW "Consider the Lobster"
+- GROUP: Is it ok to boil lobster for the sake of the meal?
+- Why do we eat some animals and not others?
+  - QUESTION: How many people have pets?
+  - QUESTION: Of the people who have pets, how many eat meat?
+
 * Week 6
 ** Class 10 (2/14)
-- Ethics of eating animals
-  - Jeff McMahan, “The Meat-Eaters”
-  - David Foster Wallace, “Consider the Lobster”
-** Class 11 (2/16)
+- JSF, "Words/Meaning" (81-9) & "The life and death of a bird" (129-37)
+- Jeff McMahan, “[[https://opinionator.blogs.nytimes.com/2010/09/19/the-meat-eaters/?_r=0][The Meat-Eaters]]”
+- Videos
+  - WATCH: [[https://www.youtube.com/watch?v=3HAMk_ZYO7g][Killing Animals for Food]]
+  - [[http://www.huffingtonpost.com/2009/09/01/chicks-being-ground-up-al_n_273652.html][Grinding baby chicks]]
+  - [[https://www.youtube.com/watch?v=lO5TikjZU3c][Catching chickens]]
+- [[https://www.nytimes.com/interactive/2016/10/09/magazine/meat-industry-transparency-fight.html][Transparency in the meat industry]]
+  - [[http://www.humanesociety.org/news/press_releases/2010/12/smithfield_pigs_121510.html][Problems with pork]] & [[https://www.youtube.com/watch?v=ayGJ1YSfDXs][video of pork farms]]
+- [[https://www.nytimes.com/2017/01/31/dining/animal-welfare-labels.html?mabReward=R4&recp=0&version=readinglist&action=click&pgtype=Homepage&clickSource=story-heading&module=c-column-middle-span-region&region=c-column-middle-span-region&WT.nav=c-column-middle-span-region][Labels on meat and eggs]]
+*** Notes 
+**** Chicken Facts
+- Two kinds of poultry
+  - meat (broiler chicken)
+  - egg-laying (egg-laying hens)
+- Chicken lifespan is roughly 7 years, but typically 1-3 for egg-layers & 6
+  weeks for broilers (2-4 weeks longer for orgnic/free-range)
+- Today’s egg producing hens can produce over 300 eggs per year; this is over twice the average of 150 eggs per year in 1947.
+***** From the [[http://www.nationalchickencouncil.org/about-the-industry/statistics/broiler-chicken-industry-key-facts/][National Chicken Council]] on broiler chickens
+- In 2015, almost 9 billion broiler chickens, weighing 53 billion pounds,
+  liveweight, were produced in the USA
+- The United States has the largest broiler chicken industry in the world, and about 19 percent of production was exported to other countries in 2015.
+- Americans consume more chicken than anyone else in the world – more than 90
+  pounds per capita in 2015 – the number one protein consumed in the United
+  States.
+- The top 5 broiler producing states are: Georgia, Arkansas, Alabama, North Carolina and Mississippi.
+- Employs 280,800 people directly with $90 billion in total sales
+**** Suffering & Cruelty 
+- Cruelty results as much from indifference to pain/suffering as from the
+  intentional infliction of pain/suffering
+- Nature is not cruel. Cruelty requires a conception of pain/suffering in
+  others and the capacity to choose not to inflict such pain.
+**** Chicken slaughter
+- [[http://www.huffingtonpost.com/bruce-friedrich/usda-time-to-stop-the-chi_b_4855990.html][Huffington Post]] article on boiling chickens alive
+- [[https://www.washingtonpost.com/politics/usda-plan-to-speed-up-poultry-processing-lines-could-increase-risk-of-bird-abuse/2013/10/29/aeeffe1e-3b2e-11e3-b6a9-da62c264f40e_story.html?utm_term=.8232daa5b9e5][Washington Post]] article on improper chicken slaughter
+- [[https://www.washingtonpost.com/politics/usda-drops-proposal-to-speed-up-poultry-processing-at-plants/2014/07/31/4a6fad90-18eb-11e4-85b6-c1451e622637_story.html?utm_term=.4ac436a9f754][USDA abandons proposal]] that would speed up processing
+** No Class  (2/16)
+- WATCH: [[https://www.youtube.com/watch?v=hACdhD_kes8][Consequentialism]]
+* Week 7
+** Class 12 (2/21)
 - Introducing ethical theories
   - Consequentialism
     - James Rachels, Elements of Moral Philosophy, chs. 7-8
-* Week 7
-** Class 12 (2/21)
+** Class 13 (2/23)
 - Consequentialism applied
   - Alastair Norcross, "Puppies, Pigs and People"
-** Class 13 (2/23)
+* Week 8
+** Class 14 (2/28)
 - Intro to deontology
   - Immanuel Kant, “Rational Beings Alone Have Moral Worth”
   - Holly Wilson, “The Green Kant: Kant’s Treatment of Animals”
-* Week 8
-** Class 14 (2/28)
+  - WATCH: [[http://www.wi-phi.com/video/moral-status][Moral Status]]
+  - WATCH: [[https://www.youtube.com/watch?v=-Go45PUjtL8][Chignell on Kant's "Non-Consequentialism"]]
 ** No Class (3/2)
+- WATCH: [[http://www.wi-phi.com/video/good-life-kant][Kant on the good life]]
+- WATCH: [[https://www.youtube.com/watch?v=mQ2fvTvtzBM][A Beginner's Guide to Kant's Moral Philosophy]]
 * Week 9
 ** Class 15 (3/7)
+- Deontology applied
+  - Tom Regan, “The Radical Egalitarian Case for Animal Rights”  
+  - Mary Anne Warren, “A Critique of Regan’s Animal Rights Theory” 
 ** Class 16 (3/9)
+- Moral vegetarianism
+  - James Rachels, “The Basic Argument for Vegetarianism” 
+  - Michael Martin, “A Critique of Moral Vegetarianism” 
 * Week 10
 ** Class 17 (3/14)
+- Catch up & mid-term review
 ** Class 18 (3/16)
+- Mid-term exam
 * Spring Break
 * Week 11
 ** Class 19 (3/28)
+- Moral Vegetarianism (Pollan vs. Singer)
 ** No Class (3/30)
 * Week 12
+This week we discuss issues surrounding famine, affluence, and politics. 
 ** Class 20 (4/4)
+- Peter Singer, "Famine, Affluence, and Morality"
+  
+*** Food Security
+- [[https://www.wfp.org/node/359289][World Food Programme]]
+- [[https://www.ers.usda.gov/topics/food-nutrition-assistance/food-security-in-the-us/measurement.aspx][USDA description]]
+
 ** Class 21 (4/6)
+- Hardin, "Lifeboat Ethics"
+- Murdoch and Oaten, "Population and Food"
 * Week 13
+We continue our discussion of food and politics this week, focusing on the
+issue of "food justice".
 ** Class 22 (4/11)
+- Mares & Peña, "Environmental and Food Justice" 
+- Heldke, "Down-Home Global Cooking" 
+  
 ** No Class (4/13)
 * Week 14
+I should also make use of some of the articles in the [[http://www.slate.com/topics/f/future_of_food.html][special food issue]] at /Slate/
 ** Class 23 (4/18)
+- Gary Comstock, "Ethics and Genetically Modified Foods"
 ** Class 24 (4/20)
+- David Kaplan, "Functional Foods"
+- Welin, Gold, & Berlin, "In Vitro Meat"
 * Week 15
 ** Class 25 (4/25)
+The aesthetics of food
+- Susan Wolf, The Ethics of Being a Foodie
+- Kevin Sweeney, Can a Soup be Beautiful?
 ** Class 26 (4/27)
+- Catch up & review
 * Week 16
 ** Exam
 
+* Quizzes
+** Week 2
+1. A necessary condition is:
+   a. what is enough for something to be the case
+   b. what is sufficient for something to be the case
+   c. what is required for something to be the case
+   d. what is both required and enough for something to be the case
+
+2. A natural kind is:
+   a. a kind that depends on social conditions to exist
+   b. a kind that depends on human beings to exist
+   c. neither (a) or (b)
+   
+3. One example of a social kind is:
+   a. gold (the element)
+   b. water
+   c. DNA
+   d. husband
+
+4. "Nutritionism" conceives of food as:
+   a. anything edible
+   b. what tends to be cooked/ingested by one's culture
+   c. any substance that possesses calories and useful nutrients for the organism
+   d. anything that contributes to the overall well-being of the organism
+
+
+
+
+* Materials
+** Technology & Food
+** Food & Aesthetics
+- Can a Soup Be Beautiful? The Rise of Gastronomy and the Aesthetics of Food, Kevin W. Sweeney
+- Can Food Be Art? The Problem of Consumption, Dave Monroe
+- The Ethics of being a Foodie, Susan Wolf
+** Food Justice
+- Environmental and Food Justice, Mares & Peña
+- Heldke: “Down-Home Global Cooking” 
+** Identity & Food
+- Carving Values with a Spoon, Lydia Zepeda (related to food justice)
+- 
+
+** Famine & Justice
+- Hardin: “Lifeboat Ethics”
+- Singer: “Famine, Affluence, and Morality”
+- Murdoch and Oaten: “Population and Food”
