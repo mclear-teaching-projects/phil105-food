@@ -2058,17 +2058,27 @@ this
 
 * Food Justice
 ** Food Security
+#+ATTR_REVEAL: :frag (appear)
 1. /Available/: food is available in sufficient quantities & on a
    consistent basis
 2. /Accessible/: people can regularly acquire adequate quantities of food
    through socially acceptable methods
 3. /Utilizable/: consumed food has a positive nutritional impact on people
    
+#+BEGIN_NOTES
+- food security vs. sovereignty (Mares & Peña)
+#+END_NOTES
+   
 *** Ways of Achieving Food Security
 #+ATTR_REVEAL: :frag (appear)
 - Interventionist vs. anti-interventionist (e.g. Singer vs. Hardin)
 - Localist vs globalist 
-   
+  
+#+BEGIN_NOTES
+- Discuss the fact that local/global debate thinks of food security in
+  more than merely nutritional terms
+#+END_NOTES 
+  
 ** Local vs Global
 #+ATTR_REVEAL: :frag (appear)
 - Localism: :: privileging of a region or people's cultural traditions,
@@ -2078,27 +2088,38 @@ this
      the variety of practices and beliefs that differentiate us from one
      another (both as individuals and as cultures/peoples/nations)
      
+** Localism & the Agrarian Ideal
+#+ATTR_REVEAL: :frag (appear)     
+- Slow food: :: grassroots movement to counter "fast" food by emphasizing
+                traditional and regional foods and their cultural ties through
+                encouraging the farming of plants, seeds, and livestock
+                characteristic of the local ecosystem
+- Agrarianism: :: a social philosophy which sees farming as a way of life,
+                 valuable not only for the food and agriculture it produces,
+                 but also in itself.
+                 
+#+BEGIN_NOTES
+- slow food: founded in Italy in 1989 to prevent the disappearance of local food
+  cultures and traditions, promote an alternative to "fast" food
+- poll asking whether people (1) would recognize
+  local food (2) try to eat local
+#+END_NOTES
+
 ** Advantages of Localism
 #+ATTR_REVEAL: :frag (appear)
 - Reduced distance for transport of goods means lower environmental impact
 - Promotes the continued existence of specific cultural practices or traditions
 - Promotes a connection to a particular locale or "sense of place"
 - Promotes or maintains a "sustainable community"
-
-# *** Local Food, Slow Food
-
-# - Local Food ::
-# - Slow Food :: 
-               
-               
-# - Agrarianism :: a social philosophy which sees farming as a way of life,
-#                  valuable not only for the food and agriculture it produces,
-#                  but also in itself.
-
+  
+#+BEGIN_NOTES
+- Discuss tendency for people to assume local means "healthy" or
+  "sustainable"
+#+END_NOTES
                  
 ** Disadvantages of Localism
 #+ATTR_REVEAL: :frag (appear)
-- Elitist
+- Elitist?
 - Cannot be scaled (i.e. not all populations can be locavores)
 - Provincial
 - Ignores or perpetuates marginalization of native groups
@@ -2114,7 +2135,7 @@ this
   
 ** Disadvantages of Globalism
 #+ATTR_REVEAL: :frag (appear)
-- Elitist
+- Elitist?
 - Encourages a kind of cultural homogeneity
 - Encourages a kind of alienation from any specific place or culture
   
@@ -2127,9 +2148,291 @@ this
 
 
 
+* Genetically Modified Food
+** Ethical Justification                                          :noexport:
+  :PROPERTIES:
+  :CUSTOM_ID: ethical-justification
+  :END:
 
-* Food & Identity
+Relies on two things:
 
+-  Empirical facts
+-  Ethical norms
+
+** What are GM Foods?
+#+ATTR_REVEAL: :frag (appear)
+#+BEGIN_QUOTE
+ Genetically modified (GM) food derives from microorganisms, plants, or
+ animals manipulated at the molecular level to have traits that farmers or
+ consumers desire. These foods often have been produced using techniques
+ in which “foreign” genes are inserted into the microorganisms, plants, or
+ animals. Foreign genes are genes taken from sources other than the
+ organism’s natural parents. In other words, genetically modified plants
+ contain genes they would not have contained if researchers had only used
+ traditional plant-breeding methods. (Comstock, 122)
+#+END_QUOTE
+
+***  When given the choice, would you prefer non GM food?
+
+A. Yes \\
+B. No
+
+
+** Two Questions
+  :PROPERTIES:
+  :CUSTOM_ID: two-questions
+  :END:
+#+ATTR_REVEAL: :frag (appear)
+1. Is it ethically justifiable to pursue genetically modified crops and
+   foods?
+2. Should the law allow GM foods to be grown and marketed?
+
+** The Method - Five Questions
+  :PROPERTIES:
+  :CUSTOM_ID: the-method---five-questions
+  :END:
+#+ATTR_REVEAL: :frag (appear)
+1. What is the harm envisaged?
+2. What information do we have?
+3. What are the options?
+4. What ethical principles should guide us?
+  #+ATTR_REVEAL: :frag (appear) 
+   -  Utilitarianism
+   -  Rights theory (Kantianism)
+   -  Virtue theory
+5. How do we reach moral closure?
+
+** Two Kinds of Objection
+  :PROPERTIES:
+  :CUSTOM_ID: two-kinds-of-objection
+  :END:
+#+ATTR_REVEAL: :frag (appear)
+- Extrinsic objections
+ #+ATTR_REVEAL: :frag (appear)
+  - Hold that GM technology should not be pursued because of its anticipated results
+    - May harm animals, humans, and ecosystems
+      #+ATTR_REVEAL: :frag (appear)
+      - But we can't determine whether these harms will occur without
+        research and testing, which requires pursuing the creation of GM foods
+        
+#+BEGIN_NOTES
+- Extrinsic objections aren't sufficient for (permanent) moratorium
+#+END_NOTES
+         
+#+REVEAL: split
+-  Intrinsic objections
+   #+ATTR_REVEAL: :frag (appear)
+   -  Allege that GM foods are objectionable in and of themselves
+   -  All forms of the objection revolve around "unnaturalness"
+
+** The Unnaturalness Objection
+   :PROPERTIES:
+   :CUSTOM_ID: the-unnaturalness-objection
+   :END:
+#+ATTR_REVEAL: :frag (appear)
+-  UE: :: It is unnatural to genetically engineer plants, animals, and
+   foods
+   
+#+BEGIN_NOTES
+- Comstock considers 4 defenses of UE
+#+END_NOTES
+
+*** 1. To engage in agricultural biotech is to play God
+#+ATTR_REVEAL: :frag (appear)
+ - Religious objections aren't enough since not all religions agree
+   concerning the badness of "playing God"
+ - Do religious objections even belong in public policy
+   deliberations?
+*** 2. To engage in agricultural biotech is to invent world-changing technology
+#+ATTR_REVEAL: :frag (appear)
+  - It gives us power not previously had, but this isn't enough to
+    show that it's wrong (compare other technologies)
+  - What about unintended consequences? Perhaps GM foods are more
+    likely to have them than other kinds of inventions
+*** 3. To engage in agricultural biotech is illegitimately to cross species boundaries
+#+ATTR_REVEAL: :frag (appear)
+  - Scientifically indefensible
+  - Not obviously offensive to religion
+*** 4. To engage in agricultural biotech is to commodify life
+#+ATTR_REVEAL: :frag (appear)
+  - Not a sufficient objection, since we already commodify life, whether
+    or not it is genetically modified
+
+** Being Careful With GM Foods - Why Do We Do It?
+  :PROPERTIES:
+  :CUSTOM_ID: being-careful-with-gm-foods---why-do-we-do-it
+  :END:
+  
+#+ATTR_REVEAL: :frag (appear)
+- Two reasons explaining why we're cautious about GM foods
+    #+ATTR_REVEAL: :frag (appear)
+  - "Negative Information"
+  - The "Precautionary Principle"
+
+*** The Problem of "Negative Information"
+   :PROPERTIES:
+   :CUSTOM_ID: the-problem-of-negative-information
+   :END:
+
+#+ATTR_REVEAL: :frag (appear)
+#+BEGIN_QUOTE
+  When faced with two contrasting opinions about issues related to food
+  safety, consumers place great emphasis on negative information. The
+  precautionary response is particularly strong when a consumer sees
+  little to gain from a new food technology. When a given food is
+  plentiful, it is rational to place extra weight on negative
+  information about any particular piece of that food. It is rational to
+  do so...even when the source of the negative information is known to
+  be biased (491)
+#+END_QUOTE
+
+#+REVEAL: split
+#+ATTR_REVEAL: :frag (appear)
+1. We have nothing to gain from trying new food
+2. "Food tainting": Under conditions of food plenty, rational consumers
+   do and should take precautions, avoiding tainted food no matter how
+   untrustworthy the tainted (491)
+
+#+BEGIN_NOTES
+-  how is it rational to heed untrustworthy evidence?
+-  Do we want to avoid conditions of negative information?
+-  What exactly is the problem with negative information? It
+   doesn't show that GM food is good for consumption but not eaten.
+-  our naivete is a problem for us
+#+END_NOTES
+
+*** The Precautionary Principle
+   :PROPERTIES:
+   :CUSTOM_ID: the-precautionary-principle
+   :END:
+#+ATTR_REVEAL: :frag (appear)
+#+BEGIN_QUOTE
+ as mad cow disease grips the European imagination, concerned observers
+ transfer fears to genetically modified foods, advising: “Take
+ precaution!” Is this a valuable observation that can guide specific
+ public-policy decisions? Or is it well-intentioned but ultimately
+ unhelpful advice? (Comstock, 135)
+#+END_QUOTE
+
+#+REVEAL: split
+The precautionary principle commits us to each of the following
+propositions:
+
+#+ATTR_REVEAL: :frag (appear)
+1) We must not develop GM crops. (because they may lead to environmental
+   degradation)
+2) We must develop GM crops. (because they provide the best chance at
+   food production under harsh conditions)
+
+#+ATTR_REVEAL: :frag (appear)
+Since (1) and (2) are contradictory, we need an explanation of why the
+principle isn't incoherent, given it that its implications are
+
+** Religious Objections
+  :PROPERTIES:
+  :CUSTOM_ID: religious-objections
+  :END:
+#+ATTR_REVEAL: :frag (appear)
+-  The use of GM food may be rejected on religious grounds
+-  While religious objections should be tolerated and respected
+   #+ATTR_REVEAL: :frag (appear)
+   -  they cannot trump other religions (no discrimination)
+   -  they cannot cause harm (the overridingness of ethical
+      considerations)
+
+** Minority Objections
+  :PROPERTIES:
+  :CUSTOM_ID: minority-objections
+  :END:
+#+ATTR_REVEAL: :frag (appear)
+-  Minority views should be respected/tolerated
+-  Cannot trump majority view if this leads to harms or a failure to
+   optimize a state of affairs (other things being equal)
+   #+ATTR_REVEAL: :frag (appear)
+   -  Exception if other things are /not/ equal
+      #+ATTR_REVEAL: :frag (appear)
+      -  e.g. Minority has a history of being subjugated or exploited
+
+#+BEGIN_NOTES
+- perhaps reparations should not include decisions to use/not use GM foods
+#+END_NOTES
+
+
+
+
+* Functional Foods
+  :PROPERTIES:
+  :CUSTOM_ID: functional-foods
+  :END:
+
+-  Functional Food: :: a food-based product that provides a demonstrable
+     physiological benefit beyond its dietary or nutritional value.
+     
+#+BEGIN_NOTES
+- Different countries treat functional foods differently
+#+END_NOTES
+     
+** Problems
+   :PROPERTIES:
+   :CUSTOM_ID: problems
+   :END:
+
+*** Efficacy
+    :PROPERTIES:
+    :CUSTOM_ID: efficacy
+    :END:
+#+ATTR_REVEAL: :frag (appear)
+1. They don't work very well
+2. When they do work, their health & nutritional benefits are lees
+   significant than their advocates would have us believe
+   #+ATTR_REVEAL: :frag (appear)
+   -  However, functional foods present simple and effective ways of
+      addressing the effects of otherwise significant and complex
+      underlying problems
+
+
+*** Food as Medicine
+    :PROPERTIES:
+    :CUSTOM_ID: food-as-medicine
+    :END:
+#+ATTR_REVEAL: :frag (appear)
+1. Functional Foods blur the line between food and medicine
+2. Very poor regulatory oversight for food as compared to medicine (502)
+3. The current burden of proof placed on the consumer to demonstrate a
+   product is unsafe is unfair and unreasonable
+
+*** The Role of the Market
+    :PROPERTIES:
+    :CUSTOM_ID: the-role-of-the-market
+    :END:
+#+ATTR_REVEAL: :frag (appear)
+1. It is in the interest of the food market to make us eat more than we
+   need
+2. It is in the interest of the food market to fortify or otherwise
+   process food to add value for which it can charge higher prices
+   #+ATTR_REVEAL: :frag (appear)
+   -  fortified OJ, rice, etc.
+   -  markets and the interests of public health are compatible so long
+      as no greater harms are inflicted, capacities diminished, or
+      rights abused
+
+#+REVEAL: split
+3. Market mechanisms are "fickle"
+   #+ATTR_REVEAL: :frag (appear)
+   -  markets are not designed to solve health problems
+      #+ATTR_REVEAL: :frag (appear)
+      -  the interests of the market do not coincide with public health
+         interests
+
+#+REVEAL: split
+#+BEGIN_QUOTE
+  commercial interests have the potential to transform how we eat and
+  how we care for ourselves, yet the very future of food is in the hands
+  of those who may not have our best interests in mind. That may be the
+  most important thing wrong with functional foods. (185)
+#+END_QUOTE
+
+* The Aesthetics of Food
 * Final Exam
 
 
@@ -2217,6 +2520,27 @@ D. A fungible good or service
 
     A. True 
     B. False     
+
+** Week 13 - Food Justice
+1. 
+** Week 14 - GMOs and Functional Foods
+1. What is the definition of a functional food in the USA?
+
+#+BEGIN_QUOTE
+A. Anything with vitamins and nutrients  
+B. There is no definition of a functional food in the USA
+C. A food supplement
+D. Anything with added ingredients aimed at providing a specific health effect
+#+END_QUOTE
+
+2. The FDA must demonstrate that a product is unsafe for a product to be pulled from the market
+   
+#+BEGIN_QUOTE
+A. True  
+B. False
+#+END_QUOTE
+
+3. 
 
 * Clicker Questions
 ** Logic & Argument
@@ -2379,7 +2703,7 @@ B. False
 #+REVEAL_HEAD_PREAMBLE: <meta name="description" content="PHIL 105 Slides">
 #+REVEAL_POSTAMBLE: <p> Created by Colin McLear. </p>
 #+REVEAL_PLUGINS: (markdown notes highlight)
-#+REVEAL_EXTRA_CSS: /Users/Roambot/projects/phil101/content/slides/local.css
+#+REVEAL_EXTRA_CSS: /Users/Roambot/Dropbox/Work/projects/phil101/content/slides/local.css
 #+EXCLUDE_TAGS: noexport
 
 # #+OPTIONS: toc:1 reveal_slide_number:c/t 
