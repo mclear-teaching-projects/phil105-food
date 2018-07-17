@@ -912,11 +912,11 @@ This formative assessment is typically completed by students in the last 10 minu
 #+PANDOC_METADATA: noindent: parskip:.85em
 #+PANDOC_OPTIONS: template:~/.pandoc/pandoc-templates/tufteII.tex
 #+PANDOC_OPTIONS: standalone:t pdf-engine:xelatex  
-#+BIBLIOGRAPHY: ~/Dropbox/Work/Master.bib
+#+BIBLIOGRAPHY: ~/Dropbox/Work/Master.bib​
 
-
-** COMMENT Local Variables                                                    :ARCHIVE:
+* COMMENT Local Variables                          :ARCHIVE:
 # Local Variables:
 # eval: (add-hook 'after-save-hook #'org-hugo-export-wim-to-md-after-save :append :local)
-# eval: (setq org-export-initial-scope 'subtree)
 # End:
+
+
