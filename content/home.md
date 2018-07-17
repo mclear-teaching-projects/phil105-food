@@ -36,4 +36,9 @@ questions we shall pursue include:
 
 The course syllabus is available here: [PDF](/materials/phil105-syllabus.pdf) | [HTML](/materials/phil105-syllabus.html)
 
+Much of our discussion focuses on the modern industrial food system. For a
+sense of the scale of such operations you might look at this [New York Times
+Magazine
+article](<https://www.nytimes.com/interactive/2016/10/09/magazine/big-food-photo-essay.html>).
+
 All course materials are on the course website on [canvas](https://canvas.unl.edu/courses/49195).
