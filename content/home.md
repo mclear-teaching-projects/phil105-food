@@ -5,7 +5,7 @@ author = false
 toc = false
 +++
 
-This is the homepage for **PHIL 105** -- The Philosophy of Food.
+This is the local landing page for **PHIL 105** -- The Philosophy of Food.
 
 Food is a central part of human life, both in its production and consumption.
 Food is closely tied to the values that we hold, and the cultural identities
@@ -35,3 +35,5 @@ questions we shall pursue include:
     such identities?
 
 The course syllabus is available here: [PDF](/materials/phil105-syllabus.pdf) | [HTML](/materials/phil105-syllabus.html)
+
+All course materials are on the course website on [canvas](https://canvas.unl.edu/courses/49195).
