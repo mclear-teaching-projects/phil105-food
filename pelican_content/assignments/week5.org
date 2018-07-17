@@ -1,0 +1,28 @@
+#+TITLE: Week 5 - Food Policy & Industrial Meat
+#+DATE: February 5, 2018
+#+SLUG: week5-nestleII
+#+TAGS: food policy, politics, industrial food system, industrial meat
+ 
+------
+
+This week we finish our discussion of government food policy and industry
+influence. We will also start discussing the issue of eating animals. Is it
+morally ok to eat meat? Even if it /is/ ok, are the ways in which we as a modern
+society produce meat that are not ok?
+
+- Slides from [[file:{filename}/slides/week5_politics.pdf][Tuesday]] and [[file:{filename}/slides/week5_lobster.pdf][Thursday]]
+
+** Class 8 (2/6)
+- READ: 
+  - Nestle, Food Politics, Ch. 7
+  - David Foster Wallace, “[[file:{filename}/readings/wallace_lobster.pdf][Consider the Lobster]]”
+
+** Class 9 (2/9)
+- Ethics of eating animals
+  - Jonathan Safran Foer, Eating Animals, “Storytelling” (JSF 3-16) & “All or Nothing or Something Else” (JSF 21-41)
+  - Bittman, "[[https://opinionator.blogs.nytimes.com/2011/03/15/some-animals-are-more-equal-than-others/?_r=0][Some Animals Are More Equal Than Others]]"
+    
+** Links
+- [[http://www.businessinsider.com/shucks-maine-lobster-processing-facility-tour-2013-9?op=1/#e-processing-facility-is-located-inside-what-used-to-be-a-golf-shoe-factory-2][Depersonalizing the lobster killing process]]
+- VIDEO: [[https://youtu.be/4jgfyd6M-I0][Dismembering live lobsters & crabs]]
+  

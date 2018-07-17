@@ -1,0 +1,23 @@
+#+TITLE: Resources
+
+-----
+
+* Reading & Writing Philosophy
+- [[http://www.jimpryor.net][Jim Pryor's]] guides to [[http://www.jimpryor.net/teaching/guidelines/reading.html][reading]] and [[http://www.jimpryor.net/teaching/guidelines/writing.html][writing]] philosophy
+- [[http://owl.english.purdue.edu/owl/][Purdue Online Writing Lab]] 
+- [[http://writingproject.fas.harvard.edu/files/hwp/files/philosophical_writing.pdf][A Guide to Philosophical Writing]]
+- [[https://www.dropbox.com/s/lyods0bt22x8u6l/ThesisOverview.pdf?dl=0][Writing a Thesis Statement]]
+- [[https://www.dropbox.com/s/eaggc570nfu6nqa/PaperStructure.pdf?dl=0][Philosophy Paper Structure]]
+
+* Philosophical Concepts & Background
+- [[http://philosophy.hku.hk/think/][Critical Thinking]]
+- [[http://plato.stanford.edu][Stanford Encyclopedia of Philosophy]]
+- [[http://www.iep.utm.edu/][Internet Encyclopedia of Philosophy]]
+- [[http://www.jimpryor.net/teaching/vocab/index.html][Philosophical Terms & Methods]]
+  
+* Other Materials
+- [[https://its.unl.edu/downloads/srs/Register%20your%20iClicker%20in%20Canvas..pdf][iClicker registration]]
+- [[https://community.macmillan.com/docs/DOC-7294-create-a-reef-account-and-register-an-iclicker-remote][Reef iClicker registration]]
+
+
+

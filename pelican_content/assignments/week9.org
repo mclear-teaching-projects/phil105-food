@@ -1,0 +1,38 @@
+#+TITLE: Week 9 - Deontology Applied
+#+DATE: March 5, 2018
+#+SLUG: week9-deontology-applied
+#+TAGS: kant, moral theory, deontology, vegetarianism, industrial meat, animal rights
+ 
+------
+
+Last week we discussed a moral framework called "deontology" and one of its
+more famous formulations in the work of German philosopher Immanuel Kant. This
+week we look at an application of the deontological theory to animals in a way
+that Kant would not obviously have endorsed. This is the notion of animal
+rights. We'll then go on (on Thursday) to look at whether there is a
+straightforward and successful moral argument to be vegetarian.
+
+You can see some discussion of current work for animal rights [[https://www.nonhumanrights.org][here]] and
+discussion of a current project devoted to fighting for the legal rights of
+chimpanzees [[http://dailynous.com/2018/03/05/philosophers-help-fight-chimpanzee-personhood/][here]]. 
+
+You can find the slides discussing Regan's position [[file:{filename}/slides/week9_rights.pdf][here]].
+
+The slides discussing the basic argument for moral vegetarianism are [[file:{filename}/slides/week9_basic_argument.pdf][here]].
+
+** Class 15 (3/6)
+- Deontology applied
+  - Tom Regan, "[[file:{filename}/readings/regan_animal_rights.pdf][The Radical Egalitarian Case for Animal Rights]]"  
+  - Mary Anne Warren, "[[file:{filename}/readings/warren_critique.pdf][A Critique of Regan’s Animal Rights Theory]]" 
+
+** Class 16 (3/8)
+- Moral vegetarianism
+  - James Rachels, "[[file:{filename}/readings/rachels_vegetarianism.pdf][The Basic Argument for Vegetarianism]]"
+  - Timothy Hsiao, "[[file:{filename}/readings/hsiao_defense_meat.pdf][In Defense of Eating Meat]]"
+
+
+** Reading Questions
+ - What is, according to Regan, the basis for having inherent value?
+ - What, according to Regan, is wrong with Utilitarianism?
+ - Why is the basic argument for vegetarianism "basic"?
+ - How does Hsiao object to Rachel's "basic argument"?

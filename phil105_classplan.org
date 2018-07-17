@@ -1,8 +1,388 @@
 #+TITLE: PHIL 105 Class Plan 
-#+DATE: Spring 2017
+#+DATE: Fall 2018
+#+AUTHOR: Colin McLear
+#+OPTIONS: num:nil
+#+OPTIONS: ':t
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport archive nohugo
+#+TODO: DRAFT | DONE CANCELED
+#+TODO: TODO | DONE CANCELED
+#+LANGUAGE: en
 
-* Week 1
-** Class 1 (1/10)
+* Notes
+These are notes to supplement student reading. Their aim is to be introductory
+and to raise questions for discussion. 
+
+* Course Outline
+** Week 1 - What is food?
+This week we'll talk about the content of the course and start trying to
+define its subject matter -- food. What is food anyway? Is it anything we can
+eat? Anything we can digest? Something else entirely? 
+
+*** Class 1 (8/21)
+- Overview of the course
+- What is food? - How do we answer this question?
+  - READ: Scherer, [[http://firstwefeast.com/eat/2015/04/philosophy-of-meat-bread][What is a sandwich?]]
+
+*** Class 2 (8/23)
+- Giving a definition (defining a thing or its concept)
+  - READ: [[file:{filename}/readings/definition.pdf][Definitions, Category Mistakes, Necessary & Sufficient Conditions, Essence & Accident]]
+- What is it to be a member of a kind?
+  - READ: [[file:{filename}/readings/counterexamples.pdf][Criteria & Counterexamples]]
+- What is it for something to be a "natural" or a "social" kind?
+
+     
+*** Reading Questions
+- What are necessary and sufficient conditions?
+- What is a socially constructed kind?
+- What is a natural kind?
+      
+
+
+** Week 2 - The social construction of food
+This week we continue our discussion of what counts as "food". We'll look in
+particular at the notion of a social kind, and relatedly, a "socially
+constructed" concept. We'll also discuss cannibilism and the cultural norms
+that surround the consumption of food. 
+
+*** Class 3 (8/28)
+- What is a "social kind"?
+  - READ: Haslanger, [[file:{filename}/readings/haslanger_ch2.pdf][excerpt from ch.2 (§2) of /Resisting Reality/ ]]
+  - What is "social construction"?
+    - what examples can we think of that are socially constructed kinds?
+- READ: Pollan, [[http://www.nytimes.com/2007/01/28/magazine/28nutritionism.t.html][Unhappy Meals]]
+
+*** Class 4 (8/30)
+  
+- Food as nutritional calories vs. food as social kind
+  - What is a "nutrient"?
+- Against Nutritionism
+  - Are there edible nutritional vehicles that we wouldn't count as food? (sufficient conditions)
+    - READ: [[http://gawker.com/5985723/can-you-eat-your-own-poop?tag=Food][Can you eat your own poop?]]
+  - Are there foods that aren't nutritional? (necessary conditions)
+  - READ: Pollan, chs 1-2 of /In Defense of Food/
+   
+
+*** Reading Questions
+- How might "food" be a socially constructed kind?
+- Is "meat" a similar social construction?
+- What does Pollan mean by saying that some foods aren't food?
+- Can people be food?
+
+** Week 3 - The industrial food system
+This week we'll discuss Michael Pollan's book /The Omnivore's Dilemma/. We'll
+look at the various factors that contribute to the final food products that we
+consume from restaurants and grocery stores, with a special eye to corn
+production. 
+
+The slides for this week can be found [[file:{filename}/slides/week3_food_system.pdf][here]].
+
+*** Class 5 (9/4)
+- Overview of the food system, with a focus on corn
+  - READ: Michael Pollan, /Omnivore’s Dilemma/, chapters 1-4
+  - READ: [[https://www.washingtonpost.com/lifestyle/food/in-defense-of-corn-the-worlds-most-important-food-crop/2015/07/12/78d86530-25a8-11e5-b77f-eb13a215f593_story.html][In defense of corn]]
+    
+  
+*** Class 6 (9/6)
+- Overview continued 
+  - READ: /Omnivore's Dilemma/, chapters 5-7
+    
+*** Reading Questions
+- What does Pollan consider to be "industrial food"?
+- Why is corn central to industrial agriculture in the US?
+- Pollan calls corn the "protocapitalist plant"; what does he mean by this?
+- What is "monoculture" farming?
+- What invention does Pollan point to as the origin of industrial agriculture?
+  
+** Week 4 - Industrial meat production
+This week we continue our introduction to the ethics of eating with a look at
+the way in which the industrial food system produces poultry (chicken in
+particular) both for consumption and egg production. We'll also start to
+discuss the different moral frameworks we might use in evaluating the moral
+status of animals and the issue of killing them for food.
+
+*** Class 7 (9/11)
+- READ: JSF, "Words/Meaning" (44-77), "Hiding/Seeking" (81-9) & "The life and death of a bird" (129-37)
+- READ: Bittman, "[[https://opinionator.blogs.nytimes.com/2011/03/15/some-animals-are-more-equal-than-others/?_r=0][Some Animals Are More Equal Than Others]]"
+
+*** Class 8 (9/13)
+- WATCH: [[http://www.huffingtonpost.com/2009/09/01/chicks-being-ground-up-al_n_273652.html][Poultry & Egg Industry]] (warning: graphic content)
+- WATCH: [[https://www.youtube.com/watch?v=lO5TikjZU3c][Catching chickens]]
+
+*** Reading Questions
+- Are the conditions under which chickens are raised in industrial farms cruel?
+- What is anthropocentrism? What is anthropomorphism?
+- Is it overly sentimental, or perhaps an anthropomorphic mistake, to worry
+  about the suffering of an animal raised for food?
+  
+
+** Week 5 - The ethics of eating
+Is it morally ok to eat meat? Even if it /is/ ok, are the ways in which modern industrial societies produce meat that are not ok?
+
+*** Class 9 (9/18)
+- READ: David Foster Wallace, “[[file:{filename}/readings/wallace_lobster.pdf][Consider the Lobster]]”
+- READ: [[http://www.businessinsider.com/shucks-maine-lobster-processing-facility-tour-2013-9?op=1/#e-processing-facility-is-located-inside-what-used-to-be-a-golf-shoe-factory-2][Depersonalizing the lobster killing process]]
+- WATCH: [[https://youtu.be/4jgfyd6M-I0][Dismembering live lobsters & crabs]]
+- OPTIONAL: [[https://www.usatoday.com/story/news/world/2018/02/16/new-swiss-law-pain-free-deaths-lobsters-flushing-goldfish-down-toilet-breaking-law-according-new-swi/341412002/][Switzerland bans boiling of lobsters]]
+
+*** Class 10 (9/20)
+- WATCH (optional): Twilight Zone, [[https://www.youtube.com/watch?v=BEy9Z44GXyc][To Serve Man]]
+- WATCH: [[https://www.youtube.com/watch?v=3HAMk_ZYO7g][Is it Ok to Kill Animals for Food?]]
+
+    
+*** Reading Questions
+- How much does the intelligence of an animal matter when considering the
+  ethics of killing it for food?
+- Is it morally ok to eat a human for food? If not, then why is it ok to eat a
+  non-human animal for food?
+
+** Week 6 - Ethical frameworks I
+This week we discuss a particular moral framework---Consequentialism---and its
+application to the question of the moral permissibility of killing animals for
+food. 
+
+*** Class 11 (9/25)
+- Introducing ethical theories
+- Consequentialism
+  - READ: James Rachels, [[file:{filename}/readings/rachels_consequentialism.pdf][Elements of Moral Philosophy, ch. 7]]
+- WATCH: [[https://www.youtube.com/watch?v=hACdhD_kes8][Consequentialism]]  
+- WATCH: Utilitarianism: [[https://www.youtube.com/watch?v=uvmz5E75ZIA][Part 1]], [[https://www.youtube.com/watch?v=uGDk23Q0S9E][Part 2]], & [[https://www.youtube.com/watch?v=MoCuVa9UeR4][Part 3]]
+
+*** Class 12 (9/27)
+- Consequentialism applied
+  - READ: Alastair Norcross, [[file:{filename}/readings/norcross_applied_consequentialism.pdf]["Puppies, Pigs and People"]]
+
+*** Reading Questions
+- What is consequentialism?
+- What is utilitarianism?
+- What is the relationship between consequentialism and utilitarianism?
+- What does utilitarianism consider to be of value?
+- How might the moral status of the act of killing an animal for food be
+  understood by the utilitarian?
+
+** Week 7 - Ethical frameworks II
+
+We continue our discussion of consequentialism and deontology this week. We
+look first at a utilitarian critique of Pollan's defense of eating meat. We
+then turn to discussing deontology proper. Deontological moral theories construe
+the goodness of moral acts in terms of their adherence to strict moral
+principles or laws.  
+
+*** Class 13 (10/2)
+- Singer, "[[file:{filename}/readings/singer_eating_meat.pdf][The Ethics of Eating Meat]]"
+- Ethics of eating animals
+  - Pollan, /Omnivore's Dilemma/, ch. 17 "The Ethics of Eating Animals"
+    
+
+*** Class 14 (10/4)
+- Tom Regan, "[[file:{filename}/readings/regan_animal_rights.pdf][The Radical Egalitarian Case for Animal Rights]]"  
+- Mary Anne Warren, "[[file:{filename}/readings/warren_critique.pdf][A Critique of Regan’s Animal Rights Theory]]" 
+- WATCH: [[http://www.wi-phi.com/video/moral-status][Moral Status]]
+- WATCH: [[https://www.youtube.com/watch?v=-Go45PUjtL8][Chignell on Kant's "Non-Consequentialism"]]
+
+*** Reading Questions
+- What's the difference between animal welfare and animal rights?
+- What is "speciesism"?
+- What is Pollan's reply to the argument from marginal cases?
+- What criticisms of vegetarianism does Pollan offer?
+- What is Pollan's defense of predation?
+- What does it mean to have "moral status"?
+- What is, according to Regan, the basis for having inherent value?
+- What, according to Regan, is wrong with utilitarianism?
+
+** Week 8 - Review & Midterm
+We'll review for the mid-term, which takes place /in class/ on Thursday.
+
+*** Class 15 (10/9)
+- Review for Midterm
+  - Come with questions prepared!
+
+*** Midterm Exam (10/11)
+- No need to bring green books!
+
+** Week 9 - Food politics
+This week we'll start looking at the way food policy works in the United
+States. In particular, we'll discuss the relationship between the US Department
+of Agriculture and large corporations involved in the production of food. 
+
+*** Fall Break - No class! (10/16)
+- WATCH: Nestle, [[https://www.youtube.com/watch?v=TibndsX9g3c][Food and Politics with Marion Nestle]]
+
+*** Class 17 (10/18)
+- READ: Nestle, /Food Politics/ Introduction & chs. 4-6
+
+** Week 10 - Ethical implications of food technology
+This week we finish our discussion of government food policy and industry
+influence. we discuss the various issues surrounding production and
+consumption of genetically modified and "functional" foods.
+
+*** Class 18 (10/23)
+- READ: Nestle, Food Politics, Chs. 13-14
+- READ: David Kaplan, "[[file:{filename}/readings/kaplan_functional.pdf][What's Wrong with Functional Foods?]]"
+
+*** Class 19 (10/25)
+- READ: David Kaplan, "[[file:{filename}/readings/kaplan_functional.pdf][What's Wrong with Genetically Modified Food?]]"
+
+*** Reading Questions
+- What is it for a food or plant to be "genetically modified"?
+- What is it for a food to be "functional"?
+- Why might one think that GM food is "unnatural"?
+
+** Week 11 - Food security & famine
+This week we discuss issues surrounding famine, affluence, and politics. 
+
+*** Class 20 (10/30)
+- READ: [[https://en.wikipedia.org/wiki/1970_Bhola_cyclone][Background on the 1971 Bangladesh Famine]]
+- READ: Peter Singer, "[[file:{filename}/readings/singer_famine.pdf][Famine, Affluence, and Morality]]"
+
+*** Class 21 (11/1)
+- READ: Hardin, "[[file:{filename}/readings/hardin_lifeboat.pdf][Lifeboat Ethics]]"
+- READ: Murdoch and Oaten, "[[file:{filename}/readings/murdoch_population.pdf][Population and Food]]"
+
+  
+*** Reading Questions
+- What does Singer think we are morally obliged to do if we live in a
+  wealthy/industrially developed country?
+- Is Singer's conception of what is morally required too demanding?
+- What does Hardin mean when referring to "lifeboat" ethics?
+- Why do Murdoch & Oaten think that Hardin's position is simplistic and misleading?
+
+** Week 12 - Sustainability
+*** Class 22 (11/6)
+- READ: Pollan, sec II (TODO: figure out distribution of chapters)
+- WATCH: [[https://www.youtube.com/watch?v=cqbOU07ZI2k][Salatin on Sustainable Farming]] (warning: somewhat graphic)
+- WATCH: [[https://www.youtube.com/watch?v=gAHGbbjenhI][Pollan on Salatin & Sustainable Farming]]
+- OPTIONAL: [[http://tclocal.org/2009/06/can_new_york_state_feed_itself.html][Can New York State Feed Itself?]]
+- OPTIONAL: [[http://www.farmlandlp.com/2012/01/one-acre-feeds-a-person/][One Acre Feeds a Person]]
+- Welin, Gold, & Berlin, "[[file:{filename}/readings/welin_in_vitro_meat.pdf][In Vitro Meat]]"
+- (OPTIONAL): [[http://www.slate.com/articles/technology/future_tense/2015/09/in_vitro_meat_probably_won_t_save_the_planet_yet.html][The Problem with Factory Meat]]  
+  
+*** Class 23 (11/8)
+
+** Week 13 - Geography & identity
+*** Class 24 (11/13)
+- LISTEN: [[https://soundcloud.com/bioneers/going-locavore-michael-pollan-oran-hesterman-james-ella-james-and-victoria-carter][Going locavore]]
+- LISTEN: [[http://www.npr.org/templates/transcript/transcript.php?storyId=502169763][Bittman on being a locavore and the changing food industry]]
+- READ: Anderson, [[https://www.dissentmagazine.org/article/limits-of-the-locavore][Limits of the Locavore]]
+
+*** Class 25 (11/15)
+- Heldke, "[[file:{filename}/readings/heldke_globalism.pdf][Down-Home Global Cooking]]" 
+- Mares & Peña, "[[file:{filename}/readings/mares_food_justice.pdf][Environmental and Food Justice]]" 
+- [[http://www.slowfood.com/about-us/][Slow Food]]
+- [[file:{filename}/slides/week13_food_justice.pdf][Slides]]
+
+*** Reading Questions
+- What are "slow" or "deep" food systems?
+- What advantage might there be to having a purely "local" food system?
+  How local is "local"?
+- What does Heldke mean by "food cosmopolitanism"?
+- What is the intermediate position that Heldke advocates between
+  cosmopolitanism and localism?
+- How might localism be "elitist"?
+
+  
+** Week 14 - The Aesthetics of Food
+
+For our last discussion unit we look at the aesthetics of food. Can food be
+art? Can it be beautiful or ugly? To answer such questions we need to know a
+bit more about what it is to be an artwork, or beautiful, or ugly. 
+
+*** TODO Class 26 (11/20)
+- WATCH: [[https://www.youtube.com/watch?v=NZ5duzln2wI][Aesthetic appreciation]] 
+
+*** Thanksgiving Break - No Class (11/22)
+
+** Week 15 - Aesthetics & Elitism
+
+Last week we talked about general issues in understanding art works. This week
+we discuss the issue of food in particular, and obstacles for thinking of it
+as having genuine artistic value. Maybe food is just a matter of taste? We'll
+also discuss some of the ways in which pursuit of food as an aesthetic object
+might be good or bad. 
+
+*** TODO Class 28 (11/27)
+- READ: Kevin Sweeney, Can a Soup be Beautiful?
+
+*** TODO Class 29 (11/30)
+- READ: Maltz Bovy, [[https://newrepublic.com/article/121374/foodie-elitism-are-mark-bittman-and-michael-pollan-elitist][Foodie Elitism]]
+- READ: Chris Newman on [[https://shift.newco.co/clean-food-if-you-want-to-save-the-world-get-over-yourself-8ae9e01cc7ea][food elitism]]
+- READ: Eric Schlosser, [[https://www.washingtonpost.com/opinions/why-being-a-foodie-isnt-elitist/2011/04/27/AFeWsnFF_story.html][Why being a foodie isn't 'elitist']]
+# - READ: Susan Wolf, The Ethics of Being a Foodie
+
+** Week 16 - In-class essay
+
+*** In-class Essay (12/4)
+- Please bring a green book 
+
+*** No Class (12/6)
+# - Seth and I will have extended office hours for anyone who wants to discuss
+#   their preparations for the essay exercise on Thursday 
+
+ 
+* Grades
+* Website
+** Pages
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: ./
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :author false :toc false
+:END:
+#+LANGUAGE: en
+#+OPTIONS: ':t
+
+*** Welcome!
+:PROPERTIES:
+:EXPORT_FILE_NAME: home
+:END:
+
+This is the homepage for *PHIL 105* -- The Philosophy of Food.
+
+Food is a central part of human life, both in its production and consumption.
+Food is closely tied to the values that we hold, and the cultural identities
+that we endorse (e.g. the sorts of things that we eat vs. the sorts of things
+that they eat). Our choices about food, both as individuals and as a society
+raise a variety of moral, political, and economic questions. Some of the
+questions we shall pursue include:
+
+- What is food? Not everything we eat we can digest. Moreover, some of the
+  things we could eat and digest (such as other people), we don’t. Why not? Is
+  the concept of "food" one that is at least to some extent dependent on our
+  social practices?
+
+- What are the major economic and political structures governing food
+  production and comsumption in the United States and other western countries?
+  How do these structures impact developing countries?
+
+- What are the environmental and social consequences of various sorts of
+  eating habits? For example, do food choices contribute to environmental
+  degradation and social injustice?
+
+- How should we treat the animals we eat? Do we have ethical obligations to
+  treat them in particular ways?
+
+- In what ways does food connect to religious and cultural identities? To what
+  extent can a society legislate for or against food practices that impinge on
+  such identities?
+
+The course syllabus is available here: [[file:/materials/phil105-syllabus.pdf][PDF]] | [[file:/materials/phil105-syllabus.html][HTML]]
+
+*** Contact
+:PROPERTIES:
+:EXPORT_FILE_NAME: contact
+:EXPORT_HUGO_MENU: :menu main
+:END:
+
+Dr. Colin McLear\\
+Office: 1003 Oldfather Hall\\
+Office Hours: T 1:00-3:20 and by appointment\\
+Email: [[mailto:mclear@unl.edu][mclear@unl.edu]]
+
+Email is the best way to reach me. I answer emails as soon as I can, but
+primarily only on /weekdays/. 
+
+
+* Archive                                                                       :noexport:
+** Week 1
+*** Class 1 (1/10)
 - Questions for students (think/share? or write down?)
   - What is one thing you want to learn in this class?
   - What is one food you love to eat?
@@ -22,8 +402,8 @@
       8. Hydrogen
       9. Lawyer
     - What is it for something to be a "natural" kind?
-** Class 2 (1/12)
-*** Definition
+*** Class 2 (1/12)
+**** Definition
   #+BEGIN_QUOTE
     the reason why it is important to lay out clear definitions for difficult
     or contentious concepts is that any conclusions you reach properly apply
@@ -40,10 +420,27 @@
     - If one’s definition is too narrow or idiosyncratic, it may be that one’s findings cannot be applied as broadly as could be hoped.
     - If, on the other hand, a definition is too broad, it may lead to equally erroneous or misleading conclusions.
 
-*** Necessary & sufficient  conditions
+**** Necessary & sufficient  conditions
 - Necessary conditions :: what is /required/ for something to be the case.
 - Sufficient conditions :: what is /enough/ for something to be the case.
-*** Social Construction
+**** Group work
+- Try and specify a necessary feature of X; Is there a sufficient feature?
+  1. water
+  2. human being
+  3. funny
+  4. planet
+  5. person
+  6. gold
+  7. cool (not the temperature)
+  8. bachelor
+  9. president of the USA
+  10. superbowl (the game)
+
+- Give an example of a natural kind & a social kind
+  - say why each is each
+  - is the social kind causal or constitutive? Why?
+  
+**** Social Construction
 - Generic social construction :: Something is a social construction in the generic sense just in case it is an intended or unintended product of a social practice.
 
   - Includes all artifacts, and much else besides
@@ -64,7 +461,7 @@
   - A distinction is /weakly pragmatically constructed/ if social factors only partly determine our use of it.
 
   - A distinction is /strongly pragmatically constructed/ if social factors wholly determine our use of it, and it fails to represent accurately any “fact of the matter.”
-*** What is a "nutrient"?
+**** What is a "nutrient"?
 - Excerpts from /Nutrition for Dummies/
     - are there nutrients that we wouldn't count as food? (sufficient conditions)
       - feces: [[http://gawker.com/5985723/can-you-eat-your-own-poop?tag=Food][Can you eat your own poop?]]
@@ -72,46 +469,29 @@
   - Food and it's image
     - [[https://www.youtube.com/watch?v=QqQVll-MP3I][Opening to Food Inc.]]
   - Introducing the notion of a social kind
-*** Food as nutrient vs. food as social kind
-*** Group work
-- Try and specify a necessary feature of X; Is there a sufficient feature?
-  1. water
-  2. human being
-  3. funny
-  4. planet
-  5. person
-  6. gold
-  7. cool (not the temperature)
-  8. bachelor
-  9. president of the USA
-  10. superbowl (the game)
-
-- Give an example of a natural kind & a social kind
-  - say why each is each
-  - is the social kind causal or constitutive? Why?
-  
-* Week 2
-** Class 3 (1/17)
-*** Assignments
+**** Food as nutrient vs. food as social kind
+** Week 2
+*** Class 3 (1/17)
+**** Assignments
   - READ: Scherer, [[http://firstwefeast.com/eat/2015/04/philosophy-of-meat-bread][What is a sandwich?]]
   - READ: Pollan, [[http://www.nytimes.com/2007/01/28/magazine/28nutritionism.t.html][Unhappy Meals]]
   - OPTIONAL: Ceglowski, [[http://idlewords.com/2010/03/scott_and_scurvy.htm][Scott & Scurvy]]
   - OPTIONAL: Taubes, [[http://www.nytimes.com/2002/07/07/magazine/what-if-it-s-all-been-a-big-fat-lie.html][What if it's all been a big fat lie?]]
-** Class 4 (1/19)
-*** Class plan
-**** Review Necessary/Sufficient Conditions
-**** Review distinction between Natural & Social Kinds
+*** Class 4 (1/19)
+**** Class plan
+***** Review Necessary/Sufficient Conditions
+***** Review distinction between Natural & Social Kinds
 - What is "social construction"?
 - What kinds are "socially constructed"?
 - GROUP EXERCISE: Give examples of natural & social kinds. Identify the
   salient natural/social characteristic(s) for each
-**** Food
+***** Food
 - Is food a natural or a social kind?
 - PRO NATURAL: food as nutrient/nutrient delivery vehicle
   - Not sufficient: Is shit food? Are people food?
   - Not necessary: Are there any foods that lack any nutritional value?
     - Fiber ([[https://en.wikipedia.org/wiki/Cellulose][celluose]])
-**** Nutritionism
+***** Nutritionism
 - READ: "Nutritionism and Functional Foods", Gyorgy Scrinis
 - What is "nutritionism"?
 - Nutritionism :: An ideology that conceives of food purely in terms of
@@ -127,18 +507,18 @@
     - isolates diet from culture/life
   2. Assumes food is only for bodily health
 
-*** Notes
-**** Natural vs. Social Kinds
+**** Notes
+***** Natural vs. Social Kinds
 - What is a "social kind"?
   - What is "social construction"?
       - Is food a social kind?
-**** Cannibalism
+***** Cannibalism
 - Cannibilism is not morally wrong
 - One can legitimately consent to being eaten
   - Consent distinguishes (indirect) suicide from murder or other wrongful
     killing here
 
-***** Objections to Cannibalism
+****** Objections to Cannibalism
 1. Cannibalism is a kind of illness
 #+BEGIN_QUOTE
   Cannibalism/suicide are manifestations of mental illness. The mentally ill
@@ -190,15 +570,15 @@
    - what are some examples of natural kinds? Of social kinds? Why? What are
      salient characteristics?
 
-*** Assignments
+**** Assignments
 - Food and cannibalism
 - Swift, "A modest proposal"
 - Wisnewski, "Murder, Cannibalism, and Indirect Suicide"
-* Week 3
-** Class 5 (1/24)
+** Week 3
+*** Class 5 (1/24)
 - Overview of the food system, with a focus on corn
   - Michael Pollan, Omnivore’s Dilemma (MP 1-84)
-*** Plan
+**** Plan
 - Logistics
   - mention paper topics
   - section attendance
@@ -206,16 +586,16 @@
 - Pollan overview
   - what is the book about?
   - importance of understanding the food chain
-*** Group work 
+**** Group work 
 - Name one commodity and one non-commodity. Describe a salient feature of each
 - Name one good that is (or is in the process of being) commodified
-*** Logistics
+**** Logistics
 - Paper topics (April 14th)
 - Friday section attendance
 - clickers
-*** Notes
-**** What is the "omnivore's dilemma"?
-**** America's Agrarian past
+**** Notes
+***** What is the "omnivore's dilemma"?
+***** America's Agrarian past
 - Agrarianism :: a social philosophy which sees farming as a way of life,
                  valuable not only for the food and agriculture it produces,
                  but also in itself.
@@ -223,51 +603,53 @@
                  
                  
 
-**** The industrialized food system 
+***** The industrialized food system 
 - Features of the system
   1. Scale
   2. Monoculture
   3. Efficiency
   4. Commodification
-**** The history of corn's role in the rise of industrialized agriculture
-***** Synthetic nitrogen
-***** Earl Butz & Ag Policy
-***** Naylor Curve
+  5. Technologically driven
+     
+***** The history of corn's role in the rise of industrialized agriculture
+****** Synthetic nitrogen
+****** Earl Butz & Ag Policy
+****** Naylor Curve
 #+BEGIN_QUOTE
   the typical Iowa farmer is selling corn for a dollar less than it costs
   him to grow it. Yet the corn keeps coming, more of it every year. (53)
 #+END_QUOTE
-***** The invention of commodity corn
+****** The invention of commodity corn
 
-**** The problem with industrialized agriculture
-**** Family vs. Corporate Farms
+***** The problem with industrialized agriculture
+***** Family vs. Corporate Farms
 - [[https://www.washingtonpost.com/news/wonk/wp/2013/08/11/farms-are-gigantic-now-even-the-family-owned-ones/?utm_term=.827ad79b41b3][Farms are gigantic now]]
 - [[https://en.wikipedia.org/wiki/Family_farm][The family farm (wikipedia)]]
 - [[https://en.wikipedia.org/wiki/Corporate_farming#Family_farms][Corporate farming (wikipedia)]]
 - [[http://www.motherjones.com/tom-philpott/2013/09/does-corporate-farming-exist-barely][Does corporate farming exist?]]
 
-** Class 6 (1/26)
+*** Class 6 (1/26)
 - Overview continued (MP 85-122)
 - Lecture via clicker questions?
 - Homework: Eat a meal without corn
-
-*** Notes
-* Week 4
-** Class 7 (1/31)
+  
+**** Notes
+** Week 4
+*** Class 7 (1/31)
 - Marion Nestle, Food Politics, Ch. 4-6
-** No Class (2/2)
-* Week 5
-** Class 8 (2/7)
+*** No Class (2/2)
+** Week 5
+*** Class 8 (2/7)
 - Nestle, Food Politics, Ch. 7
 - David Foster Wallace, “[[http://www.gourmet.com/magazine/2000s/2004/08/consider_the_lobster.html][Consider the Lobster]]”
   
   
-*** Plan
+**** Plan
 - Discuss plan for week:
   - Today food politics
   - Thursday Ethics of eating
-**** Slides on Nestle
-***** PACs
+***** Slides on Nestle
+****** PACs
 Federal multi-candidate PACs may contribute to candidates as follows:
 
 - $5,000 to a candidate or candidate committee for each election (primary and general elections count as separate elections);
@@ -276,78 +658,78 @@ Federal multi-candidate PACs may contribute to candidates as follows:
 
 PACs may make unlimited expenditures independently of a candidate or political party
 
-**** Consider the lobster
+***** Consider the lobster
   - Group activity: Is it ok to boil the lobster for the sake of a meal?
     Why/Why not?
 
-*** Notes
-**** Nestle Cornell Talk
-***** Obesity prevention
+**** Notes
+***** Nestle Cornell Talk
+****** Obesity prevention
 1. Eat less
 2. Eat better
 3. Move more
 
 - Industry favors increased exercise 
    - But exercise is actually staying pretty stable
-***** Eating habits
+****** Eating habits
 - People are eating more since the 1980s
 - 1900 calories per person to 2100 calories per person 
-***** How to change eating habits?  
+****** How to change eating habits?  
 - Eating less by regulating food sizes (e.g capping soda at 16 oz)
 - Eat less via assumption of responsibility
   - Child obesity is the fault of irresposible parents, not the food industry
   - Adult obesity is a failure of personal responsibility
-***** Government Regulation 
+****** Government Regulation 
 - Government recommendations for less processed food and more fruits/vegetables
-***** Nutritionism
+****** Nutritionism
 - Nutritionism as reductive focus on single nutrients that aids food industry
   inteterests in increased processing and additives
 - Dietary guidelines as expressing tension between focus on foods and focus on
   nutrients
-***** Dilemma facing food industry
+****** Dilemma facing food industry
 - Public health interests in reducing junk food
 - Wall street investor interest in increasing ROI as much and as quickly as possible
   
-****** Counting calories
+******* Counting calories
 - How many more calories in a 64oz soda than in an 8oz soda?
   - There are 8x the calories (about 800)
     - First year nutrition students thought it was *impossible* that soda could have 800 calories 
-****** Advertising added nutrients
+******* Advertising added nutrients
 - junk foods that are "healthy"
 - "functional foods" :: foods that possess features other than those of normal nutrients that are supposed to improve health
   - functional foods increase food sales
   - functional foods can often advertise health benefits that aren't proven & encourage views of low-calorie status of what are really high-calorie foods 
   - treat processed foods as "health foods"
-****** Promoting a food environment where it is ok to eat more than is necessary or healthy
-***** Eat less & Eat better
+******* Promoting a food environment where it is ok to eat more than is necessary or healthy
+****** Eat less & Eat better
 - Personal responsibility isn't enough
 - Need to find a better food environment
-***** Food company strategies that mirror Big Tobacco
-****** Blame personal responsibility
-****** Dispute the science
-****** Promote education, activity
-****** Defend self-regulation
-****** Fund research, community groups underming obesity causes
-****** Co-opt professional organizations
-****** Attack critics
-****** Lobby against public health measures 
-****** File lawsuits
+****** Food company strategies that mirror Big Tobacco
+******* Blame personal responsibility
+******* Dispute the science
+******* Promote education, activity
+******* Defend self-regulation
+******* Fund research, community groups underming obesity causes
+******* Co-opt professional organizations
+******* Attack critics
+******* Lobby against public health measures 
+******* File lawsuits
 
   
-** Class 9 (2/9)
+*** Class 9 (2/9)
 - Ethics of eating animals
   - Jonathan Safran Foer, Eating Animals, “Storytelling” (JSF 3-16) & “All or Nothing or Something Else” (JSF 21-41)
   - Bittman, "[[https://opinionator.blogs.nytimes.com/2011/03/15/some-animals-are-more-equal-than-others/?_r=0][Some Animals Are More Equal Than Others]]"
 
-*** Plan
+**** Plan
 - Overview of DFW "Consider the Lobster"
 - GROUP: Is it ok to boil lobster for the sake of the meal?
 - Why do we eat some animals and not others?
   - QUESTION: How many people have pets?
   - QUESTION: Of the people who have pets, how many eat meat?
 
-* Week 6
-** Class 10 (2/14)
+** Week 6
+*** Class 10 (2/14)
 - JSF, "Words/Meaning" (81-9) & "The life and death of a bird" (129-37)
 - Jeff McMahan, “[[https://opinionator.blogs.nytimes.com/2010/09/19/the-meat-eaters/?_r=0][The Meat-Eaters]]”
 - Videos
@@ -357,15 +739,15 @@ PACs may make unlimited expenditures independently of a candidate or political p
 - [[https://www.nytimes.com/interactive/2016/10/09/magazine/meat-industry-transparency-fight.html][Transparency in the meat industry]]
   - [[http://www.humanesociety.org/news/press_releases/2010/12/smithfield_pigs_121510.html][Problems with pork]] & [[https://www.youtube.com/watch?v=ayGJ1YSfDXs][video of pork farms]]
 - [[https://www.nytimes.com/2017/01/31/dining/animal-welfare-labels.html?mabReward=R4&recp=0&version=readinglist&action=click&pgtype=Homepage&clickSource=story-heading&module=c-column-middle-span-region&region=c-column-middle-span-region&WT.nav=c-column-middle-span-region][Labels on meat and eggs]]
-*** Notes 
-**** Chicken Facts
+**** Notes 
+***** Chicken Facts
 - Two kinds of poultry
   - meat (broiler chicken)
   - egg-laying (egg-laying hens)
 - Chicken lifespan is roughly 7 years, but typically 1-3 for egg-layers & 6
   weeks for broilers (2-4 weeks longer for orgnic/free-range)
 - Today’s egg producing hens can produce over 300 eggs per year; this is over twice the average of 150 eggs per year in 1947.
-***** From the [[http://www.nationalchickencouncil.org/about-the-industry/statistics/broiler-chicken-industry-key-facts/][National Chicken Council]] on broiler chickens
+****** From the [[http://www.nationalchickencouncil.org/about-the-industry/statistics/broiler-chicken-industry-key-facts/][National Chicken Council]] on broiler chickens
 - In 2015, almost 9 billion broiler chickens, weighing 53 billion pounds,
   liveweight, were produced in the USA
 - The United States has the largest broiler chicken industry in the world, and about 19 percent of production was exported to other countries in 2015.
@@ -374,93 +756,94 @@ PACs may make unlimited expenditures independently of a candidate or political p
   States.
 - The top 5 broiler producing states are: Georgia, Arkansas, Alabama, North Carolina and Mississippi.
 - Employs 280,800 people directly with $90 billion in total sales
-**** Suffering & Cruelty 
+***** Suffering & Cruelty 
 - Cruelty results as much from indifference to pain/suffering as from the
   intentional infliction of pain/suffering
 - Nature is not cruel. Cruelty requires a conception of pain/suffering in
   others and the capacity to choose not to inflict such pain.
-**** Chicken slaughter
+***** Chicken slaughter
 - [[http://www.huffingtonpost.com/bruce-friedrich/usda-time-to-stop-the-chi_b_4855990.html][Huffington Post]] article on boiling chickens alive
 - [[https://www.washingtonpost.com/politics/usda-plan-to-speed-up-poultry-processing-lines-could-increase-risk-of-bird-abuse/2013/10/29/aeeffe1e-3b2e-11e3-b6a9-da62c264f40e_story.html?utm_term=.8232daa5b9e5][Washington Post]] article on improper chicken slaughter
 - [[https://www.washingtonpost.com/politics/usda-drops-proposal-to-speed-up-poultry-processing-at-plants/2014/07/31/4a6fad90-18eb-11e4-85b6-c1451e622637_story.html?utm_term=.4ac436a9f754][USDA abandons proposal]] that would speed up processing
-** No Class  (2/16)
+*** No Class  (2/16)
 - WATCH: [[https://www.youtube.com/watch?v=hACdhD_kes8][Consequentialism]]
-* Week 7
-** Class 12 (2/21)
+** Week 7
+*** Class 12 (2/21)
 - Introducing ethical theories
   - Consequentialism
     - James Rachels, Elements of Moral Philosophy, chs. 7-8
-** Class 13 (2/23)
+*** Class 13 (2/23)
 - Consequentialism applied
   - Alastair Norcross, "Puppies, Pigs and People"
-* Week 8
-** Class 14 (2/28)
+** Week 8
+*** Class 14 (2/28)
 - Intro to deontology
   - Immanuel Kant, “Rational Beings Alone Have Moral Worth”
   - Holly Wilson, “The Green Kant: Kant’s Treatment of Animals”
   - WATCH: [[http://www.wi-phi.com/video/moral-status][Moral Status]]
   - WATCH: [[https://www.youtube.com/watch?v=-Go45PUjtL8][Chignell on Kant's "Non-Consequentialism"]]
-** No Class (3/2)
+*** No Class (3/2)
 - WATCH: [[http://www.wi-phi.com/video/good-life-kant][Kant on the good life]]
 - WATCH: [[https://www.youtube.com/watch?v=mQ2fvTvtzBM][A Beginner's Guide to Kant's Moral Philosophy]]
-* Week 9
-** Class 15 (3/7)
+** Week 9
+*** Class 15 (3/7)
 - Deontology applied
   - Tom Regan, “The Radical Egalitarian Case for Animal Rights”  
   - Mary Anne Warren, “A Critique of Regan’s Animal Rights Theory” 
-** Class 16 (3/9)
+*** Class 16 (3/9)
 - Moral vegetarianism
   - James Rachels, “The Basic Argument for Vegetarianism” 
   - Michael Martin, “A Critique of Moral Vegetarianism” 
-* Week 10
-** Class 17 (3/14)
+** Week 10
+*** Class 17 (3/14)
 - Catch up & mid-term review
-** Class 18 (3/16)
+*** Class 18 (3/16)
 - Mid-term exam
-* Spring Break
-* Week 11
-** Class 19 (3/28)
+** Spring Break
+** Week 11
+*** Class 19 (3/28)
 - Moral Vegetarianism (Pollan vs. Singer)
-** No Class (3/30)
-* Week 12
+*** No Class (3/30)
+** Week 12
 This week we discuss issues surrounding famine, affluence, and politics. 
-** Class 20 (4/4)
+*** Class 20 (4/4)
 - Peter Singer, "Famine, Affluence, and Morality"
   
-*** Food Security
+**** Food Security
 - [[https://www.wfp.org/node/359289][World Food Programme]]
 - [[https://www.ers.usda.gov/topics/food-nutrition-assistance/food-security-in-the-us/measurement.aspx][USDA description]]
 
-** Class 21 (4/6)
+*** Class 21 (4/6)
 - Hardin, "Lifeboat Ethics"
 - Murdoch and Oaten, "Population and Food"
-* Week 13
+** Week 13
 We continue our discussion of food and politics this week, focusing on the
 issue of "food justice".
-** Class 22 (4/11)
+*** Class 22 (4/11)
 - Mares & Peña, "Environmental and Food Justice" 
 - Heldke, "Down-Home Global Cooking" 
   
-** No Class (4/13)
-* Week 14
+*** No Class (4/13)
+** Week 14
 I should also make use of some of the articles in the [[http://www.slate.com/topics/f/future_of_food.html][special food issue]] at /Slate/
-** Class 23 (4/18)
+*** Class 23 (4/18)
 - Gary Comstock, "Ethics and Genetically Modified Foods"
-** Class 24 (4/20)
+*** Class 24 (4/20)
 - David Kaplan, "Functional Foods"
 - Welin, Gold, & Berlin, "In Vitro Meat"
-* Week 15
-** Class 25 (4/25)
+- [[http://www.futurefood.org/in-vitro-meat/index_en.php][Culture Meat]]
+** Week 15
+*** Class 25 (4/25)
 The aesthetics of food
 - Susan Wolf, The Ethics of Being a Foodie
 - Kevin Sweeney, Can a Soup be Beautiful?
-** Class 26 (4/27)
+*** Class 26 (4/27)
 - Catch up & review
-* Week 16
-** Exam
+** Week 16
+*** Exam
 
-* Quizzes
-** Week 2
+** Quizzes
+*** Week 2
 1. A necessary condition is:
    a. what is enough for something to be the case
    b. what is sufficient for something to be the case
@@ -487,20 +870,53 @@ The aesthetics of food
 
 
 
-* Materials
-** Technology & Food
-** Food & Aesthetics
+** Materials
+*** Technology & Food
+*** Food & Aesthetics
 - Can a Soup Be Beautiful? The Rise of Gastronomy and the Aesthetics of Food, Kevin W. Sweeney
 - Can Food Be Art? The Problem of Consumption, Dave Monroe
 - The Ethics of being a Foodie, Susan Wolf
-** Food Justice
+*** Food Justice
 - Environmental and Food Justice, Mares & Peña
 - Heldke: “Down-Home Global Cooking” 
-** Identity & Food
+*** Identity & Food
 - Carving Values with a Spoon, Lydia Zepeda (related to food justice)
 - 
 
-** Famine & Justice
+*** Famine & Justice
 - Hardin: “Lifeboat Ethics”
 - Singer: “Famine, Affluence, and Morality”
 - Murdoch and Oaten: “Population and Food”
+  
+* One min exercise
+This might be useful to incorporate into the weekly critical questions or quizzes
+
+This formative assessment is typically completed by students in the last 10 minutes of class. Such papers allow students to show what they are learning in a "low stakes" non-evaluative context and enable you to know if your students are fully understanding or achieving your learning goals. Some questions might include the following:
+
+- What is the most important (interesting) issue you learned this week?
+- What course activities are helping you to learn best?
+- Connect the concept of "x" that we discussed today with last week's discussion of "y."
+- What is one concept addressed thus far that you don't fully understand?
+- What is one question you have about course content that you'd like addressed in an upcoming class?
+
+* Configuration                                                                 :noexport:
+#+HUGO_BASE_DIR: ./ 
+#+STARTUP: nologdone
+#+OPTIONS: H:4 author:nil date:nil
+#+OPTIONS: prop:t
+#+PANDOC_METADATA: numbersections:t secnumdepth:4 
+#+PANDOC_METADATA: link-citations:t colorlinks:t toc:false 
+#+PANDOC_METADATA: "lhead:"
+#+PANDOC_METADATA: "mainfont:Optima"
+#+PANDOC_METADATA: spacing:singlespacing 
+#+PANDOC_METADATA: noindent: parskip:.85em
+#+PANDOC_OPTIONS: template:~/.pandoc/pandoc-templates/tufteII.tex
+#+PANDOC_OPTIONS: standalone:t pdf-engine:xelatex  
+#+BIBLIOGRAPHY: ~/Dropbox/Work/Master.bib
+
+
+** COMMENT Local Variables                                                    :ARCHIVE:
+# Local Variables:
+# eval: (add-hook 'after-save-hook #'org-hugo-export-wim-to-md-after-save :append :local)
+# eval: (setq org-export-initial-scope 'subtree)
+# End:

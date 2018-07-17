@@ -1,0 +1,67 @@
+* Final Exam Review
+** Format of Exam
+1. Argument identification (20 pts)
+2. Definitions (20 pts)
+3. Multiple choice (30 pts)
+4. Short answer/essay (30 pts)
+   
+** General Concepts
+- Logical concepts (e.g. necessary/sufficient condition)
+- Moral concepts (utilitarianism vs deontology)
+  
+** Ethical Omnivorism
+- Pollan's four defenses of omnivorism
+  1. Eating is part of our (cultural) identity
+  2. It is suffering & not pain that matters
+  3. The good life of a domesticated animal is one in which it is farmed
+     for food
+  4. Even vegan ism would require us to kill lots of animals
+     
+** Famine & Affluence
+- Food security
+- Singer's "principle of preventing bad occurrences"
+- Objections to Singer
+  - Erases distinction between duty & supererogation
+  - Too demanding
+  - Too radical
+    
+** Lifeboat Ethics
+- Hardin on famine relief & the "tragedy of the commons"
+- Objections to Hardin
+  - Is the lifeboat metaphor really apt?
+  - Must all commons end in "tragedy"?
+  - Must all increases in food security lead to increases in population
+  
+** Food Justice
+- Localism vs. globalism about food production & consumption's
+- Disadvantages of each approach
+
+** Genetically Modified Foods
+- What are GM Foods?
+- Intrinsic vs extrinsic objections
+- The "unnaturalness objection"
+- The problem of negative information
+- The precautionary principle
+
+** Functional Foods
+- What are "functional" foods?
+- How are functional foods different from GM foods?
+- Problems with functional foods
+  1. Efficacy
+  2. Treating food as medicinal
+  3. Market forces
+
+** The Aesthetics of Food                                                     :noexport:
+- Can food be the kind of thing that has genuine aesthetic qualities (e.g.
+  beauty, grace, etc.)
+- Taste as metaphor for critical aesthetic appraisal
+- Three features of taste
+  1. Hedonically judgmental
+  2. Immediate
+  3. Directly sensory
+- Kant's criticism of an aesthetics based on mere taste
+  - Difference between taste of sense & taste of reflection
+- Sweeney's defense of food as an object of aesthetic appraisal
+
+
+

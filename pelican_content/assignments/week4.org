@@ -1,0 +1,20 @@
+#+TITLE: Week 4 - Food Policy
+#+DATE: January 29, 2018
+#+SLUG: week4-nestle
+#+TAGS: food policy, politics, industrial food system
+ 
+------
+
+This week we'll start looking at the way food policy works in the United
+States. In particular, we'll discuss the relationship between the US Department
+of Agriculture and large corporations involved in the production of food. 
+
+You can find the slides for this week [[file:{filename}/slides/week4_policy.pdf][here]].
+
+** Class 7 (1/30)
+- READ: Nestle, /Food Politics/ Introduction & chs. 4-6
+** No Class (2/1)
+- WATCH: [[https://www.youtube.com/watch?v=K42W__Dqa_s][Marion Nestle on Food Politics & the Food Movement]]
+- WATCH (optional): [[https://www.youtube.com/watch?v=TibndsX9g3c][Conversation with Marion Nestle]]
+  
+  

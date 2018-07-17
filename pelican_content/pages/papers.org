@@ -1,0 +1,45 @@
+#+TITLE: Paper Topics 
+#+SLUG: papers
+
+------
+
+WRITE approximately 3-5 double-spaced pages on /one/ of the following
+topics. For whatever topic you pick you must write it according to the
+format detailed below.
+
+The DUE DATE for the papers is: *Friday, April 13^th*
+
+* Paper Structure
+
+-  EXPLAIN the argument (what are the premises? what is the conclusion?).
+   -  You may present the argument in numbered form if you wish, though
+      if you do so be sure to show the connection between the argument
+      as you've explained it and the relevant text(s).
+-  ASSESS the argument and explain how it succeeds or fails. 
+-  If there are problematic premises, then EXPLAIN how the author
+   defends them.
+-  Is the argument for the conclusion CONVINCING? WHY or why NOT?
+
+For any topic you are free to draw on any concepts or readings we have
+discussed thus far, but be sure to answer the questions raised by the
+prompt.
+
+I expect papers to be /clear/. Write in short and complete sentences.
+Where necessary, sacrifice elegance in favor of clarity. Signpost
+heavily. Avoid needless generality or autobiographical reportage. Be
+sure to /appropriately cite/ any sources which you consult in the writing
+of your paper. *This includes sources which you do not directly quote!*
+For further questions please consult the [[file:{filename}/readings/PaperRubric.pdf][grading rubric]].
+
+Be sure to review the linked guidelines on [[file:{filename}/readings/ThesisOverview.pdf][writing a thesis statement]] and [[file:{filename}/readings/PaperStructure.pdf][paper
+structure]]!
+
+* Paper Topics
+
+1. Explain whether it is morally permissible to eat meat. Using one the moral
+   frameworks discussed in class (i.e. consequentialism or deontology) defend
+   or criticize the moral permissibly of meat-eating. Discuss whether the
+   industrial agricultural system in particular has any bearing on this issue.
+2. Michael Pollan argues against what he calls "nutritionism" about food. What
+   is nutritionism? How does it understand what food is? What are Pollan's
+   criticisms of nutritionism? Are those criticisms well-grounded?

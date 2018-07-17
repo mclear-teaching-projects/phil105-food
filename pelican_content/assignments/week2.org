@@ -1,0 +1,32 @@
+#+TITLE: Week 2 - The Social Construction of Concepts
+#+DATE: January 15, 2018
+#+SLUG: week2-construction
+#+TAGS: philosophy, definitions, concepts, cannibilism, normativity
+ 
+------
+
+This week we continue our discussion of what counts as "food". We'll look in
+particular at the notion of a social kind, and relatedly, a "socially
+constructed" concept. We'll also discuss cannibilism and the cultural norms
+that surround the consumption of food. 
+
+Slides for this week can be found [[file:{filename}/slides/week2_nutritionism.pdf][here]].
+
+** Class 3 (1/16)
+- What is a "social kind"?
+  - What is "social construction"?
+    - what examples can we think of that are socially constructed kinds?
+  - READ: Scherer, [[http://firstwefeast.com/eat/2015/04/philosophy-of-meat-bread][What is a sandwich?]]
+  - READ: Pollan, [[http://www.nytimes.com/2007/01/28/magazine/28nutritionism.t.html][Unhappy Meals]]
+  - OPTIONAL: Ceglowski, [[http://idlewords.com/2010/03/scott_and_scurvy.htm][Scott & Scurvy]]
+
+** Class 4 (1/18)
+- Food and cannibalism
+  - READ: [[file:{filename}/readings/swift_proposal.pdf][Swift, "A modest proposal"]]
+  - READ: [[file:{filename}/readings/wisnewski_cannibilism.pdf][Wisnewski, "Murder, Cannibalism, and Indirect Suicide"]]
+
+** Reading Questions
+- How might "food" be a socially constructed kind?
+- Is "meat" a similar social construction?
+- What does Pollan mean by saying that some foods aren't food?
+- Can people be food?

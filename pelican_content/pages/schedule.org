@@ -1,0 +1,39 @@
+#+TITLE: Schedule
+
+-----
+
+|----------+---------+---------------------------------------------|
+| Week \nbsp \nbsp | Date\nbsp\nbsp\nbsp | Topic                                       |
+|----------+---------+---------------------------------------------|
+|        1 | 1/9     | Introduction; What is food?   *             |
+|          | 1/11    | Food, nutrition, & social kinds *           |
+|        2 | 1/16    | Social construction              *          |
+|          | 1/18    | Food & cannibalism                          |
+|        3 | 1/23    | Overview of the food system       *         |
+|          | 1/25    | Overview continued                *         |
+|        4 | 1/30    | Food Politics                               |
+|          | 2/1     | TBA                                         |
+|        5 | 2/6     | Food Politics, continued                    |
+|          | 2/8     | Ethics of eating: Foer & Bittman  *         |
+|        6 | 2/13    | Ethics of eating, continued       *         |
+|          | 2/15    | Intro to ethical theory -- Consequentialism *|
+|        7 | 2/20    | Consequentialism applied                   * |
+|          | 2/22    | No Class                                    |
+|        8 | 2/27    | Catch-up (Consequentialism)                 |
+|          | 3/1     | Intro to deontology                         |
+|        9 | 3/6     | Deontology applied                          |
+|          | 3/8     | Moral Vegetarianism                         |
+|       10 | 3/13    | Catch-up/Review                             |
+|          | 3/15    | Mid-term exam                               |
+|       11 | 3/27    | Ethically acceptable meat                   |
+|          | 3/29    | No class                                    |
+|       12 | 4/3     | Famine & affluence                          |
+|          | 4/5     | Lifeboat ethics                             |
+|       13 | 4/10    | Food Justice: Local vs Global               |
+|          | 4/12    | No Class                                    |
+|       14 | 4/17    | GMOs                                        |
+|          | 4/19    | Technology & Food                           |
+|       15 | 4/24    | No class                                    |
+|          | 4/26    | Catch-up & review                           |
+|       16 | 5/1     | Final Exam (3:30 to 5:30 p.m. )             |
+|----------+---------+---------------------------------------------|

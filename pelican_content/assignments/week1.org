@@ -1,0 +1,40 @@
+#+TITLE: Week 1 - What is Food?
+#+DATE: January 8, 2018
+#+SLUG: week1-food
+#+TAGS: philosophy, definitions, concepts
+ 
+------
+
+This week we'll talk about the content of the course and start trying to
+define its subject matter -- food. What is food anyway? Is it anything we can
+eat? Anything we can digest? Something else entirely? 
+
+Slides for this week can be found [[file:{filename}/slides/week1_what_is_food.pdf][here]]. 
+
+** Class 1 (1/9)
+- Overview of the course
+- What is food?
+  - Giving a definition (defining a thing or its concept)
+    - READ: [[file:{filename}/readings/definition.pdf][Definitions, Category Mistakes, Necessary & Sufficient Conditions, Essence & Accident]]
+  - What is it to be a member of a kind?
+    - READ: [[file:{filename}/readings/counterexamples.pdf][Criteria & Counterexamples]]
+  - What is it for something to be a "natural" kind?
+
+** Class 2 (1/11)
+- Food as nutrient vs. food as social kind
+  - What is a "nutrient"?
+    - READ: [[file:{filename}/readings/nutrition.pdf][Overview of Nutrition]] (especially chs. 1, 3)     
+  - Are there nutrients that we wouldn't count as food? (sufficient conditions)
+      - READ: [[http://gawker.com/5985723/can-you-eat-your-own-poop?tag=Food][Can you eat your own poop?]]
+    - Are there foods that aren't nutrients? (necessary conditions)
+  - Food and it's image
+    - WATCH: [[https://www.youtube.com/watch?v=QqQVll-MP3I][Opening to Food Inc.]]
+  - Introducing the notion of a social kind
+    - READ: Haslanger, [[file:{filename}/readings/haslanger_ch2.pdf][excerpt from ch.2 (§2) of /Resisting Reality/ ]]
+     
+** Reading Questions
+- What are necessary and sufficient conditions?
+- What is a socially constructed kind?
+- What is a natural kind?
+      
+

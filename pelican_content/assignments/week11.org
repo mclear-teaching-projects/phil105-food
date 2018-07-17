@@ -1,0 +1,30 @@
+#+TITLE: Week 11 - Eating Meat Ethically?
+#+DATE: March 26, 2018
+#+SLUG: week11-ethical-meat
+#+TAGS: vegetarianism, omnivorism
+ 
+------
+
+This week we look at ways in which one might ethically eat meat, and whether
+such an approach could scale up to meet the demands of the country's
+population. 
+
+The slides for today's class are [[file:{filename}/slides/week11_ethical_omnivorism.pdf][here]].
+
+** Class 18 (3/27)
+- Pollan, /Omnivore's Dilemma/, ch. 17 "The Ethics of Eating Animals"
+- Singer, "[[file:{filename}/readings/singer_eating_meat.pdf][The Ethics of Eating Meat]]"
+
+** No Class (3/30)
+- WATCH: [[https://www.youtube.com/watch?v=cqbOU07ZI2k][Salatin on Sustainable Farming]] (warning: somewhat graphic)
+- WATCH: [[https://www.youtube.com/watch?v=gAHGbbjenhI][Pollan on Salatin & Sustainable Farming]]
+- OPTIONAL: [[http://tclocal.org/2009/06/can_new_york_state_feed_itself.html][Can New York State Feed Itself?]]
+- OPTIONAL: [[http://www.farmlandlp.com/2012/01/one-acre-feeds-a-person/][One Acre Feeds a Person]]
+
+
+** Reading Questions
+- What's the difference between animal welfare and animal rights?
+- What is "speciesism"?
+- What is Pollan's reply to the argument from marginal cases?
+- What criticisms of vegetarianism does Pollan offer?
+- What is Pollan's defense of predation?

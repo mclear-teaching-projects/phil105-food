@@ -1,0 +1,26 @@
+#+TITLE: Week 14 - Genetically Modified & Functional Food
+#+DATE: April 16, 2018
+#+SLUG: week14-gmos
+#+TAGS: functional food, gmos
+ 
+------
+
+This week we discuss the various issues surrounding production and consumption
+of genetically modified and "functional" foods. 
+
+** Class 23 (4/17)
+- Gary Comstock, "[[file:{filename}/readings/comstock_gmo.pdf][Ethics and Genetically Modified Foods]]"
+- (OPTIONAL) [[http://www.newyorker.com/magazine/2015/11/16/the-gene-hackers][CRISPR & Gene Hacking]] 
+- [[file:{filename}/slides/week14_gmo.pdf][Slides]]
+
+** Class 24 (4/19)
+- Welin, Gold, & Berlin, "[[file:{filename}/readings/welin_in_vitro_meat.pdf][In Vitro Meat]]"
+- (OPTIONAL): [[http://www.slate.com/articles/technology/future_tense/2015/09/in_vitro_meat_probably_won_t_save_the_planet_yet.html][The Problem with Factory Meat]]  
+- David Kaplan, "[[file:{filename}/readings/kaplan_functional.pdf][What's Wrong with Functional Foods]]"
+- [[file:{filename}/slides/week14_functional-food.pdf][Slides]]
+
+  
+** Reading Questions
+- What is it for a food or plant to be "genetically modified"?
+- What is it for a food to be "functional"?
+- Why might one think that GM food is "unnatural"?

@@ -1,0 +1,460 @@
+#+TITLE: Philosophy of Food (PHIL 105) 
+#+OPTIONS: toc:nil num:nil
+
+* Structure
+** 1. Food - What is it?
+** 2. The food system - an overview
+*** Emphasize the centrality of corn to the american food system
+** 3. The ethics of eating
+*** Of ethical systems and animals
+**** Consequentialism
+***** introduce
+***** apply
+**** Deontology
+***** introduce
+***** apply
+*** The american factory system
+** 4. Food & politics
+*** Food & religious identity
+*** Food & feminism
+*** Food justice
+* Evaluation
+* Bulletin :export:
+A wide-ranging examination of the philosophical, political, social, and economic
+aspects of food, its production and consumption. Topics include the ethical
+treatment of animals, factory farming, food justice, the relation of food to
+social and religious identity, and climate change.
+
+** Instructions :noexport:
+The bulletin should be a short summary of what the course will cover regardless of changes in instructor. Bulletin conventions include the use of brief descriptive phrases rather than complete sentences. Do not include lists of assignments or descriptions of the unit’s teaching philosophy. The course description identifies what is to be covered rather than how a course will be taught. For example, ENGL 245J, Jewish-American Fiction: “Twentieth century novels and short stories by major Jewish-American authors.”
+
+* Ace Requirements & Outcomes
+** SLO5 Proposal                                                    :export:
+Use knowledge, historical perspectives, analysis, interpretation, critical
+evaluation, and the standards of evidence appropriate to the humanities to
+address problems and issues.
+
+1. Describe opportunities students should have to learn the outcome. How is the learning objective embedded in the course?
+   
+   #+BEGIN_QUOTE
+    The purpose of this class is to focus on a topic of central
+    interest---food---and the philosophical, political, and economic questions
+    that arise from its consideration. In every case, students will be engaged
+    in the use of analysis, interpretation, and critical evaluation to address
+    philosophical problems and issues. The class will focus on reasons for and
+    against adopting various conclusions on a wide range of issues, and will
+    explore the cogency of the reasons offered. Another goal of this course is
+    that students will work out their own positions and come to better
+    understand opposing views. In the course of examining these reasons, they
+    will become familiar with various philosophical approaches, and they will
+    explore how various positions are amenable to justification.
+   #+END_QUOTE
+
+2. Describe student work that will be used to assess student achievement of the outcome and explain how the students demonstrate the knowledge and skills specified by the outcome.
+   
+   #+BEGIN_QUOTE
+    Students will be asked to interpret, analyze, and critically evaluate
+    philosophical views and arguments through a variety of instruments, but
+    largely through examinations or paper assignments
+   #+END_QUOTE
+
+3. As part of the ACE certification process, the department/unit agrees to collect and assess a reasonable sample of students’ work and provide reflections on students’ achievement of the Learning Outcomes for its respective ACE-certified courses. Please comment on your plans to develop a process to collect and evaluate student work over time for the purpose of assessing student success for this ACE outcome.
+   
+   #+BEGIN_QUOTE
+    For purposes of assessment, the department commits to collection and analyzing a reasonable sample of student work. The material will be reviewed by the appropriate department subcommittee, which will assess student achievement, and, when necessary, make recommendations for enhancing achievement. The department will archive the samples along with the results of the review and any recommendations.
+   #+END_QUOTE
+   
+** SLO8 Proposal                                                    :export:
+Explain ethical principles, civics, and stewardship, and their importance to
+society. 
+
+1. Describe opportunities students should have to learn the outcome. How is the learning objective embedded in the course?
+   
+   #+BEGIN_QUOTE
+    The purpose of this class is to focus on a topic of central
+    interest---food---and the philosophical, political, and economic questions
+    that arise from its consideration. In every case, students will be engaged
+    in the use of analysis, interpretation, and critical evaluation to address
+    philosophical problems and issues. Stewardship, i.e., managing or guiding
+    something, is implicit in any discussion of ethics, for it is by our ethical
+    principles that we manage and guide our own behavior and try to influence
+    the world around us. Stewardship will more explicitly discussed in the
+    context of animal rights, climate change, and the consideration of how best
+    to moral, religious, and cultural commitments. The class will examine the
+    social importance of ethics, civic responsibility, and stewardship,
+    including reasons for and against adopting various courses of action, and
+    will explore the cogency of the reasons offered. Students will work out their
+    own positions and come to better understand opposing views. In the course of
+    examining these reasons, they will become familiar with various
+    philosophical approaches, and they will explore how various positions are
+    amenable to justification.
+   #+END_QUOTE
+
+2. Describe student work that will be used to assess student achievement of the outcome and explain how the students demonstrate the knowledge and skills specified by the outcome.
+   
+   #+BEGIN_QUOTE
+    The ability to reason critically and knowledgably and to apply ethical principles to ethical issues regarding socially important civic responsibilities and to ethical issues regarding stewardship of socially important values will be assessed through a variety of instruments, but largely through examinations or paper assignments.
+   #+END_QUOTE
+
+3. As part of the ACE certification process, the department/unit agrees to collect and assess a reasonable sample of students’ work and provide reflections on students’ achievement of the Learning Outcomes for its respective ACE-certified courses. Please comment on your plans to develop a process to collect and evaluate student work over time for the purpose of assessing student success for this ACE outcome.
+   
+   #+BEGIN_QUOTE
+    For purposes of assessment, the department commits to collection and analyzing a reasonable sample of student work. The material will be reviewed by the appropriate department subcommittee, which will assess student achievement, and, when necessary, make recommendations for enhancing achievement. The department will archive the samples along with the results of the review and any recommendations.
+   #+END_QUOTE
+** Instructions
+*** SLO1
+Write texts, in various forms, with a identified purpose, that respond to
+specific audience needs, incorporate research or existing knowledge, and use
+applicable documentation and appropriate conventions of format and structure.
+*** SLO5
+Use knowledge, historical perspectives, analysis, interpretation, critical
+evaluation, and the standards of evidence appropriate to the humanities to
+address problems and issues.
+*** SLO8
+Explain ethical principles, civics, and stewardship, and their importance to
+society. 
+*** SLO9
+Exhibit global awareness or knowledge of human diversity through analysis of an
+issue. 
+
+*** Outcomes                                                     
+
+Whichever outcomes are chosen, the following three questions need to be answered
+for /each/ outcome.
+
+1. Describe opportunities students should have to learn the outcome. How is the learning objective embedded in the course?
+
+2. Describe student work that will be used to assess student achievement of the outcome and explain how the students demonstrate the knowledge and skills specified by the outcome.
+
+3. As part of the ACE certification process, the department/unit agrees to collect and assess a reasonable sample of students’ work and provide reflections on students’ achievement of the Learning Outcomes for its respective ACE-certified courses. Please comment on your plans to develop a process to collect and evaluate student work over time for the purpose of assessing student success for this ACE outcome.
+   
+** Syllabus 
+Provide a standard syllabus here.
+#+BEGIN_SRC tex
+  \documentclass[12pt]{article}
+
+  %Definitions
+  \def\myauthor{Colin McLear}
+  \def\mytitle{Syllabus}
+  \def\mycopyright{\myauthor}
+  \def\mykeywords{}
+  \def\mybibliostyle{plain}
+  \def\mybibliocommand{}
+  \def\mysubtitle{}
+  \def\myaffiliation{University of Nebraska–Lincoln}
+  \def\myaddress{Department of Philosophy}
+  \def\myemail{mclear@unl.edu}
+  \def\courseweb{http://colinmclear.net/phil-101}
+  \def\myphone{607 216 8718}
+  \def\myfax{607 255 8177 }
+  \def\myversion{}
+  \def\myrevision{}
+
+  \date{} % not used (revision control instead)
+  \def\mykeywords{Philosophy, Syllabus}
+
+  %%%------------------------------------------------------------------------
+  %%% Required style files
+  %%%------------------------------------------------------------------------
+  \usepackage{url,fancyhdr}
+  \usepackage{comment}
+  \usepackage{epigraph}
+  %%\usepackage{revnum} % for reverse-numbered publications (revnumerate environment) if needed.
+  \usepackage{termcal}
+  \usepackage{csquotes}
+  %% needed for xelatex to work
+  \usepackage{fontspec}
+  \usepackage{xunicode}
+  \usepackage{mdwlist}
+  %% color for the links 
+  \usepackage{color}
+  \usepackage[margin=1.25in]{geometry}
+  \usepackage{setspace}
+  %% hyperlinks
+  \usepackage[xetex, 
+          colorlinks=true,
+          urlcolor=blue,
+          plainpages=false,
+          pdfpagelabels,
+          bookmarksnumbered,
+          pdftitle={\mytitle},
+          pagebackref,
+          pdfauthor={\myauthor},
+          pdfkeywords={\mykeywords}
+      titlesec,
+          ]{hyperref}
+
+  %%Calendar Stuff
+  % Few useful commands (our classes always meet either on Monday and Wednesday 
+  % or on Tuesday and Thursday)
+
+  \newcommand{\MWClass}{%
+  \calday[Monday]{\classday} % Monday
+  \skipday % Tuesday (no class)
+  \calday[Wednesday]{\classday} % Wednesday
+  \skipday % Thursday (no class)
+  \skipday % Friday 
+  \skipday\skipday % weekend (no class)
+  }
+
+  \newcommand{\TRClass}{%
+  \skipday % Monday (no class)
+  \calday[Tuesday]{\classday} % Tuesday
+  \skipday % Wednesday (no class)
+  \calday[Thursday]{\classday} % Thursday
+  \skipday % Friday 
+  \skipday\skipday % weekend (no class)
+  }
+
+  \newcommand{\Holiday}[2]{%
+  \options{#1}{\noclassday}
+  \caltext{#1}{#2}
+  }
+
+  \renewcommand{\calprintclass} % no class number
+
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+  \begin{document}
+
+
+  \setromanfont[Mapping={tex-text},Numbers={OldStyle},Ligatures={Common}]{Avenir
+  Book} 
+  \setsansfont[Mapping=tex-text,Colour=AA0000]{Optima}
+  \setmonofont[Mapping=tex-text,Scale=0.9]{Inconsolata} 
+
+
+
+  %%%------------------------------------------------------------------------
+  %%% Page layout
+  %%%------------------------------------------------------------------------
+  \pagestyle{fancy}
+  \renewcommand{\headrulewidth}{0pt}
+  \fancyhead{}
+  \fancyfoot{}
+  %\rhead{{\scriptsize\thepage}}
+  \rfoot{{\thepage}}
+  \lfoot{\today}
+  \setlength{\epigraphwidth}{.8\textwidth}
+
+
+  %%%------------------------------------------------------------------------
+  %%% Address and contact block
+  %%%------------------------------------------------------------------------
+  \begin{minipage}[t]{2.95in}
+   \flushleft {\footnotesize\textsc{Instructor:} Colin McLear \\
+  \textsc{Course:} PHIL 105 \\\textsc{Time:} T/R 9:30-10:20 \\\textsc{Location:} MORR 141\\\begin{singlespace}\textsc{Office:} 1003 Oldfather Hall\end{singlespace}}
+
+  % M--F: 10:30-1:20 \\\textsc{Location:} OTHM--105\\\begin{singlespace}\textsc{Office:} 1003 Oldfather Hall\end{singlespace}} 
+    
+  \end{minipage}
+  \hfill     
+  %\begin{minipage}[t]{0.0in}
+  % dummy (needed here)
+  %\end{minipage}
+  \hfill
+  \begin{minipage}[t]{1.7in}
+    \flushleft {\footnotesize  {\href{mailto:\myemail}{\myemail}}} \\
+    {\footnotesize  {\href{\courseweb}{colinmclear.net/phil-101}} \\\href{http://www.unl.edu/philosophy/}{UNL Philosophy}\\\begin{singlespace}\textsc{Office Hours:} T/R 11-12 \end{singlespace}}%\begin{singlespace}\textsc{Office Hours:} T/R 11-12 p.m.\end{singlespace}}
+  \end{minipage}  
+
+  \bigskip
+  \bigskip
+
+  %% Name 
+  \noindent{\huge {\textsc{The Philosophy of Food}}}
+
+  \bigskip
+
+  \epigraph{First we eat, then we do everything else}\\\textsc{M.F.K. Fisher}}
+  \smallskip    
+
+  \section*{Course Overview} 
+  Food is a central part of human life, both in its production and consumption. Food is closely tied to the values that we hold, and the cultural identities that we endorse (e.g. the sorts of things that \emph{we} eat or the sorts of things that \emph{they} eat). Our choices about food, both as individuals and as a society raise a varity of moral, political, and economic issues. Some of the questions we shall pursue include:
+
+  \begin{itemize}
+  \item What \emph{is} food? Not everythign we can eat or digest obviously counts as food. 
+  \item What are the major economic and political structures governing food production and comsumption in the United States?
+  \item What are the environmental and social consequences of various sorts of eating habits? For example, do food choices contribute to environmental degradation and social injustice?
+  \item How do we treat the animals we eat? Do we have ethial obligations to treat them in particular ways?
+  \item In what ways does food connect to our religious and cultural identities? 
+  \end{itemize}
+
+  \section*{Course Objectives} 
+  Upon completion of this course students should be able to (i) find the argument
+  of a text and restate it clearly in their own words; (ii) explain viewpoints
+  clearly that are not their own; (iii) think critically about the ideas discussed
+  in this course, including the moral and political significance of our food
+  choices (iv) write papers using theses, organization, arguments, evidence, and
+  language suitable to analytical writing in general and the discipline of
+  philosophy in particular.
+
+  \newpage
+
+  \section*{Required Materials} Readings will be posted on the
+    \href{http://colinmclear.net/phil105}{course website} under
+    \href{http://colinmclear.net/phil105-assignments}{"Assignment
+    Schedule"}. There is only one required book.
+  \begin{itemize*}
+    \item Pollan, Michael. \emph{The Omnivore's Dilemma: A Natural History of Four Meals}. The Penguin Press, 2007. ISBN: 9780143038580.
+    \item iClicker: Instruction for registering and using your iClicker
+      may be found on \href{http://colinmclear.net/phil105}{the course website} or at \href{http://its.unl.edu/srs}{http://its.unl.edu/srs}
+  \end{itemize*}
+  \textbf{Students are expected to bring all relevant materials to class.}
+
+  \section*{Course Requirements}
+  \begin{itemize}
+  \item \textbf{Preparation}: You are expected to attend every class meeting fully prepared to discuss each assigned reading, to submit written work punctually, and to offer thoughtful and constructive responses to the remarks of your instructor and your classmates. Make sure that you bring the relevant readings with you to every lecture class. I further expect you to treat both the texts at hand and your classmates’ ideas with openness and respect. 
+  \item \textbf{Attendance}: Attendance is required. You are also expected to attend every section meeting. 1/2 a letter grade will be deducted from your final course grade for every absence from section after your fifth. 
+  \item \textbf{Website}: We will use a course website for all materials.
+    The site is available at:
+    \href{http://colinmclear.net/phil105}{http://colinmclear.net/phil105}. Upcoming assignments and readings will be posted there. Please let me know if you have any problems. Technical glitches, computer malfunctions and crashing hard drives are not excuses for failing to complete work in this class.
+  \item \textbf{Format for Papers}: Please submit work as a .doc or .rtf file. All work must be typed. I will not accept any handwritten work aside from that we do in class. Your papers should be in 12-point Times New Roman font, double-spaced with margins set to one inch on all sides. Your name, my name, the date and assignment should appear in the top left hand corner of the first page. Your last name and page number must appear in the top right hand corner on each subsequent page. Please staple or paperclip hard copies of papers and drafts. You are responsible for the presentation of your papers.
+  \item \textbf{Late Work}: Late papers and assignments will standardly be marked down by \textbf{1/3 of a letter grade for each day the work is late} (for example, from A- to B+, from B+ to B, and so on).
+  \end{itemize}
+
+  \newpage 
+
+  \section*{Evaluation}
+
+  \textbf{One Essay}: 25\%
+  \begin{itemize*}
+  \item Explain and critically assess a philosophical argument. Topics will be provided. Approximately 3-4 pages.
+  \end{itemize*}
+
+  \noindent\textbf{Two Exams}: 45\%
+
+  \begin{itemize*}
+  \item The exams will involve a combination of short answer and short essay questions.
+  \begin{itemize*}
+  \item Mid-Term: 20\%
+  \item Final: 25\%
+  \end{itemize*}
+  \end{itemize*}
+
+  \noindent\textbf{Ten Quizzes}: 20\%
+  \begin{itemize*}
+  \item Brief review quizzes held during section. They will not be announced ahead of time. Your two lowest grades will be dropped and your highest counted twice. 
+  \end{itemize*}
+
+  \iffalse
+  \noindent\textbf{Five Reading Responses}: 20\%
+  \begin{itemize*}
+  \item Explain and discuss issues raised by the reading. This includes, but is not limited to, (i) giving a brief and concise summary of the main points of the reading and (ii) raising questions concerning the argument or position articulated. Reading responses
+  should be a minimum of 200 words and maximum of 600 words in length and
+  are due at least 24 hours before your scheduled section (exact deadline
+  will be set by your section leader). You may choose which assignments
+  you wish to respond to. \textbf{However, at least two responses must
+  be submitted by the time of the mid-term exam.} All responses should
+  be emailed to your section leader. The subject line must read: "Intro
+  Philosophy Reading Response" along with the date.
+  \end{itemize*}
+  \fi
+
+  \noindent\textbf{Participation Grade}: 10\%
+  \begin{itemize}
+  \item The participation grade takes into account your attendance in lecture and section as well as the quantity and quality of your participation.
+  \end{itemize}
+
+  \section*{Policies}
+
+  \begin{itemize}
+  \item \textbf{Academic Integrity}: All the work you turn in (including papers, drafts, and discussion board posts) must be written by you specifically for this course. It must originate with you in form and content with all contributory sources fully and specifically acknowledged. Make yourself familiar with UNL's Student Code of Conduct and Academic Integrity Code, available \href{http://stuafs.unl.edu/ja/code/three.shtml}{online}. \textbf{In this course, the normal penalty for any violation of the code is an “F” for the semester}. Violations may have additional consequences including expulsion from the university. Don't plagiarize – It just isn't worth it.
+  \item \textbf{University Policies}: This instructor respects and upholds University policies and regulations pertaining to the observation of religious holidays; assistance available to physically handicapped, visually and/or hearing impaired students; plagiarism; sexual harassment; and racial or ethnic discrimination. All students are advised to become familiar with the respective University regulations and are encouraged to bring any questions or concerns to the attention of the instructor. 
+  \item \textbf{ADA}: In compliance with University policy and equal access laws, I am available to discuss appropriate academic accommodations that may be required for students with disabilities. Students are encouraged to register with Student Disability Services to verify their eligibility for appropriate accommodations.
+  \item \textbf{Misc.}: Please turn off cell phones, beeping watches, and other gadgets that make noise before entering our classroom. Absolutely no texting is permitted during class. I will subtract up to five points from your participation grade each and every time your phone rings or I see you texting during class.
+  \end{itemize}
+
+  \section*{Further Resources}
+  \begin{itemize}
+  \item \textbf{Jargon}: It's important to be on top of the technical terms used by philosophers. Please ask for clarification of terms in class. You can also consult Jim Pryor's online \href{http://www.jimpryor.net/teaching/vocab/index.html}{“Philosophical Terms and Methods.”}
+  \item \textbf{Writing a Philosophy paper}: Papers should adhere to some consistent practice of footnoting and citation (Chicago, MLA, etc.). I don't really mind which one you use as long as you are consistent. On writing a philosophy paper, there is no better on-line guide than \href{http://www.jimpryor.net/teaching/guidelines/writing.html}{Jim Pryor’s}. Please consult it. Hacker’s \href{http://www.amazon.com/Writers-Reference-Exercises-Diana-Hacker/dp/0312601476/ref=sr_1_1?ie=UTF8&qid=1374423680&sr=8-1&keywords=hacker+a+writer%27s+reference}{\emph{A Writer’s Reference}} is also extremely helpful. Useful online writing help may be found at the \href{http://owl.english.purdue.edu/owl/}{Purdue Online Writing Lab} at http://owl.english.purdue.edu/owl/.
+  \item \textbf{Help with writing}: The University of Nebraska-Lincoln Writing Center can provide you with meaningful support as you write for this class as well as for every course in which you enroll. Trained peer consultants are available to talk with you as you plan, draft, and revise your writing. Please check \href{http://www.unl.edu/writing/}{the Writing Center website} for locations, hours, and information about scheduling appointments.
+
+  \item \textbf{Reference}: The \href{http://plato.stanford.edu}{Stanford Encyclopedia of Philosophy} at http://plato.stanford.edu is an excellent online resource. 
+  \end{itemize}
+
+
+  %%%%%
+  %Calandar
+  %%%%%
+  \newpage
+  \paragraph*{\uppercase{Tentative Assignment Calendar}:}Please check the course assignments page online (\href{http://colinmclear.net/phil105-assignments.html}{http://colinmclear.net/phil105-assignments.html}) for the definitive schedule.
+  \begin{center}
+
+  \begin{calendar}{1/9/2017}{16} % Semester starts on 8/26/2013 and last for 17
+  % weeks, including finals week
+
+  \setlength{\calboxdepth}{.5in}
+  \TRClass
+  \caltexton{1}{\textbf{Introduction}\\What is food?}
+  \caltextnext{J. Wisnewski: “Murder, Cannibalism, and Indirect Suicide: A Philosophical Study of a Recent Case”\\J. Swift: “A Modest Proposal”}
+  \caltextnext{Overview of the food system, with a focus on corn\\Michael Pollan, \emph{Omnivore’s Dilemma} (MP 1-84)}
+  \caltextnext{Overview continued (MP 85-122)}
+  \caltextnext{Overview continued\\Jonathan Safran Foer, \emph{Eating Animals},
+  “Storytelling” (JSF 3-16) \& “All or Nothing or Something Else” (JSF 21-41)}
+  \caltextnext{"Big Food"\\\emph{Food Inc} (film)\\Marion Nestle, \emph{Food Politics}, Ch.4-6}
+  \caltextnext{The Individual in Food Politics\\Nestle, \emph{Food Politics}, Ch.7 } 
+  \caltextnext{Eating Animals and Animals that Eat\\  Jeff McMahan,
+  ``\href{http://opinionator.blogs.nytimes.com/2010/09/19/the-meat-eaters/}{The
+  Meat-Eaters},'' \emph{NYT} September 19, 2010\\David Foster Wallace,
+  ``\href{http://www.gourmet.com/magazine/2000s/2004/08/consider_the_lobster}{Consider
+  the Lobster},'' \emph{Gourmet}, August 2004.}
+  \caltextnext{Consequentialism described\\James Rachels, \emph{Elements of Moral Philosophy}, chs. 7-8}
+  \caltextnext{Consequentialism applied\\Alastair Norcross, ``Puppies, Pigs and People: Eating Meat and Marginal Cases''}
+  \caltextnext{Deontology described: Immanuel Kant\\Immanuel Kant, ``Rational
+  Beings Alone Have Moral Worth''\\Holly Wilson, ``The Green Kant: Kant's
+  Treatment of Animals''}
+  \caltextnext{Deontology applied\\Tom Regan, ``The Radical Egalitarian Case
+  for Animal Rights''\\Mary Anne Warren, ``A Critique of Regan's Animal Rights
+  Theory''}
+  \caltextnext{Moral vegetarianism: a debate\\James Rachels, ``The Basic
+  Argument for Vegetarianism''\\Michael Martin,
+  ``\href{http://www.reasonpapers.com/pdf/03/rp_3_2.pdf}{A Critique of Moral
+  Vegetarianism}''}
+  \caltextnext{Ethically-acceptable meat?\\Pollan, \emph{The Omnivore's Dilemma}, Chapter 17 (MP 304-333)}
+  \caltextnext{Ethically acceptable meat, continued\\Singer/Mason: \emph{The
+  Ethics of What We Eat}, Chapter 17 (pp. 241-269)}
+  \caltextnext{Food and Religious Identity\\Regan, ``Christians are what Christians Eat''\\Gaffney, ``Eastern Religions and the Eating of Meat''\\Preece, ``Ask your Brother for Forgiveness: Animal respect in Native
+  American traditions''}
+  \caltextnext{Religion, continued\\Regenstein et al., ``The Kosher and Halal Food Laws''\\Regenstein, ``The Politics of Religious Slaughter: How Science can be
+  Misused''}
+  \caltextnext{Feminist Perspectives\\Carol J. Adams, ``The Sexual Politics of Meat''\\Christina Van Dyke ``Gendered Eating'' from \emph{Philosophy Comes to
+  Dinner,} Chignell, Cuneo, Halteman (eds.)}
+  \caltextnext{Food Justice\\Norgaard et. al. ``A Continuing Legacy:
+  institutional racism, hunger and nutritional justice on the Klamath''}
+  \caltextnext{Justice, continued\\Watch: Alan Savory TED talk: \href{http://www.ted.com/talks/allan_savory_how_to_green_the_world_s_deserts_and_reverse_climate_change.html}{``How to fight desertification and fight climate change''}}
+  \caltextnext{Environmental and Food Justice\\Mares \& Peña, ``Environmental
+  and Food Justice: toward local, slow and deep food systems''\\Bill McKibben,
+  ``A Special Moment in History: the challenge of overpopulation and
+  overconsumption''}
+  \caltextnext{Population and Justice\\Hardin ``Lifeboat Ethics''\\Murdoch and
+  Oaten ``Population and Food: a critique of life boat ethics''}
+
+  % ... and so on
+
+  % Holidays Fall
+
+  \Holiday{11/27/2014}{\textbf{Thanksgiving Break -- No Class}}
+  \Holiday{12/11/2014}{\textbf{Last Day of Class}\\Exam Review}
+
+  % Holidays Spring
+
+  \Holiday{3/22/2017}{\textbf{No Class --- Spring Break!}}
+  \Holiday{3/24/2017}{\textbf{No Class --- Spring Break!}}
+  \Holiday{4/28/2017}{\textbf{Last Day of Class}\\Exam Review}
+
+  \end{calendar}
+  \textbf{Final paper due by 4 p.m., Friday, April 29th}\\
+  \textbf{Final exam: 10:00 to 12:00 noon, Tuesday, May 5th}
+
+  \end{center}
+
+
+  \end{document}
+
+
+#+END_SRC
+
+
+ 

@@ -1,0 +1,26 @@
+#+TITLE: Week 12 - Famine and Affluence
+#+DATE: April 2, 2018
+#+SLUG: week12-famine
+#+TAGS: ethics, utilitarianism, famine
+ 
+------
+
+This week we discuss issues surrounding famine, affluence, and politics. 
+
+** Class 20 (4/3)
+- Peter Singer, "[[file:{filename}/readings/singer_famine.pdf][Famine, Affluence, and Morality]]"
+  - [[https://en.wikipedia.org/wiki/1970_Bhola_cyclone][Background on the 1971 Bangladesh Famine]]
+- [[file:{filename}/slides/week12_famine.pdf][Slides]]
+
+** Class 21 (4/5)
+- Hardin, "[[file:{filename}/readings/hardin_lifeboat.pdf][Lifeboat Ethics]]"
+- Murdoch and Oaten, "[[file:{filename}/readings/murdoch_population.pdf][Population and Food]]"
+- [[file:{filename}/slides/week12_lifeboat.pdf][Slides]]
+
+  
+** Reading Questions
+- What does Singer think we are morally obliged to do if we live in a
+  wealthy/industrially developed country?
+- Is Singer's conception of what is morally required too demanding?
+- What does Hardin mean when referring to "lifeboat" ethics?
+- Why do Murdoch & Oaten think that Hardin's position is simplistic and misleading?

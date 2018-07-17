@@ -1,0 +1,30 @@
+#+TITLE: Week 8 - Deontology
+#+DATE: February 26, 2018
+#+SLUG: week8-deontology
+#+TAGS: kant, moral theory, deontology, vegetarianism, industrial meat
+ 
+------
+
+This week we begin discussion of an alternative moral framework from that of
+Consequentialism called "Deontology". Deontological moral theories construe
+the goodness of moral acts in terms of their adherence to strict moral
+principles or laws. 
+
+You can find today's slides [[file:{filename}/slides/week8_deontology.pdf][here]]. 
+
+
+** Class 14 (2/27)
+- READ: Kant, "[[file:{filename}/readings/Kant_Value.pdf][Rational beings alone have moral worth"]]
+- READ: Korsgaard, "[[file:{filename}/readings/korsgaard_animals.pdf][Interacting with animals]]", especially §§4-9
+- RECOMMENDED: Rachels, [[file:{filename}/readings/rachels_deontology.pdf][chs. 9-10]]
+
+** Class 15 (2/29)
+- WATCH: [[http://www.wi-phi.com/video/moral-status][Moral Status]]
+- WATCH: [[https://www.youtube.com/watch?v=-Go45PUjtL8][Chignell on Kant's "Non-Consequentialism"]]
+
+** Reading Questions
+- What does it mean to have "moral status"?
+- What does Kant argue has (or is the source of) ultimate or intrinsic value?
+- What is it, on Kant's view, to value someone "as a mere means" rather than "as
+  an end"?
+- In what sense might Kant allow that animals have rights?

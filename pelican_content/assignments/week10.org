@@ -1,0 +1,19 @@
+#+TITLE: Week 10 - Review & Midterm
+#+DATE: March 12, 2018
+#+SLUG: week10-midterm
+#+TAGS: exam, review
+ 
+------
+
+This week we finish our discussion of moral vegetarianism. We'll also review
+for the mid-term, which takes place in class on Thursday.
+
+The review slides for the mid-term are [[file:{filename}/slides/mid-term_review.pdf][here]].
+
+** Class 17 (3/13)
+- Finish discussion of the basic argument for vegetarianism & Hsiao's reply
+- Review for Midterm
+  - Come with questions prepared!
+
+** Midterm Exam (3/15)
+- No need to bring green books!

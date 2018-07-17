@@ -1,0 +1,28 @@
+#+TITLE: Week 3 - The Food Chain
+#+DATE: January 22, 2018
+#+SLUG: week3-pollan
+#+TAGS: food production, corn, industrial food system
+ 
+------
+
+This week we'll discuss Michael Pollan's book /The Omnivore's Dilemma/. We'll
+look at the various factors that contribute to the final food products that we
+consume from restaurants and grocery stores, with a special eye to corn
+production. 
+
+The slides for this week can be found [[file:{filename}/slides/week3_food_system.pdf][here]].
+
+** Class 5 (1/23)
+- Overview of the food system, with a focus on corn
+  - READ: Michael Pollan, /Omnivore’s Dilemma/, chapters 1-4
+** Class 6 (1/25)
+- Overview continued 
+  - READ: /Omnivore's Dilemma/, chapters 5-7
+** Reading Questions
+- What does Pollan consider to be "industrial food"?
+- Why is corn central to industrial agriculture in the US?
+- Pollan calls corn the "protocapitalist plant"; what does he mean by this?
+- What is "monoculture" farming?
+- What invention does Pollan point to as the origin of industrial agriculture?
+  
+  

@@ -1,0 +1,22 @@
+#+TITLE: Week 15 - Review
+#+DATE: April 23, 2018
+#+SLUG: week15-review
+ 
+------
+
+This week we conclude by discussing issues surrounding the aesthetics of food.
+Is food the kind of thing that can be evaluated as an aesthetic object -- i.e.
+as beautiful or sublime? We'll also discuss ways in which the aesthetics and
+the ethics of eating intersect.
+
+** No Class (4/24)
+
+# ** Class 25 (4/25)
+# - Susan Wolf, "[[file:{filename}/readings/wolf_foodie.pdf][The Ethics of Being a Foodie]]"
+# - Kevin Sweeney, "[[file:{filename}/readings/sweeney_soup.pdf][Can a Soup be Beautiful?]]"
+# - [[file:{filename}/slides/week15_aesthetics.pdf][Slides]]
+
+** Class 26 (4/26)
+- Catch up & review
+- [[file:{filename}/slides/final-review.html][Review outline]]
+  

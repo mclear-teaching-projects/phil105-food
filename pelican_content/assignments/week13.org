@@ -1,0 +1,32 @@
+#+TITLE: Week 13 - Food Justice
+#+DATE: April 9, 2018
+#+SLUG: week13-justice
+#+TAGS: ethics, politics, food justice, cosmopolitanism, locavore, localism
+ 
+------
+
+This week we continue our discussion of ethical and political issues
+surrounding food security. We won't have lecture on Thursday, but please
+listen to the interview with Mark Bittman and read the linked article. We have
+section on Friday as normal.
+
+** Class 22 (4/11)
+- Heldke, "[[file:{filename}/readings/heldke_globalism.pdf][Down-Home Global Cooking]]" 
+- Mares & Peña, "[[file:{filename}/readings/mares_food_justice.pdf][Environmental and Food Justice]]" 
+- [[http://www.slowfood.com/about-us/][Slow Food]]
+- [[file:{filename}/slides/week13_food_justice.pdf][Slides]]
+
+** No Class (4/13)
+- AUDIO: [[https://soundcloud.com/bioneers/going-locavore-michael-pollan-oran-hesterman-james-ella-james-and-victoria-carter][Going locavore]]
+- AUDIO: [[http://www.npr.org/templates/transcript/transcript.php?storyId=502169763][Bittman on being a locavore and the changing food industry]]
+- Anderson, [[https://www.dissentmagazine.org/article/limits-of-the-locavore][Limits of the Locavore]]
+- Maltz Bovy, [[https://newrepublic.com/article/121374/foodie-elitism-are-mark-bittman-and-michael-pollan-elitist][Foodie Elitism]]
+
+** Reading Questions
+- What are "slow" or "deep" food systems?
+- What advantage might there be to having a purely "local" food system?
+  How local is "local"?
+- What does Heldke mean by "food cosmopolitanism"?
+- What is the intermediate position that Heldke advocates between
+  cosmopolitanism and localism?
+- How might localism be "elitist"?

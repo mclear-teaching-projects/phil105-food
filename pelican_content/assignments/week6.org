@@ -1,0 +1,38 @@
+#+TITLE: Week 6 - The Industrial Production of Chicken
+#+DATE: February 12, 2018
+#+SLUG: week6-chicken
+#+TAGS: food policy, politics, industrial food system, industrial meat
+ 
+------
+
+This week we continue our introduction to the ethics of eating with a look at
+the way in which the industrial food system produces poultry (chicken in
+particular) both for consumption and egg production. We'll also start to
+discuss the different moral frameworks we might use in evaluating the moral
+status of animals and the issue of killing them for food.
+
+Here are slides for [[file:{filename}/slides/week6_poultry.pdf][poultry factory farming]] and [[file:{filename}/slides/week6_consequentialism.pdf][consequentialism]].
+
+** Class 10 (2/13)
+- JSF, "Words/Meaning" (44-77), "Hiding/Seeking" (81-9) & "The life and death of a bird" (129-37)
+# - Jeff McMahan, “[[https://opinionator.blogs.nytimes.com/2010/09/19/the-meat-eaters/?_r=0][The Meat-Eaters]]”
+- WATCH:
+  - [[https://www.youtube.com/watch?v=3HAMk_ZYO7g][Is it Ok to Kill Animals for Food?]]
+  - [[http://www.huffingtonpost.com/2009/09/01/chicks-being-ground-up-al_n_273652.html][Poultry & Egg Industry]] (warning: graphic content)
+  - [[https://www.youtube.com/watch?v=lO5TikjZU3c][Catching chickens]]
+
+** Class 11 (2/15)
+- Introducing ethical theories
+  - Consequentialism
+    - READ: James Rachels, [[file:{filename}/readings/rachels_consequentialism.pdf][Elements of Moral Philosophy, ch. 7]]
+- WATCH:
+  - [[https://www.youtube.com/watch?v=hACdhD_kes8][Consequentialism]]
+  - Utilitarianism: [[https://www.youtube.com/watch?v=uvmz5E75ZIA][Part 1]], [[https://www.youtube.com/watch?v=uGDk23Q0S9E][Part 2]], & [[https://www.youtube.com/watch?v=MoCuVa9UeR4][Part 3]]
+
+** Reading Questions
+- How much does the intelligence of an animal matter when considering the
+  ethics of killing it for food?
+- Are the conditions under which chickens are raised in industrial farms cruel?
+- What is anthropocentrism? What is anthropomorphism?
+- Is it overly sentimental, or perhaps an anthropomorphic mistake, to worry
+  about the suffering of an animal raised for food?
