@@ -5,7 +5,7 @@ author = false
 toc = false
 +++
 
-This is the local landing page for **PHIL 105** -- The Philosophy of Food.
+This is **PHIL 105** -- The Philosophy of Food.
 
 Food is a central part of human life, both in its production and consumption.
 Food is closely tied to the values that we hold, and the cultural identities
@@ -20,7 +20,7 @@ questions we shall pursue include:
     social practices?
 
 -   What are the major economic and political structures governing food
-    production and comsumption in the United States and other western countries?
+    production and consumption in the United States and other western countries?
     How do these structures impact developing countries?
 
 -   What are the environmental and social consequences of various sorts of
@@ -37,7 +37,7 @@ questions we shall pursue include:
 The course syllabus is available here: [PDF](/materials/phil105-syllabus.pdf) | [HTML](/materials/phil105-syllabus.html)
 
 Much of our discussion focuses on the modern industrial food system. For
-asense of the scale of such operations you might look at this [New York Times
+a sense of the scale of such operations you might look at this [New York Times
 Magazine article](https://www.nytimes.com/interactive/2016/10/09/magazine/big-food-photo-essay.html).
 
-All course materials are on the course website on [canvas](https://canvas.unl.edu/courses/49195).
+All course materials are on the course website on [Canvas](https://canvas.unl.edu/courses/49195).
