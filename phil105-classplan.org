@@ -7,6 +7,7 @@
 #+EXCLUDE_TAGS: noexport archive nohugo
 #+TODO: DRAFT | DONE CANCELED
 #+TODO: TODO | DONE CANCELED
+#+OPTIONS: prop:t
 #+LANGUAGE: en
 
 * Notes
@@ -14,7 +15,7 @@ These are notes to supplement student reading. Their aim is to be introductory
 and to raise questions for discussion. 
 
 * Course Outline
-** Week 1 - What is food?
+** TODO Week 1 - What is food?
 This week we'll talk about the content of the course and start trying to
 define its subject matter -- food. What is food anyway? Is it anything we can
 eat? Anything we can digest? Something else entirely? 
@@ -22,10 +23,10 @@ eat? Anything we can digest? Something else entirely?
 *** Class 1 (8/21)
 - Overview of the course
 - What is food? - How do we answer this question?
-  - READ: Scherer, [[http://firstwefeast.com/eat/2015/04/philosophy-of-meat-bread][What is a sandwich?]]
-
+    
 *** Class 2 (8/23)
 - Giving a definition (defining a thing or its concept)
+  - READ: Scherer, [[http://firstwefeast.com/eat/2015/04/philosophy-of-meat-bread][What is a sandwich?]]
   - READ: [[file:{filename}/readings/definition.pdf][Definitions, Category Mistakes, Necessary & Sufficient Conditions, Essence & Accident]]
 - What is it to be a member of a kind?
   - READ: [[file:{filename}/readings/counterexamples.pdf][Criteria & Counterexamples]]
@@ -39,7 +40,7 @@ eat? Anything we can digest? Something else entirely?
       
 
 
-** Week 2 - The social construction of food
+** TODO Week 2 - The social construction of food
 This week we continue our discussion of what counts as "food". We'll look in
 particular at the notion of a social kind, and relatedly, a "socially
 constructed" concept. We'll also discuss cannibilism and the cultural norms
@@ -69,7 +70,7 @@ that surround the consumption of food.
 - What does Pollan mean by saying that some foods aren't food?
 - Can people be food?
 
-** Week 3 - The industrial food system
+** TODO Week 3 - The industrial food system
 This week we'll discuss Michael Pollan's book /The Omnivore's Dilemma/. We'll
 look at the various factors that contribute to the final food products that we
 consume from restaurants and grocery stores, with a special eye to corn
@@ -94,7 +95,7 @@ The slides for this week can be found [[file:{filename}/slides/week3_food_system
 - What is "monoculture" farming?
 - What invention does Pollan point to as the origin of industrial agriculture?
   
-** Week 4 - Industrial meat production
+** TODO Week 4 - Industrial meat production
 This week we continue our introduction to the ethics of eating with a look at
 the way in which the industrial food system produces poultry (chicken in
 particular) both for consumption and egg production. We'll also start to
@@ -116,7 +117,7 @@ status of animals and the issue of killing them for food.
   about the suffering of an animal raised for food?
   
 
-** Week 5 - The ethics of eating
+** TODO Week 5 - The ethics of eating
 Is it morally ok to eat meat? Even if it /is/ ok, are the ways in which modern industrial societies produce meat that are not ok?
 
 *** Class 9 (9/18)
@@ -136,7 +137,7 @@ Is it morally ok to eat meat? Even if it /is/ ok, are the ways in which modern i
 - Is it morally ok to eat a human for food? If not, then why is it ok to eat a
   non-human animal for food?
 
-** Week 6 - Ethical frameworks I
+** TODO Week 6 - Ethical frameworks I
 This week we discuss a particular moral framework---Consequentialism---and its
 application to the question of the moral permissibility of killing animals for
 food. 
@@ -160,7 +161,7 @@ food.
 - How might the moral status of the act of killing an animal for food be
   understood by the utilitarian?
 
-** Week 7 - Ethical frameworks II
+** TODO Week 7 - Ethical frameworks II
 
 We continue our discussion of consequentialism and deontology this week. We
 look first at a utilitarian critique of Pollan's defense of eating meat. We
@@ -190,7 +191,7 @@ principles or laws.
 - What is, according to Regan, the basis for having inherent value?
 - What, according to Regan, is wrong with utilitarianism?
 
-** Week 8 - Review & Midterm
+** TODO Week 8 - Review & Midterm
 We'll review for the mid-term, which takes place /in class/ on Thursday.
 
 *** Class 15 (10/9)
@@ -200,7 +201,7 @@ We'll review for the mid-term, which takes place /in class/ on Thursday.
 *** Midterm Exam (10/11)
 - No need to bring green books!
 
-** Week 9 - Food politics
+** TODO Week 9 - Food politics
 This week we'll start looking at the way food policy works in the United
 States. In particular, we'll discuss the relationship between the US Department
 of Agriculture and large corporations involved in the production of food. 
@@ -211,7 +212,7 @@ of Agriculture and large corporations involved in the production of food.
 *** Class 17 (10/18)
 - READ: Nestle, /Food Politics/ Introduction & chs. 4-6
 
-** Week 10 - Ethical implications of food technology
+** TODO Week 10 - Ethical implications of food technology
 This week we finish our discussion of government food policy and industry
 influence. we discuss the various issues surrounding production and
 consumption of genetically modified and "functional" foods.
@@ -228,7 +229,7 @@ consumption of genetically modified and "functional" foods.
 - What is it for a food to be "functional"?
 - Why might one think that GM food is "unnatural"?
 
-** Week 11 - Food security & famine
+** TODO Week 11 - Food security & famine
 This week we discuss issues surrounding famine, affluence, and politics. 
 
 *** Class 20 (10/30)
@@ -247,7 +248,7 @@ This week we discuss issues surrounding famine, affluence, and politics.
 - What does Hardin mean when referring to "lifeboat" ethics?
 - Why do Murdoch & Oaten think that Hardin's position is simplistic and misleading?
 
-** Week 12 - Sustainability
+** TODO Week 12 - Sustainability
 *** Class 22 (11/6)
 - READ: Pollan, sec II (TODO: figure out distribution of chapters)
 - WATCH: [[https://www.youtube.com/watch?v=cqbOU07ZI2k][Salatin on Sustainable Farming]] (warning: somewhat graphic)
@@ -259,7 +260,7 @@ This week we discuss issues surrounding famine, affluence, and politics.
   
 *** Class 23 (11/8)
 
-** Week 13 - Geography & identity
+** TODO Week 13 - Geography & identity
 *** Class 24 (11/13)
 - LISTEN: [[https://soundcloud.com/bioneers/going-locavore-michael-pollan-oran-hesterman-james-ella-james-and-victoria-carter][Going locavore]]
 - LISTEN: [[http://www.npr.org/templates/transcript/transcript.php?storyId=502169763][Bittman on being a locavore and the changing food industry]]
@@ -281,7 +282,7 @@ This week we discuss issues surrounding famine, affluence, and politics.
 - How might localism be "elitist"?
 
   
-** Week 14 - The Aesthetics of Food
+** TODO Week 14 - The Aesthetics of Food
 
 For our last discussion unit we look at the aesthetics of food. Can food be
 art? Can it be beautiful or ugly? To answer such questions we need to know a
@@ -292,7 +293,7 @@ bit more about what it is to be an artwork, or beautiful, or ugly.
 
 *** Thanksgiving Break - No Class (11/22)
 
-** Week 15 - Aesthetics & Elitism
+** TODO Week 15 - Aesthetics & Elitism
 
 Last week we talked about general issues in understanding art works. This week
 we discuss the issue of food in particular, and obstacles for thinking of it
@@ -307,9 +308,10 @@ might be good or bad.
 - READ: Maltz Bovy, [[https://newrepublic.com/article/121374/foodie-elitism-are-mark-bittman-and-michael-pollan-elitist][Foodie Elitism]]
 - READ: Chris Newman on [[https://shift.newco.co/clean-food-if-you-want-to-save-the-world-get-over-yourself-8ae9e01cc7ea][food elitism]]
 - READ: Eric Schlosser, [[https://www.washingtonpost.com/opinions/why-being-a-foodie-isnt-elitist/2011/04/27/AFeWsnFF_story.html][Why being a foodie isn't 'elitist']]
+- READ: Finn, Just Mustard
 # - READ: Susan Wolf, The Ethics of Being a Foodie
 
-** Week 16 - In-class essay
+** TODO Week 16 - In-class essay
 
 *** In-class Essay (12/4)
 - Please bring a green book 
@@ -319,8 +321,167 @@ might be good or bad.
 #   their preparations for the essay exercise on Thursday 
 
  
-* Grades
-* Website
+* Slides
+** DRAFT Week 1 (8-20)
+:PROPERTIES:
+:EXPORT_OPTIONS: num:nil tags:nil timestamp:nil toc:nil todo:nil
+:EXPORT_FILE_NAME: ~/Dropbox/Work/projects/phil105/content/slides/week1-phil105-slides
+:EXPORT_TITLE: PHIL 105 – Week 1 Slides
+:EXPORT_DATE: 2018-08-20
+:END:
+*** The Philosophy of Food
+#+ATTR_HTML: :style min-width:75%; margin:auto; display:block; text-align:center
+[[/Users/roambot/projects/phil105/content/slides/tractors.jpg]]
+
+*** Class Info
+**** Class Website
+- Canvas Address: https://canvas.unl.edu/courses/49195
+  - Announcements
+  - Syllabus
+  - Course assignments
+    - Readings 
+    - Quizzes
+**** Weekly Section
+- Friday "quiz" section
+  - Attendance required
+  - Discussion of week's material
+  - Quizzes
+#+ATTR_REVEAL: :frag (appear)
+- Readings & Critical Questions *must be completed* by section on Friday!
+**** Course Materials
+#+ATTR_REVEAL: :frag (appear)
+- iClicker unit or iClicker-Reef Polling app
+- Two required books
+- Online readings (check Canvas)
+- Slides (check Canvas)
+
+**** Electronics Policy
+- No laptops/cellphones unless I've given you explicit permission
+  - Laptops/cellphones are generally [[https://docs.google.com/presentation/d/1vmQ548UJ0WnoSwkfREU3iR-m2Co1xTWzGkhcv6bFbY8/export/pptx?id=1vmQ548UJ0WnoSwkfREU3iR-m2Co1xTWzGkhcv6bFbY8][too much of a distraction]]
+**** Evaluation
+#+ATTR_REVEAL: :frag (appear)
+- Two Essays: 40%
+- Midterm: 25%
+- Quizzes (In sections): 15%
+- Critical Questions (Canvas): 5%
+- Participation: 15%
+  
+#+BEGIN_NOTES
+- There will be prompts for the essays (take-home & in-class)
+- We will review material for the mid-term in class
+- Note that there will be at least 10 quizzes
+  - Quiz sections on Thursday will have different questions from
+    sections on Friday
+  - Drop two lowest quizzes and count highest twice
+- Starting next week there will attendance taken in both lecture and section
+#+END_NOTES
+*** Group Exercise
+- How do we know when something is a member of a kind?
+  - Name one feature *required* to be a member of the following kinds:
+    - President of the United States of America
+    - Gold
+    - Bachelor
+      
+#+REVEAL: split
+- Name one feature that is *enough* to be a member of the following kinds:
+  - President of the United States of America
+  - Gold
+  - Bachelor
+
+
+*** Writing Exercise                                                          :noexport:
+
+- What is one thing you want to learn in this class?
+- What is one food you love to eat?
+- Have you ever been a part of a food production process?    
+
+*** Definitions
+
+#+ATTR_REVEAL: :frag (appear)
+- Necessary conditions :: what is /required/ for something to be the case.
+- Sufficient conditions :: what is /enough/ for something to be the case.
+- Definition :: the *necessary* and *sufficient* conditions for the
+                application of a term or concept. A proper definition should
+                specify all and only the defined objects.  
+                
+*** Food & Nutrients 
+- Nutrient :: a component or element of a food stuff that an organism needs in order
+              to develop and/or survive
+              
+#+BEGIN_NOTES
+- Macronutrients :: fat, water, protein, carbohydrates
+- Micronutrients :: vitamins & minerals
+- "Essential nutrients" are nutrients whose lack is linked to specific
+  deficiency diseases (e.g. Vitamin C & scurvy)
+  - Essential nutrients are unable to be synthesized internally (either at
+    all, or in sufficient quantities), and so must be consumed by an organism
+    from its environment
+#+END_NOTES
+
+*** Food & Energy
+- Calorie :: The amount of energy needed to raise the temperature of 1 kilogram of
+             water 1 degree Celsius
+            
+#+BEGIN_NOTES
+- A calories is a *unit measure*; calories aren't in a thing like nutrients are
+- A calorie is ultimately a measure of digestable (burnable/metabolizable) energy
+#+END_NOTES
+
+*** "Food" Defined?
+
+- Food :: Any substance or stuff that can provide nutritional calories
+          
+#+BEGIN_NOTES
+- Are there counterexamples? 
+  - Not sufficient: feces is not (for humans) food; water & oxygen are not foodstuffs
+  - Not necessary: cellulose (fiber more generally) is not a nutrient & has no
+    calories (its indigestible) but is present in many foods
+#+END_NOTES
+
+*** Natural Kinds  
+- Natural Kind :: a kind, term, or sortal concept (e.g. cat, dog, mammal) that
+                  corresponds to a grouping that reflects the structure of the
+                  natural world rather than the interests, actions, or
+                  practices of human beings 
+
+#+BEGIN_NOTES 
+- Is "food" a natural kind? Is it more like "cool" or more like "water"?
+#+END_NOTES
+
+*** Social Construction                                                       :noexport:
+- Social Construction :: Something is (at least partly) a social construction only if it is either brought into existence or specifically makes reference to "social" practices as opposed to "natural" causes or events
+
+     
+#+ATTR_REVEAL: :frag (appear)
+- Examples include
+  #+ATTR_REVEAL: :frag (appear)
+  - Artifacts (e.g. washing machines, smart phones)
+  - Social position (e.g. husband/wife, king/queen)
+  
+#+BEGIN_NOTES
+  - Includes all artifacts, and much else besides
+    - washing machines (artifact; causally constructed)
+    - husband/wife (non-artifact; constitutively constructed)
+    - professor (non-artifact; constitutively constructed)
+  - Note that "socially constructed" doesn't mean "not real"
+#+END_NOTES
+
+*** CANCELED Causal vs. Constitutive                                          :noexport:
+#+ATTR_REVEAL: :frag (appear)
+- Causal construction :: Something is causally constructed iff social factors play a causal role in bringing it into existence or, to some substantial extent, in its being the way it is.
+#+BEGIN_NOTES
+- *Example*: social vs. biological causes in evaluating that someone is male/female
+#+END_NOTES
+#+ATTR_REVEAL: :frag (appear)
+- Constitutive construction :: Something is constitutively constructed iff in defining it we must make reference to social factors.
+    
+#+BEGIN_NOTES
+- Explain that "iff" is if and only -- i.e. necessary and sufficient
+- Can something be both causally & constitutively constructed?
+#+END_NOTES
+
+
+* Website                                                                       :noexport:
 ** Pages
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: ./
@@ -911,7 +1072,7 @@ This formative assessment is typically completed by students in the last 10 minu
 #+STARTUP: nologdone
 #+OPTIONS: H:4 author:nil date:nil
 #+OPTIONS: prop:t
-#+PANDOC_METADATA: numbersections:t secnumdepth:4 
+#+PANDOC_METADATA: numbersections:nil secnumdepth:4 
 #+PANDOC_METADATA: link-citations:t colorlinks:t toc:false 
 #+PANDOC_METADATA: "lhead:"
 #+PANDOC_METADATA: "mainfont:Optima"
@@ -920,10 +1081,19 @@ This formative assessment is typically completed by students in the last 10 minu
 #+PANDOC_OPTIONS: template:~/.pandoc/pandoc-templates/tufteII.tex
 #+PANDOC_OPTIONS: standalone:t pdf-engine:xelatex  
 #+BIBLIOGRAPHY: ~/Dropbox/Work/Master.bib​
-
-* COMMENT Local Variables                          :ARCHIVE:
-# Local Variables:
-# eval: (add-hook 'after-save-hook #'org-hugo-export-wim-to-md-after-save :append :local)
-# End:
-
-
+# #+OPTIONS: reveal_title_slide:"<h1>%t</h1><h3>%d</h3><h4>phil105.colinmclear.net</h4>"
+#+OPTIONS: reveal_center:nil reveal_progress:t reveal_history:nil reveal_control:t
+#+OPTIONS: reveal_rolling_links:nil reveal_keyboard:t reveal_overview:t num:nil
+#+OPTIONS: toc:2 reveal_slide_number:c/t 
+#+REVEAL_TRANS: convex
+#+REVEAL_THEME: solarized
+#+REVEAL_HLEVEL: 1
+#+REVEAL_HEAD_PREAMBLE: <meta name="description" content="PHIL 105 Slides">
+#+REVEAL_POSTAMBLE: <p> Created by Colin McLear. </p>
+#+REVEAL_PLUGINS: (markdown notes highlight)
+#+REVEAL_EXTRA_CSS: /Users/cmclear2/Dropbox/Work/projects/phil101/content/slides/local.css
+#+REVEAL_EXTRA_CSS: /Users/Roambot/Dropbox/Work/projects/phil101/content/slides/local.css
+#+EXCLUDE_TAGS: noexport
+# #+OPTIONS: toc:1 reveal_slide_number:c/t 
+# #+OPTIONS: reveal_single_file:t
+# -*- org-list-allow-alphabetical: t; -*- 
