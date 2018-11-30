@@ -38,6 +38,6 @@ The course syllabus is available here: [PDF](/materials/phil105-syllabus.pdf) | 
 
 Much of our discussion focuses on the modern industrial food system. For
 a sense of the scale of such operations you might look at this [New York Times
-Magazine article](https://www.nytimes.com/interactive/2016/10/09/magazine/big-food-photo-essay.html).
+Magazine article](https://www.nytimes.com/interactive/2016/10/09/magazine/big-food-photo-essay.html) or Gregg Segal&rsquo;s project [Daily Bread](https://www.greggsegal.com/P-Projects/Daily-Bread/1/thumbs).
 
 All course materials are on the course website on [Canvas](https://canvas.unl.edu/courses/49195).
