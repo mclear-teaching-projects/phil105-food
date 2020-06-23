@@ -176,7 +176,7 @@
 #+END_NOTES
 
 ** "Food" Defined?
-- Food :: Any substance or stuff that provides nutritional calories
+- Food :: Any substance or stuff that can provide nutritional calories
          
 \\
 
@@ -2907,7 +2907,7 @@ B. No
 2. Very poor regulatory oversight for food as compared to medicine 
 3. The current burden of proof placed on the consumer to demonstrate a
    product is unsafe is unfair and unreasonable
-
+   
 *** The Role of the Market
     :PROPERTIES:
     :CUSTOM_ID: the-role-of-the-market

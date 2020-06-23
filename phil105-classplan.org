@@ -8,14 +8,11 @@
 #+TODO: DRAFT | DONE CANCELED
 #+TODO: TODO | DONE CANCELED
 #+OPTIONS: prop:t
+#+OPTIONS: \n:nil
 #+LANGUAGE: en
 
-* Notes
-These are notes to supplement student reading. Their aim is to be introductory
-and to raise questions for discussion. 
-
 * Course Outline
-** TODO Week 1 - What is food?
+** DONE Week 1 - What is food?
 This week we'll talk about the content of the course and start trying to
 define its subject matter -- food. What is food anyway? Is it anything we can
 eat? Anything we can digest? Something else entirely? 
@@ -40,37 +37,34 @@ eat? Anything we can digest? Something else entirely?
       
 
 
-** TODO Week 2 - The social construction of food
-This week we continue our discussion of what counts as "food". We'll look in
-particular at the notion of a social kind, and relatedly, a "socially
-constructed" concept. We'll also discuss cannibilism and the cultural norms
-that surround the consumption of food. 
+** DONE Week 2 - The social construction of food
+This week we continue our discussion of what counts as “food”. We’ll look in particular at the notion of a social kind, and relatedly, a “socially constructed” concept. We’ll also spend some time discussing some of the cultural norms and practices that determine what counts as "food."
 
 *** Class 3 (8/28)
-- What is a "social kind"?
-  - READ: Haslanger, [[file:{filename}/readings/haslanger_ch2.pdf][excerpt from ch.2 (§2) of /Resisting Reality/ ]]
-  - What is "social construction"?
-    - what examples can we think of that are socially constructed kinds?
-- READ: Pollan, [[http://www.nytimes.com/2007/01/28/magazine/28nutritionism.t.html][Unhappy Meals]]
-
-*** Class 4 (8/30)
-  
+- Address food definition and how "zero cal" foods work
+- What is a “social kind”?
+- What is “social construction”?
+- What examples can we think of that are socially constructed kinds?
 - Food as nutritional calories vs. food as social kind
-  - What is a "nutrient"?
+  - What is a “nutrient”? A "calorie"?
+- READ: Pollan, [[http://www.nytimes.com/2007/01/28/magazine/28nutritionism.t.html][Unhappy Meals]]
+  
+*** Class 4 (8/30)
+
 - Against Nutritionism
-  - Are there edible nutritional vehicles that we wouldn't count as food? (sufficient conditions)
-    - READ: [[http://gawker.com/5985723/can-you-eat-your-own-poop?tag=Food][Can you eat your own poop?]]
-  - Are there foods that aren't nutritional? (necessary conditions)
-  - READ: Pollan, chs 1-2 of /In Defense of Food/
-   
+  - Are there edible nutritional vehicles that we wouldn’t count as food? (sufficient conditions) (Links to an external site.)Links to an external site.
+  - Are there foods that aren’t nutritional? (necessary conditions)
+  - Does Nutritionism encourge a problematic relationship to food production or consumption
+- Alternatives to Nutritionism 
+  - READ: Pollan, excerpt from /In Defense of Food/ 
 
-*** Reading Questions
-- How might "food" be a socially constructed kind?
-- Is "meat" a similar social construction?
-- What does Pollan mean by saying that some foods aren't food?
-- Can people be food?
+*** Critical Questions
 
-** TODO Week 3 - The industrial food system
+1. Describe, or provide an example, of how our concept of food is socially constructed
+2. In what sense is the concept of "meat" socially constructed?
+3. What does Pollan mean when he says "eat food"? What else would one eat?
+
+** DONE Week 3 - The industrial food system
 This week we'll discuss Michael Pollan's book /The Omnivore's Dilemma/. We'll
 look at the various factors that contribute to the final food products that we
 consume from restaurants and grocery stores, with a special eye to corn
@@ -95,30 +89,34 @@ The slides for this week can be found [[file:{filename}/slides/week3_food_system
 - What is "monoculture" farming?
 - What invention does Pollan point to as the origin of industrial agriculture?
   
-** TODO Week 4 - Industrial meat production
-This week we continue our introduction to the ethics of eating with a look at
-the way in which the industrial food system produces poultry (chicken in
-particular) both for consumption and egg production. We'll also start to
-discuss the different moral frameworks we might use in evaluating the moral
-status of animals and the issue of killing them for food.
+  
+** DONE Week 4 - Industrial meat production
+Week 4 This week we being approaching the issue of the ethics of eating
+with a look at the way in which the industrial food system produces beef
+and poultry (chicken in particular) both for consumption and egg
+production. Most of our readings will be drawn from Jonathan Safran
+Foer's /Eating Animals/. 
 
-*** Class 7 (9/11)
-- READ: JSF, "Words/Meaning" (44-77), "Hiding/Seeking" (81-9) & "The life and death of a bird" (129-37)
+*** Class 7 (9/11) 
+
+- READ: JSF, "All or Nothing or Something Else" (20-41), “Words/Meaning” (44-77) 
 - READ: Bittman, "[[https://opinionator.blogs.nytimes.com/2011/03/15/some-animals-are-more-equal-than-others/?_r=0][Some Animals Are More Equal Than Others]]"
 
-*** Class 8 (9/13)
+*** Class 8 (9/13) 
+- READ: JSF, "Hiding/Seeking" (81-115) & "The life and death of a bird" (129-37) 
+- WATCH: [[http://www.wi-phi.com/video/moral-status][Moral Status]]
 - WATCH: [[http://www.huffingtonpost.com/2009/09/01/chicks-being-ground-up-al_n_273652.html][Poultry & Egg Industry]] (warning: graphic content)
 - WATCH: [[https://www.youtube.com/watch?v=lO5TikjZU3c][Catching chickens]]
 
-*** Reading Questions
-- Are the conditions under which chickens are raised in industrial farms cruel?
-- What is anthropocentrism? What is anthropomorphism?
-- Is it overly sentimental, or perhaps an anthropomorphic mistake, to worry
-  about the suffering of an animal raised for food?
   
+*** Critical Questions
+1. What is anthropomorphism?
+2. In North America, which animal (or kind of animal) is produced/killed in the largest numbers? 
+3. Why might the scale of the industrial meat system be important for assessing/evaluating it?
 
-** TODO Week 5 - The ethics of eating
-Is it morally ok to eat meat? Even if it /is/ ok, are the ways in which modern industrial societies produce meat that are not ok?
+
+** DONE Week 5 - The ethics of eating
+Is it morally ok to eat meat? What kinds of things must we consider in order to answer this question? 
 
 *** Class 9 (9/18)
 - READ: David Foster Wallace, “[[file:{filename}/readings/wallace_lobster.pdf][Consider the Lobster]]”
@@ -127,8 +125,8 @@ Is it morally ok to eat meat? Even if it /is/ ok, are the ways in which modern i
 - OPTIONAL: [[https://www.usatoday.com/story/news/world/2018/02/16/new-swiss-law-pain-free-deaths-lobsters-flushing-goldfish-down-toilet-breaking-law-according-new-swi/341412002/][Switzerland bans boiling of lobsters]]
 
 *** Class 10 (9/20)
-- WATCH (optional): Twilight Zone, [[https://www.youtube.com/watch?v=BEy9Z44GXyc][To Serve Man]]
 - WATCH: [[https://www.youtube.com/watch?v=3HAMk_ZYO7g][Is it Ok to Kill Animals for Food?]]
+- WATCH (optional): Twilight Zone, [[https://www.youtube.com/watch?v=BEy9Z44GXyc][To Serve Man]]
 
     
 *** Reading Questions
@@ -137,7 +135,7 @@ Is it morally ok to eat meat? Even if it /is/ ok, are the ways in which modern i
 - Is it morally ok to eat a human for food? If not, then why is it ok to eat a
   non-human animal for food?
 
-** TODO Week 6 - Ethical frameworks I
+** DONE Week 6 - Ethical frameworks I
 This week we discuss a particular moral framework---Consequentialism---and its
 application to the question of the moral permissibility of killing animals for
 food. 
@@ -161,7 +159,7 @@ food.
 - How might the moral status of the act of killing an animal for food be
   understood by the utilitarian?
 
-** TODO Week 7 - Ethical frameworks II
+** DONE Week 7 - Ethical frameworks II
 
 We continue our discussion of consequentialism and deontology this week. We
 look first at a utilitarian critique of Pollan's defense of eating meat. We
@@ -191,7 +189,7 @@ principles or laws.
 - What is, according to Regan, the basis for having inherent value?
 - What, according to Regan, is wrong with utilitarianism?
 
-** TODO Week 8 - Review & Midterm
+** DONE Week 8 - Review & Midterm
 We'll review for the mid-term, which takes place /in class/ on Thursday.
 
 *** Class 15 (10/9)
@@ -201,7 +199,7 @@ We'll review for the mid-term, which takes place /in class/ on Thursday.
 *** Midterm Exam (10/11)
 - No need to bring green books!
 
-** TODO Week 9 - Food politics
+** DONE Week 9 - Food politics
 This week we'll start looking at the way food policy works in the United
 States. In particular, we'll discuss the relationship between the US Department
 of Agriculture and large corporations involved in the production of food. 
@@ -210,17 +208,16 @@ of Agriculture and large corporations involved in the production of food.
 - WATCH: Nestle, [[https://www.youtube.com/watch?v=TibndsX9g3c][Food and Politics with Marion Nestle]]
 
 *** Class 17 (10/18)
-- READ: Nestle, /Food Politics/ Introduction & chs. 4-6
+- READ: Nestle, /Food Politics/ Introduction & ch. 4
 
-** TODO Week 10 - Ethical implications of food technology
+** DONE Week 10 - Case Studies
 This week we finish our discussion of government food policy and industry
 influence. we discuss the various issues surrounding production and
 consumption of genetically modified and "functional" foods.
 
 *** Class 18 (10/23)
-- READ: Nestle, Food Politics, Chs. 13-14
-- READ: David Kaplan, "[[file:{filename}/readings/kaplan_functional.pdf][What's Wrong with Functional Foods?]]"
-
+- READ: Nestle, Soda Politcs
+  
 *** Class 19 (10/25)
 - READ: David Kaplan, "[[file:{filename}/readings/kaplan_functional.pdf][What's Wrong with Genetically Modified Food?]]"
 
@@ -229,16 +226,14 @@ consumption of genetically modified and "functional" foods.
 - What is it for a food to be "functional"?
 - Why might one think that GM food is "unnatural"?
 
-** TODO Week 11 - Food security & famine
+** DONE Week 11 - Food security & famine
 This week we discuss issues surrounding famine, affluence, and politics. 
 
 *** Class 20 (10/30)
 - READ: [[https://en.wikipedia.org/wiki/1970_Bhola_cyclone][Background on the 1971 Bangladesh Famine]]
 - READ: Peter Singer, "[[file:{filename}/readings/singer_famine.pdf][Famine, Affluence, and Morality]]"
 
-*** Class 21 (11/1)
-- READ: Hardin, "[[file:{filename}/readings/hardin_lifeboat.pdf][Lifeboat Ethics]]"
-- READ: Murdoch and Oaten, "[[file:{filename}/readings/murdoch_population.pdf][Population and Food]]"
+*** No Class (11/1)
 
   
 *** Reading Questions
@@ -248,8 +243,13 @@ This week we discuss issues surrounding famine, affluence, and politics.
 - What does Hardin mean when referring to "lifeboat" ethics?
 - Why do Murdoch & Oaten think that Hardin's position is simplistic and misleading?
 
-** TODO Week 12 - Sustainability
+** DONE Week 12 - Sustainability
 *** Class 22 (11/6)
+- READ: Hardin, "[[file:{filename}/readings/hardin_lifeboat.pdf][Lifeboat Ethics]]"
+- READ: Murdoch and Oaten, "[[file:{filename}/readings/murdoch_population.pdf][Population and Food]]"
+  
+*** Class 23 (11/8)
+
 - READ: Pollan, sec II (TODO: figure out distribution of chapters)
 - WATCH: [[https://www.youtube.com/watch?v=cqbOU07ZI2k][Salatin on Sustainable Farming]] (warning: somewhat graphic)
 - WATCH: [[https://www.youtube.com/watch?v=gAHGbbjenhI][Pollan on Salatin & Sustainable Farming]]
@@ -257,10 +257,8 @@ This week we discuss issues surrounding famine, affluence, and politics.
 - OPTIONAL: [[http://www.farmlandlp.com/2012/01/one-acre-feeds-a-person/][One Acre Feeds a Person]]
 - Welin, Gold, & Berlin, "[[file:{filename}/readings/welin_in_vitro_meat.pdf][In Vitro Meat]]"
 - (OPTIONAL): [[http://www.slate.com/articles/technology/future_tense/2015/09/in_vitro_meat_probably_won_t_save_the_planet_yet.html][The Problem with Factory Meat]]  
-  
-*** Class 23 (11/8)
 
-** TODO Week 13 - Geography & identity
+** DONE Week 13 - Geography & identity
 *** Class 24 (11/13)
 - LISTEN: [[https://soundcloud.com/bioneers/going-locavore-michael-pollan-oran-hesterman-james-ella-james-and-victoria-carter][Going locavore]]
 - LISTEN: [[http://www.npr.org/templates/transcript/transcript.php?storyId=502169763][Bittman on being a locavore and the changing food industry]]
@@ -282,18 +280,19 @@ This week we discuss issues surrounding famine, affluence, and politics.
 - How might localism be "elitist"?
 
   
-** TODO Week 14 - The Aesthetics of Food
+** CANCELED Week 14 - The Aesthetics of Food 
 
 For our last discussion unit we look at the aesthetics of food. Can food be
 art? Can it be beautiful or ugly? To answer such questions we need to know a
 bit more about what it is to be an artwork, or beautiful, or ugly. 
 
-*** TODO Class 26 (11/20)
+*** TODO Class 26 (11/20) (Maybe Cancel???)
 - WATCH: [[https://www.youtube.com/watch?v=NZ5duzln2wI][Aesthetic appreciation]] 
+- READ: Kevin Sweeney, Can a Soup be Beautiful?
 
 *** Thanksgiving Break - No Class (11/22)
 
-** TODO Week 15 - Aesthetics & Elitism
+** TODO Week 15 - Elitism
 
 Last week we talked about general issues in understanding art works. This week
 we discuss the issue of food in particular, and obstacles for thinking of it
@@ -302,14 +301,20 @@ also discuss some of the ways in which pursuit of food as an aesthetic object
 might be good or bad. 
 
 *** TODO Class 28 (11/27)
-- READ: Kevin Sweeney, Can a Soup be Beautiful?
-
-*** TODO Class 29 (11/30)
-- READ: Maltz Bovy, [[https://newrepublic.com/article/121374/foodie-elitism-are-mark-bittman-and-michael-pollan-elitist][Foodie Elitism]]
+# - READ: Maltz Bovy, [[https://newrepublic.com/article/121374/foodie-elitism-are-mark-bittman-and-michael-pollan-elitist][Foodie Elitism]]
 - READ: Chris Newman on [[https://shift.newco.co/clean-food-if-you-want-to-save-the-world-get-over-yourself-8ae9e01cc7ea][food elitism]]
 - READ: Eric Schlosser, [[https://www.washingtonpost.com/opinions/why-being-a-foodie-isnt-elitist/2011/04/27/AFeWsnFF_story.html][Why being a foodie isn't 'elitist']]
-- READ: Finn, Just Mustard
+# - READ: Finn, Just Mustard
+- ???: Talk about dispute between "pastoral" vs "industrial" organic as key to making good food widely available 
+  
 # - READ: Susan Wolf, The Ethics of Being a Foodie
+
+*** TODO Class 29 (11/30)
+- In-class exercise for writing
+  - present a simple prompt
+  - have them do think-pair-share excercise to answer
+  - walk through the answer
+- Course evals
 
 ** TODO Week 16 - In-class essay
 
@@ -321,17 +326,100 @@ might be good or bad.
 #   their preparations for the essay exercise on Thursday 
 
  
+* SIOT Plan
+*E. Write papers using theses, organization, arguments, evidence, and   
+1language suitable to analytical writing in general and the discipline  pt shapes our
+ of philosophy in particular                                            
+2. Understand the moral and political significance of our food choices
+3. Think critically about the ideas discussed in this course
+4. Critically evaluate and articulate (even create) a conception of what a food
+   system should look like
+
+** Course Objectives
+ This course satisfies ACE requirements 5 and 8. Upon completing this course students
+ should be able to:
+
+A. Find the argument of a text 
+B. Restate an argument from a text clearly in their own words
+C. Explain viewpoints clearly that may not be their own 
+D. Explain the practical significance of different courses of action regarding our
+   food choices, both as individuals and as a society
+E. Write papers using theses, organization, arguments, evidence, and language
+   suitable to analytical writing in general and the discipline of philosophy in
+   particular
+   
+* Module Organization   
+
+| Module Topics                                       | Module Objectives                                                     | Assessment            |
+|-----------------------------------------------------+-----------------------------------------------------------------------+-----------------------|
+| 0. Getting Started                                  | 1. Read the Syllabus                                                  | C/NC                  |
+|                                                     |                                                                       |                       |
+|-----------------------------------------------------+-----------------------------------------------------------------------+-----------------------|
+| 1. What is 'food'?                                  | 1. Understand what is it to define a concept                          | i. Critical Questions |
+|                                                     | 2. Explain how we know when we’ve gotten a definition right           |                       |
+|-----------------------------------------------------+-----------------------------------------------------------------------+-----------------------|
+| 2. The social construction of 'food'                | 1. Understand the difference between a natural kind and a social kind | i. Critical Questions |
+|                                                     | 2. Explain the sense in which ‘food’ denotes a natural kind           |                       |
+|                                                     | 3. Explain the sense in which ‘food’ denotes a social kind            |                       |
+|-----------------------------------------------------+-----------------------------------------------------------------------+-----------------------|
+| 3. The industrial food system, with a focus on corn | 1. Understand what a ‘food system’ is                                 |                       |
+|                                                     | 2. Explain what constitutes an ‘industrial‘ food system               |                       |
+|                                                     | 3. Understand & explain the history of the US industrial food system  |                       |
+|-----------------------------------------------------+-----------------------------------------------------------------------+-----------------------|
+| 4. Industrial meat production                       |                                                                       |                       |
+|                                                     |                                                                       |                       |
+|-----------------------------------------------------+-----------------------------------------------------------------------+-----------------------|
+| 5. The ethics of eating                             |                                                                       |                       |
+|                                                     |                                                                       |                       |
+|-----------------------------------------------------+-----------------------------------------------------------------------+-----------------------|
+| 6. Ethical frameworks I                             |                                                                       |                       |
+|                                                     |                                                                       |                       |
+|-----------------------------------------------------+-----------------------------------------------------------------------+-----------------------|
+| 7. Ethical frameworks II                            |                                                                       |                       |
+|                                                     |                                                                       |                       |
+|                                                     |                                                                       |                       |
+|-----------------------------------------------------+-----------------------------------------------------------------------+-----------------------|
+| 8. Food Politics                                    |                                                                       |                       |
+|                                                     |                                                                       |                       |
+|-----------------------------------------------------+-----------------------------------------------------------------------+-----------------------|
+| 9. Food Politics: Case Studies                      |                                                                       |                       |
+|                                                     |                                                                       |                       |
+|-----------------------------------------------------+-----------------------------------------------------------------------+-----------------------|
+| 10. Food security & famine                          |                                                                       |                       |
+|                                                     |                                                                       |                       |
+|-----------------------------------------------------+-----------------------------------------------------------------------+-----------------------|
+| 11. Sustainability                                  |                                                                       |                       |
+|                                                     |                                                                       |                       |
+|-----------------------------------------------------+-----------------------------------------------------------------------+-----------------------|
+| 12. Food Culture & Elitism                          |                                                                       |                       |
+|                                                     |                                                                       |                       |
+|-----------------------------------------------------+-----------------------------------------------------------------------+-----------------------|
+
+
+
+* Notes
+These are notes to supplement student reading. Their aim is to be introductory and to
+raise questions for discussion.
+
+** Heritage Chicken
+Check out [[http://goodshepherdpoultryranch.com][Good Shepard Poultry Ranch]] to see how it's done (see JSF §5 "I am the last poultry farmer")
+
 * Slides
-** DRAFT Week 1 (8-20)
+** DONE Week 1 (8-20)
 :PROPERTIES:
 :EXPORT_OPTIONS: num:nil tags:nil timestamp:nil toc:nil todo:nil
-:EXPORT_FILE_NAME: ~/Dropbox/Work/projects/phil105/content/slides/week1-phil105-slides
 :EXPORT_TITLE: PHIL 105 – Week 1 Slides
+:EXPORT_AUTHOR: Colin McLear
 :EXPORT_DATE: 2018-08-20
 :END:
 *** The Philosophy of Food
 #+ATTR_HTML: :style min-width:75%; margin:auto; display:block; text-align:center
-[[/Users/roambot/projects/phil105/content/slides/tractors.jpg]]
+[[/Users/roambot/projects/phil105/slides/tractor-cran.jpg]]
+# #+ATTR_HTML: :style text-align:center
+
+#+BEGIN_NOTES
+- Ocean Spray receiving and processing yard in Tomah, WI
+#+END_NOTES
 
 *** Class Info
 **** Class Website
@@ -400,11 +488,45 @@ might be good or bad.
 #+ATTR_REVEAL: :frag (appear)
 - Necessary conditions :: what is /required/ for something to be the case.
 - Sufficient conditions :: what is /enough/ for something to be the case.
-- Definition :: the *necessary* and *sufficient* conditions for the
-                application of a term or concept. A proper definition should
-                specify all and only the defined objects.  
+- Definition :: the *necessary* and *sufficient* conditions for the application of
+                a term or concept. A proper definition should specify all and
+                only the things satisfying the necessary and sufficient
+                conditions
                 
-*** Food & Nutrients 
+#+BEGIN_NOTES
+- nec & suff cond each give 'criteria' for kind membership
+- talk about counterexamples
+- often very difficult to give a fully precise definition (e.g. sandwich, chair)
+#+END_NOTES
+
+*** Natural Kinds  
+- Natural Kind :: a kind that corresponds to some grouping that reflects the
+                  structure of the natural world rather than the interests,
+                  actions, or practices of human beings
+
+\\
+                  
+#+ATTR_REVEAL: :frag (appear)
+- Examples of natural kind terms:
+  - "gold"
+  - "water"
+
+#+BEGIN_NOTES 
+- not all scientific definitions are "natural" - consider "planet"
+  1. is in orbit around the Sun,
+  2. has sufficient mass to assume hydrostatic equilibrium (a nearly round shape), and
+  3. has "cleared the neighborhood" around its orbit.
+- Is "sandwich" a natural kind?
+- Is "food" a natural kind? Is it more like "cool" or more like "water"?
+#+END_NOTES
+
+*** "Food" Defined?
+
+- Food :: Any substance or stuff that can provide nutritional calories
+          
+
+                
+**** Food & Nutrients 
 - Nutrient :: a component or element of a food stuff that an organism needs in order
               to develop and/or survive
               
@@ -418,7 +540,7 @@ might be good or bad.
     from its environment
 #+END_NOTES
 
-*** Food & Energy
+**** Food & Energy
 - Calorie :: The amount of energy needed to raise the temperature of 1 kilogram of
              water 1 degree Celsius
             
@@ -427,43 +549,42 @@ might be good or bad.
 - A calorie is ultimately a measure of digestable (burnable/metabolizable) energy
 #+END_NOTES
 
-*** "Food" Defined?
+**** Does 'Food' Pick out a Natural Kind?
 
 - Food :: Any substance or stuff that can provide nutritional calories
+
+\\
           
+#+ATTR_REVEAL: :frag (appear)
+1. Does the proposed definition cover all the things we intuitively consider to /be/ food?
+2. Does the proposed definition exclude all the things we intuitively think are /not/ food?
+
 #+BEGIN_NOTES
+- Talk about how we understand and analyze definitions
 - Are there counterexamples? 
   - Not sufficient: feces is not (for humans) food; water & oxygen are not foodstuffs
   - Not necessary: cellulose (fiber more generally) is not a nutrient & has no
     calories (its indigestible) but is present in many foods
 #+END_NOTES
 
-*** Natural Kinds  
-- Natural Kind :: a kind, term, or sortal concept (e.g. cat, dog, mammal) that
-                  corresponds to a grouping that reflects the structure of the
-                  natural world rather than the interests, actions, or
-                  practices of human beings 
 
-#+BEGIN_NOTES 
-- Is "food" a natural kind? Is it more like "cool" or more like "water"?
-#+END_NOTES
-
-*** Social Construction                                                       :noexport:
+*** Social Construction
 - Social Construction :: Something is (at least partly) a social construction only if it is either brought into existence or specifically makes reference to "social" practices as opposed to "natural" causes or events
-
      
+\\
+
 #+ATTR_REVEAL: :frag (appear)
 - Examples include
   #+ATTR_REVEAL: :frag (appear)
   - Artifacts (e.g. washing machines, smart phones)
   - Social position (e.g. husband/wife, king/queen)
-  
 #+BEGIN_NOTES
   - Includes all artifacts, and much else besides
     - washing machines (artifact; causally constructed)
     - husband/wife (non-artifact; constitutively constructed)
     - professor (non-artifact; constitutively constructed)
   - Note that "socially constructed" doesn't mean "not real"
+  - (for next week): Does "food" pick out a social construction? What about "meat"?
 #+END_NOTES
 
 *** CANCELED Causal vs. Constitutive                                          :noexport:
@@ -481,7 +602,2327 @@ might be good or bad.
 #+END_NOTES
 
 
-* Website                                                                       :noexport:
+** DONE Week 2 (8-27) Pollan on Nutritionism
+:PROPERTIES:
+:EXPORT_OPTIONS: num:nil tags:nil timestamp:nil toc:nil todo:nil
+:EXPORT_TITLE: PHIL 105 – Week 2 Slides
+:EXPORT_AUTHOR: Colin McLear
+:EXPORT_DATE: 2018-08-27
+:END:
+
+*** Giving Definitions
+- Definition :: the *necessary* and *sufficient* conditions for the application of
+                a term or concept. A proper definition should specify all and
+                only the things satisfying the necessary and sufficient
+                conditions
+                
+#+BEGIN_NOTES
+- Discuss how hard it can be to adequately define something
+- Discuss counterexamples
+#+END_NOTES
+
+*** Natural & Social Kinds
+#+ATTR_REVEAL: :frag (appear)
+- Natural Kind :: a kind that corresponds to some grouping that reflects the
+                  structure of the natural world rather than the interests,
+                  actions, or practices of human beings
+
+\\
+
+#+ATTR_REVEAL: :frag (appear)
+- Socially Constructed Kind :: a kind that is either brought into existence or
+     specifically makes reference to "social" practices as opposed to
+     "natural" causes or events
+     
+#+BEGIN_NOTES
+- not all kinds discussed by science are "natural" (e.g. "planet")
+- Socially constructed kinds include all artifacts, social roles/positions, possibly also race and gender
+#+END_NOTES
+*** Writing Exercise 
+1. Give an example of a natural kind and a social kind
+2. Name a feature for each example that you think marks it as being a
+   natural kind or a social kind
+
+#+BEGIN_NOTES
+- *Discussion*: Have students name examples of natural & social kinds and write them
+  down on whiteboard
+#+END_NOTES
+
+
+*** "Food" Defined?
+- Food :: Any substance or stuff that can provide nutritional calories
+         
+\\
+
+#+ATTR_REVEAL: :frag (appear)
+#+BEGIN_QUOTE
+Eat food. Not too much. Mostly plants.
+
+Once, food was all you could eat, but today there are lots of other edible
+foodlike substances in the supermarket (Pollan, "Unhappy Meals")
+#+END_QUOTE
+
+#+BEGIN_NOTES
+- Are there counterexamples? 
+  - Not sufficient: feces is not (for humans) food; water & oxygen are not foodstuffs
+  - Not necessary: cellulose (fiber more generally) is not a nutrient & has no
+    calories (its indigestible) but is present in many foods
+- In what sense is nutritionism "ideological"?
+#+END_NOTES
+
+
+*** Food vs Food-Like-Substances
+
+- Pollan's claims:
+  #+ATTR_REVEAL: :frag (appear)
+  1. We should distinguish food from other "food-like" edibles
+  2. The modern western diet is mostly based on edibles that resemble, but are not actually, food
+ 
+
+*** Nutritionism
+
+#+BEGIN_QUOTE
+The ﬁrst thing to understand about nutritionism...is that it is not quite the same as nutrition. As the “ism” suggests, it is not a scientiﬁc subject but an ideology. (Pollan, "Unhappy Meals")
+#+END_QUOTE
+
+#+ATTR_REVEAL: :frag (appear)
+1. What is an ideology?
+2. Why is nutritionism an ideology?
+
+*** Nutritionism as Ideology
+
+- Ideology :: Way(s) of organizing large swaths of life and experience under a
+              set of shared but unexamined assumptions
+#+ATTR_REVEAL: :frag (appear)
+- Nutritionism :: An ideology that conceives of food purely in terms of nutrients consumed for the maintenance & development of the organism's bodily health
+
+\\
+
+#+ATTR_REVEAL: :frag (appear)
+- How could construing food as a natural kind be ideological? 
+
+#+BEGIN_NOTES
+- Compare nutritionism to capitalism or democracy
+- "A reigning ideology is a little like the weather, all pervasive and virtually inescapable" Pollan, "Unhappy Meals"
+#+END_NOTES
+
+*** What is wrong with Nutritionism?
+  #+ATTR_REVEAL: :frag (appear)
+1. Oversimplifies our relationship to food
+   #+ATTR_REVEAL: :frag (appear)
+   - Ignores context (i.e. is 'reductionist')
+     #+ATTR_REVEAL: :frag (appear)
+     - isolates nutrients from each other
+     - isolates food from diet
+     - isolates diet from culture/life
+2. Assumes food is only for bodily health
+3. Ignores qualitative distinctions between foods
+   #+ATTR_REVEAL: :frag (appear)
+   - no difference between, e.g., beef, chicken, fish, or tofu, all are simply protein sources
+   - treats 'processed' food as equivalent to 'unprocessed' or 'natural' food
+4. Easily leads to abuse by economic/political interests
+     
+
+#+BEGIN_NOTES
+- Is this criticism anti-science?
+- How many of Pollan's criticisms depend on our current ignorance about food
+  science & nutrition? 
+#+END_NOTES
+
+# #+BEGIN_QUOTE
+#   [the assumption that food is relevant for bodily health] is not shared by
+#   all cultures and...the experience of these other cultures suggests that,
+#   paradoxically, viewing food as being about things other than bodily health —
+#   like pleasure, say, or socializing — makes people no less healthy; indeed,
+#   there’s some reason to believe that it may make them more healthy.
+# #+END_QUOTE 
+       
+#+BEGIN_NOTES
+- Cites the "French Paradox" that consumption of unhealthy foods makes a
+  population more healthy
+#+END_NOTES
+
+
+*** Objecting to Nutritionism or to Food Science?
+
+- Are Pollan's worries directed at /nutritionism/ or food science more generally?
+
+#+REVEAL: split
+#+BEGIN_QUOTE
+If nutritional scientists know [that focusing on isolated nutrients can
+produce misleading evidence], why do they do it anyway? Because a nutrient
+bias is built into the way science is done: scientists need individual
+variables they can isolate. Yet even the simplest food is a hopelessly complex
+thing to study ... So if you’re a nutritional scientist, you do the only thing
+you can do, given the tools at your disposal: break the thing down into its
+component parts and study those one by one, even if that means ignoring
+complex interactions and contexts, as well as the fact that the whole may be
+more than, or just different from, the sum of its parts. This is what we mean
+by reductionist science. 
+#+END_QUOTE
+
+#+BEGIN_NOTES
+- Is this a fair way to portray the science?
+- Is science hopelessly 'reductionist'?
+#+END_NOTES
+
+
+*** An Alternative to Nutritionism?
+#+BEGIN_QUOTE
+ Scientists operating with the best of intentions, using the best tools at
+ their disposal, have taught us to look at food in a way that has diminished
+ our pleasure in eating it while doing little or nothing to improve our
+ health. Perhaps what we need now is a broader, less reductive view of what
+ food is, one that is at once more ecological and cultural. What would happen,
+ for example, if we were to start thinking about food as less of a thing and
+ more of a relationship?
+#+END_QUOTE
+
+#+BEGIN_NOTES
+- Has science really done "little or nothing" to improve our health? (e.g. FDA)
+- Holist conception of food
+- Food as partially defined in terms of its place in a certain kind of
+  functional web
+#+END_NOTES
+
+*** "Food" as a Relational Kind
+
+#+BEGIN_NOTES
+- 'Holist' conception of food
+- Food as partially defined in terms of its place in a certain kind of
+  functional and social web
+#+END_NOTES
+#+BEGIN_QUOTE
+When most of us think about food and health, we think in fairly narrow
+nutritionist terms—about our personal physical health and how the ingestion of
+this particular nutrient or rejection of that affects it. But I no longer
+think it's possible to separate our bodily health from the health of the
+environment from which we eat or the environment in which we eat or, for that
+matter, from the health of our general oudook about food (and health).
+(Pollan, /In Defense of Food/ p. 144)
+#+END_QUOTE
+#+ATTR_REVEAL: :frag (appear)
+
+*** Food Holism
+
+- Food Holism :: We should evaluate the status of a foodstuff as *food* with
+                 respect to its place in a chain of social practices, production, and consumption
+                 
+                 
+\\
+
+#+ATTR_REVEAL: :frag (appear)
+- What distinguishes *food* from /food-like-edibles/?
+  #+ATTR_REVEAL: :frag (appear)
+  - Is the foodstuff heavily processed?
+  - Is the foodstuff that is produced also /consumed/ by its producers?
+  - Is the production of the foodstuff harmful to the environment?
+  - Is the production of the foodstuff heavily dependent on technological intervention?
+
+
+*** Escaping the Western Diet
+
+1. Leave the (industrialized) west
+2. Alter your food consumption habits
+
+#+BEGIN_NOTES
+- How do we avoid Nutritionism if it is the dominant ideology in the west?
+#+END_NOTES
+
+*** Pollan's  "Rules"
+#+ATTR_REVEAL: :frag (appear)
+#+BEGIN_QUOTE
+Eat food. Not too much. Mostly plants. 
+#+END_QUOTE
+
+**** Eat Food
+
+1. Don’t eat anything your great-great-grandmother wouldn’t recognize as food.
+2. Avoid food products that come bearing health claims.
+3. Avoid food products containing ingredients that are a) unfamiliar, b) unpronounceable c) more than ﬁve in number, c) contain high-fructose corn syrup
+4. Get out of the supermarket whenever possible
+
+
+**** Is Pollan's Proposal Realistic?
+
+- The exhortation to "eat food" makes a number of assumptions about food consumers
+  #+ATTR_REVEAL: :frag (appear)
+  1. Have a family or cultural culinary tradition from which to draw
+  2. Have the time to evaluate food lables or latest dietary science
+  3. Live in areas that have decent "food culture" (e.g. farmer's markets, restaurants) rather than "food deserts"
+  4. Be able to afford food rather than food-like-substances
+     
+
+** DONE Week 3 The IFS - Corn
+I gave last term's slides to Lauren, which she mostly reused
+** DONE Week 4 Industrial Meat
+*** Animal Production
+**** U.S. Slaughter Totals, by Species 
+#+ATTR_REVEAL: :frag (appear)
+- 1985 (4.9 billion land animals)
+  #+ATTR_REVEAL: :frag (appear)
+  - Chicken: 4,617,280,000
+  - Turkeys: 175,181,000
+  - Hogs: 84,938,000	
+  - Cattle: 36,593,000
+#+ATTR_REVEAL: :frag (appear)
+- 2015 (9.2 billion land animals)
+  #+ATTR_REVEAL: :frag (appear)
+  - Chicken: 8,822,695,000	
+  - Turkeys: 232,398,000	
+  - Hogs: 115,425,000	
+  - Cattle: 28,752,000
+    
+
+#+BEGIN_NOTES
+- Note the massive numbers
+- 1960: 1.8 billion animals killed (1.6 billion were chickens)
+- Note the change from previous years
+  - 411% increase in animals slaughtered from 1960 to 2015
+    - 1960 US population: 180.7 million
+    - 2015 US population: 321 million 
+      - Only 77.6% increase in US population
+#+END_NOTES
+    
+#+REVEAL: split
+#+ATTR_HTML: :style min-width:75%; margin:auto; display:block; text-align:center
+[[/Users/roambot/Dropbox/Work/projects/phil105/slides/slaughter-charts_all-species.png]]
+
+#+REVEAL: split
+- For more info:
+  - [[http://www.humanesociety.org/news/resources/research/stats_slaughter_totals.html][Humane Society of the United States]]
+  - [[http://usda.mannlib.cornell.edu/MannUsda/viewDocumentInfo.do?documentID=1097][USDA Livestock Slaughter Annual Summary]]
+  - [[https://www.nationalchickencouncil.org/about-the-industry/statistics/broiler-chicken-industry-key-facts/][National Chicken Council]]
+
+*** Industrial Poultry
+
+#+ATTR_HTML: :style min-width:75%; margin:auto; display:block; text-align:center
+[[/Users/roambot/projects/phil105/slides/redjunglefowl.jpg]]
+
+#+BEGIN_NOTES
+- Gallus Gallus (Red Junglefowl), first domesticated somewhere in India & China
+#+END_NOTES
+**** Chicken Farming
+- Two kinds of (industrially) farmed poultry
+  #+ATTR_REVEAL: :frag (appear)
+  - meat ("broiler" chicken)
+  - egg-laying (egg-laying hens or "layers")
+
+    
+#+BEGIN_NOTES
+- Chicken "natural" lifespan is roughly 7-8 years, but typically 1-3 years for
+  egg-layers & 6 weeks for broilers (2-4 weeks longer for organic/free-range)
+- The United States has the largest broiler chicken industry in the world, and about 19 percent of production was exported to other countries in 2015.
+- Americans consume more chicken than anyone else in the world – more than 90
+  pounds per capita in 2015 – the number one protein consumed in the United
+  States.
+- The top 5 broiler producing states are: Georgia, Arkansas, Alabama, North Carolina and Mississippi.
+- Employs 280,800 people directly, and over 1.3 million indirectly, with $90 billion in total sales
+#+END_NOTES
+
+**** Egg Farms
+#+ATTR_REVEAL: :frag (appear)
+- Today’s egg producing hens ("layers") can produce over 300 eggs per year; this is over twice the average of 150 eggs per year in 1947.
+- Raised with relatively little space
+- Often killed after peak egg production years (1-2 years)
+- Between 200 & 250 million male chickens are killed each year in egg industry
+  
+#+BEGIN_NOTES
+- Roughly 30 million chickens killed in Hy-Line Iowa plant
+#+END_NOTES
+  
+**** Broiler Farms
+#+ATTR_REVEAL: :frag (appear)
+- Broiler chickens are selected and bred for large-scale, efficient meat production
+- Breeding produces "welfare" problems
+  #+ATTR_REVEAL: :frag (appear)
+  - Sudden death syndrome (acute heart failure)
+  - Skeletal disfunction & lameness
+  - Respiratory diseases (ammonia inhalation)
+
+**** Broiler "Processing"
+#+ATTR_REVEAL: :frag (appear)
+- Broiler chickens are stunned/paralyzed but not rendered unconscious before slaughter
+- On average 825,000 chickens are boiled alive each year due to improper
+  slaughter conditions 
+
+#+REVEAL: split
+- For more info:
+  - [[http://www.huffingtonpost.com/bruce-friedrich/usda-time-to-stop-the-chi_b_4855990.html][Huffington Post]] article on boiling chickens alive
+  - [[https://www.huffingtonpost.com/entry/chickens-slaughtered-conscious_us_580e3d35e4b000d0b157bf98][Huffington Post]] article on problems with electric stunning method
+  - [[https://www.washingtonpost.com/politics/usda-plan-to-speed-up-poultry-processing-lines-could-increase-risk-of-bird-abuse/2013/10/29/aeeffe1e-3b2e-11e3-b6a9-da62c264f40e_story.html?utm_term=.8232daa5b9e5][Washington Post]] article on USDA plan to speed up processing lines
+  - [[https://www.washingtonpost.com/politics/usda-drops-proposal-to-speed-up-poultry-processing-at-plants/2014/07/31/4a6fad90-18eb-11e4-85b6-c1451e622637_story.html?utm_term=.4ac436a9f754][USDA abandons proposal]] that would speed up processing
+  - [[https://www.huffingtonpost.com/entry/egg-laying-hens_us_59c3c93fe4b0c90504fc04a1][Huffington Post]] article on "spent" layer hens
+
+#+BEGIN_NOTES
+- Compare this to the 1/2 million lobsters killed each year
+- Mention Tecumsah farms in Waverly 
+#+END_NOTES
+
+**** Scale
+#+BEGIN_QUOTE
+The vastness of the poultry industry means that if there is anything wrong with the system, there is something terribly wrong in our world. (JSF, /Eating Animals/, 136)
+#+END_QUOTE
+
+
+*** Language & Evasion
+
+#+ATTR_REVEAL: :frag (appear)
+#+BEGIN_QUOTE
+Language is never fully trustworthy, but when it comes to eating animals, words are as often used to misdirect and camouflage as they are to communicate. (JSF /Eating Animals/, p. 45)
+#+END_QUOTE
+
+
+#+ATTR_REVEAL: :frag (appear)
+- Why is the slaughter of animals called "processing"?
+
+#+BEGIN_NOTES
+- Talk about what a "euphemism" is -- a kind of circumlocution or indirect use of language 
+#+END_NOTES
+
+**** Labels
+#+ATTR_REVEAL: :frag (appear)
+- "Free range" is compatible with little to no moving space
+- "Cage free" is compatible with terrible living conditions
+- "Natural" doesn't have any set meaning except concerning meat, poultry, and eggs, stating that a “natural” food is “a product containing no artificial ingredient or added color and is only minimally processed”
+- "Organic" is regulated by USDA but applied somewhat inconsistently between agriculture & animals
+
+#+BEGIN_NOTES
+- Note that "organic" doesn't mean "healthy"
+- Legal meaning is set by USDA & has a big monetary impact (worth $320 billion by 2025) 
+#+END_NOTES
+
+#+REVEAL: split
+- [[https://www.ams.usda.gov/about-ams/programs-offices/national-organic-program][USDA National Organic Program]]
+- [[https://www.wholefoodsmarket.com/organic-labeling][Whole Foods on organic labeling]]
+- [[https://www.nytimes.com/2006/07/29/business/29instincts.html][NYTimes on 'organic' labeling]]
+- [[https://www.nal.usda.gov/afsic/organic-aquaculture][USDA on organic aquaculture]]
+  - [[https://www.nytimes.com/2006/11/28/business/28fish.html][NYTimes on organic fish]]
+  - [[https://www.npr.org/sections/thesalt/2015/02/03/383360748/how-fish-could-change-what-it-means-for-food-to-be-organic][NPR on organic fish]]
+
+**** What Counts as "Humane"?
+#+ATTR_REVEAL: :frag (appear)
+- Food labels certify some foods as "humane" but what does that mean?
+
+#+ATTR_REVEAL: :frag (appear)
+#+BEGIN_QUOTE
+Most [labels] are issued by three nonprofit groups — the American Humane Association, Humane Farm Animal Care and A Greener World — that set their own standards for the practices needed to win certification. Food companies pay fees to use the labels; more than one billion of the more than nine billion animals raised for food each year in the United States are covered by a certification program. ... But the phrases on the labels have no set meaning; the federal government has no rules for the use of words like “humane.” The term “free-range” on a product, for example, does not necessarily mean that an animal had access to pasture. ([[https://www.nytimes.com/2017/01/31/dining/animal-welfare-labels.html?mabReward=R4&recp=0&version=readinglist&action=click&pgtype=Homepage&clickSource=story-heading&module=c-column-middle-span-region&region=c-column-middle-span-region&WT.nav=c-column-middle-span-region][NYTimes, "Animal Welfare Labels"]])
+#+END_QUOTE
+
+#+BEGIN_NOTES
+- Clicker question: how many of you look at labels on the meat you buy?
+- tail cutting, beak trimming allowed by Humane society but not by A Greener World 
+#+END_NOTES
+
+**** What Counts as "Cruel"?
+#+ATTR_REVEAL: :frag (appear)
+- "Cruelty" works differently when dealing with a "farm animal" and as compared with a "companion animal"?
+  
+
+#+ATTR_REVEAL: :frag (appear)
+#+BEGIN_QUOTE
+we protect “companion animals” like hamsters while largely ignoring what amounts to the torture of chickens and cows and pigs. In short, if I keep a pig as a pet, I can’t kick it. If I keep a pig I intend to sell for food, I can pretty much torture it. State laws known as “Common Farming Exemptions” allow industry — rather than lawmakers — to make any practice legal as long as it’s common. (Mark Bittman "[[https://opinionator.blogs.nytimes.com/2011/03/15/some-animals-are-more-equal-than-others/?_r=0][Some Animals Are More Equal Than Others]]")
+#+END_QUOTE
+
+#+BEGIN_NOTES
+- In what sense might nutritionism aid the obscuring of animal welfare?
+  - treats animals as protein vehicles
+#+END_NOTES
+
+
+*** Why Eat Some Animals but Not Others?
+#+ATTR_REVEAL: :frag (appear)
+#+BEGIN_QUOTE
+like me, George fears pain, seeks pleasure, and craves not just food and play, but companionship. I don’t need to know the details of her moods and preferences to know that she has them. Our psychologies are not the same or similar, but each of us has a perspective, a way of processing and experiencing the world that is intrinsic and unique. I wouldn’t eat George, because she’s mine. But why wouldn’t I eat a dog I’d never met? Or more to the point, what justification might I have for sparing dogs but eating other animals? (JSF, /Eating Animals/)
+#+END_QUOTE
+
+#+ATTR_REVEAL: :frag (appear)
+- No "companion" animals
+- No animals with "significant mental capacities"
+- No "taboo" animals
+  
+#+BEGIN_NOTES
+- Why not eat stray & runaway pets instead of (just) euthanizing them?
+- Ask clicker question: How many would eat their pet when it died?
+- How many would eat someone else's pet when it died?
+#+END_NOTES
+
+
+*** Animal or Thing?
+#+ATTR_REVEAL: :frag (appear)
+- In the IFS animals are treated as /commodities/ -- i.e. as fungible or /interchangeable things/
+- What makes an animal (including humans) different from a mere thing (e.g. a rock or a chair)?
+- Why are at least some animals (e.g. humans) not fungible or interchangeable?
+  
+  
+#+BEGIN_NOTES
+- this would be a useful group activity
+  - sample answers:
+    - alive
+    - conscious
+    - point of view
+    - has interests
+    - welfare
+- What is anthropocentrism? What is anthropomorphism?
+- Is it overly sentimental, or perhaps an anthropomorphic mistake, to worry
+  about the suffering of an animal raised for food?
+
+#+END_NOTES
+  
+*** Moral Status
+#+ATTR_REVEAL: :frag (appear)
+- Moral Status: :: deserving of, or otherwise qualifying for, moral consideration
+
+\\
+#+ATTR_REVEAL: :frag (appear)
+- Can we specify what it is about humans, as opposed to non-human animals, that grants moral status to humans but not other animals?
+** DONE Week 5 The Ethics of Eating
+*** Moral Status
+#+ATTR_REVEAL: :frag (appear)
+- Moral Status: :: deserving of, or otherwise qualifying for, moral consideration
+
+#+BEGIN_NOTES
+- Can we specify what it is about humans, as opposed to non-human animals, that grants moral status to humans but not other animals?
+- sample answers:
+    - alive
+    - conscious
+    - point of view
+    - has interests
+    - welfare
+#+END_NOTES
+*** Humans & Moral Status
+#+ATTR_REVEAL: :frag (appear)
+- Anthropocentrism: :: "The conviction that humans are the pinnacle of evolution, the appropriate yardstick by which to measure the lives of other animals, and the rightful owners of everything that lives" (Safran Foer, /Eating Animals/) -- In short, the belief that humans are the most important (finite) beings in the universe
+- Speciesism: :: the assignment of different values, rights, or special consideration to individuals solely on the basis of their species membership
+
+
+#+ATTR_REVEAL: :frag (appear)
+- Is speciesism like sexism, racism, etc.?
+
+#+BEGIN_NOTES
+- Anthropocentrism is a form of speciesism
+#+END_NOTES
+
+*** Consider the lobster
+
+#+ATTR_HTML: :style min-width:70%; margin:auto; display:block; text-align:center
+[[/Users/roambot/projects/phil105/slides/lobster_image.jpg]]
+Is it all right to boil a sentient creature alive just for our gustatory pleasure?
+
+#+BEGIN_NOTES
+- David Foster Wallace, Gourmet August 2004: Maine Lobster Festival
+#+END_NOTES
+*** What's morally relevant?
+#+ATTR_REVEAL: :frag (appear)
+- What might tell us that the lobster has moral status?
+#+ATTR_REVEAL: :frag (appear)
+ - That the lobster is alive?
+ - That the lobster could feel pain?
+ - That the lobster has interests or preferences?
+  
+*** Does the lobster feel pain?
+#+BEGIN_QUOTE
+Dick — whose son-in-law happens to be a professional lobsterman and one of the Main Eating Tent’s regular suppliers — explains what he and his family feel is the crucial mitigating factor in the whole morality-of-boiling-lobsters-alive issue: “There’s a part of the brain in people and animals that lets us feel pain, and lobsters’ brains don’t have this part.” (Wallace, "Consider the Lobster")
+#+END_QUOTE
+
+#+BEGIN_NOTES
+- Lobsters have no centralized nervous system
+#+END_NOTES
+
+#+REVEAL: split
+#+BEGIN_QUOTE
+[L]obsters do have nociceptors, as well as invertebrate versions of the prostaglandins and major neurotransmitters via which our own brains register pain.
+
+Lobsters do not, on the other hand, appear to have the equipment for making or absorbing natural opioids like endorphins and enkephalins, which are what more advanced nervous systems use to try to handle intense pain. (Wallace, "Consider the Lobster")
+#+END_QUOTE
+
+#+BEGIN_NOTES
+- Two criteria:
+  - neurophysiolgical machinery
+  - pain behavior
+#+END_NOTES
+
+#+REVEAL: split
+#+BEGIN_QUOTE
+There is, after all, a difference between (1) pain as a purely neurological event, and (2) actual suffering, which seems crucially to involve an emotional component, an awareness of pain as unpleasant, as something to fear/dislike/want to avoid. (Wallace, "Consider the Lobster")
+#+END_QUOTE
+
+#+BEGIN_NOTES
+- Two criteria:
+  - neurophysiolgical machinery
+  - pain behavior
+#+END_NOTES
+
+*** Anthropomorphism
+#+ATTR_REVEAL: :frag (appear)
+- Are we unjustifiably projecting our human point of view onto that of the animal's?
+#+ATTR_REVEAL: :frag (appear) 
+#+BEGIN_QUOTE
+the lobster will sometimes try to cling to the container’s sides or even to hook its claws over the kettle’s rim *like a person trying to keep from going over the edge of a roof*. And worse is when the lobster’s fully immersed. Even if you cover the kettle and turn away, you can usually hear the cover rattling and clanking as the lobster tries to push it off. Or the creature’s claws scraping the sides of the kettle as it thrashes around. The lobster, in other words, behaves very much as you or I would behave if we were plunged into boiling water (DFW, "Consider the Lobster")
+#+END_QUOTE 
+
+*** Does pain matter?
+
+- Causing pain in animals is regarded as bad or illegal only with respect to certain animals
+
+#+REVEAL: split
+#+BEGIN_QUOTE
+1. A person is guilty of aggravated cruelty to animals when, with no justifiable purpose, he or she intentionally kills or intentionally causes serious physical injury to a /companion animal/ with aggravated cruelty.  For purposes of this section, “aggravated cruelty” shall mean conduct which:  (i) is intended to cause extreme physical pain;  or (ii) is done or carried out in an especially depraved or sadistic manner. (New York Agriculture and Markets Law § 353-a. Aggravated cruelty to animals)
+#+END_QUOTE
+
+**** Does the status of an animal as a companion animal matter with regard to the moral significance of its pain?
+
+A. Yes \\
+B. No \\
+
+**** It matters whether lobsters feel pain in a way broadly analogous to how humans & other mammels do
+
+A. True \\
+B. False \\
+  
+*** Is it OK to kill animals for food?
+#+ATTR_REVEAL: :frag (appear)
+- Easy: Is it ok to kill people for food?
+  #+ATTR_REVEAL: :frag (appear)
+  - No!
+- Hard(?): Is it ok to kill animals for food?
+  #+ATTR_REVEAL: :frag (appear)
+  - ???
+
+\\
+#+ATTR_REVEAL: :frag (appear)
+- What is the difference between a person and (e.g.) a pig, such that it is not okay to the kill the person for food but it /is/ ok to kill the pig?
+
+  
+*** Some Suggestions for Relevant Differences
+#+ATTR_REVEAL: :frag (appear)
+1. People are people, and pigs are pigs
+   #+ATTR_REVEAL: :frag (appear)
+   - But this is speciesism, and what justifies speciesism?
+2. Humans are stronger/higher up the food chain
+   #+ATTR_REVEAL: :frag (appear)
+   - We don't think it is acceptable for the stronger to hurt the weaker /simply because/ the stronger is able to do so
+3. Humans are smarter than pigs
+   #+ATTR_REVEAL: :frag (appear)
+   - What about people with cognitive disabilities? Could we kill them for food?
+4. We care about other humans
+   #+ATTR_REVEAL: :frag (appear)
+   - But there are some people for whom nobody cares---is it ok to eat /them/?
+
+
+#+BEGIN_NOTES
+- (1) consider the case that aliens come to Earth and decide to farm humans. Their justification in doing so is that aliens and humans are different species, so it is morally acceptable for them to farm humans. However, if humans shouldn’t kill other humans for food, why should aliens kill us for food?
+- (2) also discuss "it's natural" and "they would do it to us"
+- Adults are stronger than children but this is a reason /not/ to engage in a variety of actions wrt to children
+#+END_NOTES
+
+
+** DONE Week 6 Ethical Frameworks (I): Consequentialism
+*** Normative Questions
+#+ATTR_REVEAL: :frag (appear)
+- What should I do?
+  #+ATTR_REVEAL: :frag (appear)
+  - What is good/bad for me or others to do?
+  - What is im/permissible for me or others to do?
+- Ethics provides answers to "normative" questions (questions about how one /ought/ to act)
+  #+ATTR_REVEAL: :frag (appear)
+  - Is it bad to lie? 
+  - Is it wrong to steal?
+      
+\\
+       
+*** Ethics & Theory 
+- Ethical Theory :: A theoretical framework for answering ethical questions that articulates (the) general principles concerning moral evaluation
+     
+#+BEGIN_NOTES
+- Normative theories can take a variety of forms, and can be idealized or realistic
+- They are sometimes decision procedures and sometimes explanatory theories,
+  and sometimes both
+- Difference between description and evaluation
+- Normative theory is not anthropology
+#+END_NOTES
+     
+**** Decision Procedure                                                     :noexport:
+#+ATTR_REVEAL: :frag (appear)
+- A decision procedure articulates a set of necessary and suffcient rules by which one decides what to do
+
+#+ATTR_REVEAL: :frag (appear)
+#+ATTR_HTML: :style min-width:75%; margin:auto; display:block; text-align:center
+[[/Users/roambot/projects/phil105/content/slides/flow_charts.png]]
+
+**** Explanatory Theory                                                     :noexport:
+#+ATTR_REVEAL: :frag (appear)
+- Articulates criteria that specify *why* an act or state of affairs is good or right
+
+*** Consequentialism
+#+ATTR_REVEAL: :frag (appear)
+- Whether an act is morally right *exclusively depends* on the consequences of that act 
+  
+#+BEGIN_NOTES
+- Consequentialism can take many different forms
+  - which consequences?
+    - pleasure v. happiness v. money v. ????
+  - acts vs rules
+#+END_NOTES
+
+*** Utilitarianism
+#+ATTR_REVEAL: :frag (appear)
+Two components of utilitarianism:
+  #+ATTR_REVEAL: :frag (appear)
+  - "Act" Consequentialism 
+  - Hedonism 
+
+**** Act Consequentialism 
+#+ATTR_REVEAL: :frag (appear)
+- An act is morally right if, and only if, that act /maximizes the good/ 
+  #+ATTR_REVEAL: :frag (appear)
+  - An act is maximally /good/ if, and only if, the total amount of good for all minus the total amount of bad for all is greater than the net amount brought about by any other act available to the agent on that occasion
+    
+#+BEGIN_NOTES
+- Note how this is a "maximizing" rather than "satisficing" claim -- and it is
+  very demanding
+#+END_NOTES
+
+**** Hedonism
+- Pleasure is the only intrinsic good and pain is the only intrinsic bad
+  
+#+BEGIN_NOTES
+- Explain difference between intrinsic & relational goods
+- Emphasize the objectivity of measure of pain/pleasure
+- Discuss the epistemic problems with measuring pain/pleasure
+- Are some pleasures better than others? Are all pains bad?
+#+END_NOTES
+*** Utilitarianism in Action
+#+ATTR_REVEAL: :frag (appear)
+- Sample cases
+  #+ATTR_REVEAL: :frag (appear)
+  - Lying
+  - Keeping promises
+    
+#+BEGIN_NOTES
+- Ask clicker question whether it is wrong to lie
+#+END_NOTES
+    
+*** Problems for Utilitarianism
+- Four potential problems
+  #+ATTR_REVEAL: :frag (appear)
+  - Ignores the seperateness of persons
+  - "Utility monsters"
+  - Self-effacing
+  - Overly demanding
+    
+#+BEGIN_NOTES
+- The wrong reason: "the reason it’s wrong for me to kill you is that to do so
+  would be to violate an obligation I have to you. It’s not that the world as
+  a whole will be a somewhat happier place with you in it than without."
+#+END_NOTES
+*** Review
+**** Consequentialism says that the only good thing is pleasure 
+A. True \\ 
+B. False \\ 
+   
+#+BEGIN_NOTES
+- Whether an act is morally right *exclusively depends* on the consequences of that act 
+#+END_NOTES
+
+**** Utilitarianism
+Two components of utilitarianism:
+
+#+ATTR_REVEAL: :frag (appear)
+1. *Act Consequentialism*:   An act is morally right if and only if that act maximizes the good
+2. *Hedonism*: Pleasure is the only intrinsic good and pain is the only intrinsic bad
+                
+#+BEGIN_NOTES
+- Explain difference between intrinsic & relational goods
+- Emphasize the objectivity of measure of pain/pleasure
+- Discuss the epistemic problems with measuring pain/pleasure
+- Are some pleasures better than others? Are all pains bad?
+#+END_NOTES
+  
+**** An intrinsically valuable good is one that is valuable only in relation to something else
+A. True \\
+B. False \\
+  
+*** Utilitarianism Applied: Singer on the Equality of Animals
+**** The Claim to Equality
+#+BEGIN_QUOTE
+the claim to equality does not depend on intelligence, moral capacity, physical strength, or similar matters of fact. Equality is a moral idea, not an assertion of fact. ... /The principle of the equality of human beings is not a description of an alleged actual equality among humans: it is a prescription of how we should treat human beings/. (Singer, /Animal Liberation/, pp. 4-5)
+#+END_QUOTE
+
+#+ATTR_REVEAL: :frag (appear)
+- The Principle of Equality of Interests: :: the interests of every being affected by an action are to be taken into account and given the same weight as the like interests of any other being
+     
+#+ATTR_REVEAL: :frag (appear)
+- *Q*: What constitutes an "interest"?
+  
+#+BEGIN_NOTES
+- Note that The basic principle of equality does not require equal or identical /treatment/; it requires /equal consideration/ 
+- Having an interest is plausibly necessary for moral status, but it is hard to say exactly what this means -- see marginal cases
+#+END_NOTES
+  
+**** The Problem of Marginal Cases
+#+ATTR_REVEAL: :frag (appear)
+1. Creatures that lack moral status lack it because they lack some characteristic /C/ (e.g. rationality or intelligence)
+2. But there are cases of beings that possess moral status (e.g. human beings)
+   while otherwise lacking characteristic /C/ (e.g. children, mentally
+   disabled, people in persistent vegetative states)
+3. There are no other relevant differences between these "marginal cases" and cases of beings that possess /C/, and so possess moral status
+4. Therefore, whatever confers moral status must be a characteristic that is had by /all/ cases, including the "marginal" ones, anything else is /arbitrary/ 
+
+**** Jeremy Bentham on the Basis of Moral Status
+
+#+BEGIN_QUOTE
+What else is it that should trace the insuperable line [of moral status]? Is it the faculty of reason, or perhaps the faculty of discourse? But a full-grown horse or dog is beyond comparison a more rational, as well as a more conversable animal, than an infant of a day or a week or even a month, old. But suppose they were otherwise, what would it avail? The question is not, Can they *reason*? nor Can they *talk*? but, Can they *suffer*?
+#+END_QUOTE
+
+#+ATTR_REVEAL: :frag (appear)
+- Why is /suffering/ the relevant basis for moral consideration?
+
+**** Suffering & Interests 
+#+BEGIN_QUOTE
+The capacity for suffering and enjoyment is a /prerequisite for having interests at all/, a condition that must be satisfied before we can speak of interests in a meaningful way...[the capacity for suffering] is also sufficient for us to say that a being has interests---at an absolute minimum, an interest in not suffering. (Singer, /Animal Liberation/, pp. 7-8)
+#+END_QUOTE
+
+#+BEGIN_NOTES
+- distinguish the stone's being kicked down the road from the mouse's being kicked
+#+END_NOTES
+
+**** Sentience & Moral Status
+- Sentience: :: the capacity to experience suffering or pleasure 
+                
+\\
+
+#+ATTR_REVEAL: :frag (appear)
+- According to utilitarianism, a creature has moral status if it has interests, and it has interests if, and only if, it is sentient
+
+#+BEGIN_NOTES
+- Discuss issue of how we know that other beings are sentient; why think things are different for animals?
+#+END_NOTES
+
+**** Does Utilitarianism Demand Vegetarianism?
+#+ATTR_REVEAL: :frag (appear)
+- No:
+  #+ATTR_REVEAL: :frag (appear)
+  - Utilitarianism prohibits eating animals if eating them has the wrong consequences, but not all cases of eating animals are wrong
+    #+ATTR_REVEAL: :frag (appear)
+    - (e.g.) Roadkill, (maybe) game, (maybe) non-IFS animals?
+    
+#+BEGIN_NOTES
+- Utilitarianism doesn't justify a form of moral absolutism regarding vegetarianism
+- But Singer thinks that Util --> Vegetarianism
+- Discuss "slippery slope" of treating animals as food --> treating them as things
+#+END_NOTES
+
+** DONE Week 7 Ethical Frameworks (II): Deontology
+
+*** Review
+**** Moral Status
+- Moral Status: :: deserving of, or otherwise qualifying for, moral consideration
+                   
+\\
+
+#+ATTR_REVEAL: :frag (appear)
+- What is the reason we treat some creatures differently than others with respect to what
+  is morally required/permissible to do to them?
+- What makes it the case that one kind being is owed respect or obligation while
+  another is not?
+
+**** Utilitarianism on Moral Status
+#+BEGIN_QUOTE
+ The question is not, Can they reason? nor Can they talk? But, Can they
+ suffer? (Bentham, /Introduction to the Principles of Morals & Legislation/, ch. 17)
+#+END_QUOTE
+
+#+ATTR_REVEAL: :frag (appear)
+- All and only /sentient/ beings have moral status, because only beings capable
+  of feeling pleasure or pain have /interests/ and thus can be wronged
+  
+#+BEGIN_NOTES
+- Discuss problems of utilitarianism
+  - hard to evaluate utility
+  - utility monsters & separateness of persons
+  - self-effacing
+  - extrememly demanding
+#+END_NOTES
+
+*** Deontology
+**** Deontology & Laws
+#+ATTR_REVEAL: :frag (appear)
+- The word "deontology" derives from the Greek words for "duty" (deon) and
+  "science" (logos)
+- The rightness/wrongness of an action /entirely depends/ on whether the action is in
+  accordance with moral principles or laws 
+  
+#+BEGIN_NOTES
+- The 10 commandments as a form of deontological theory
+- goodness is assessed in terms of rightness rather than (as with
+  utilitarianism) the other way around
+#+END_NOTES
+
+**** Deontology vs. Consequentialism
+#+ATTR_REVEAL: :frag (appear)
+- Consequentialism assesses the rightness of an act in terms of how good
+  (in the case of utilitarianism: pleasurable) the consequences are
+- A deontological view assesses the moral goodness of an action in terms of
+  whether it is /right/ -- whether it accords with moral principles or laws
+  
+#+BEGIN_NOTES
+- So some acts with really pleasurable consequences might still be wrong
+- Some acts with really painful consequences might still be right
+- Use the case of promising as an example
+#+END_NOTES
+  
+*** Deontology Applied: Animal Rights
+**** Animals & Indirect Duty Views
+#+BEGIN_QUOTE
+ some people believe that we have no duties directly to animals—that we owe
+ nothing to them—that we can do nothing that wrongs them. Rather, we can do
+ wrong acts that involve animals, and so we have duties regarding them, though
+ none to them. Such views may be called indirect duty views. (Regan, 32)
+#+END_QUOTE
+
+#+ATTR_REVEAL: :frag (appear)
+- The indirect duty view: :: We should treat animals well only because cruelty towards animals tends to
+  translate into cruelty towards humans
+
+**** Kant on Duties to Animals
+#+BEGIN_QUOTE
+ Our duties towards animals are merely indirect duties towards humanity...If a man shoots his dog because the animal is no longer capable of service, he does not fail in his duty to the dog, for the dog cannot judge, but his /act is inhuman and damages in himself that humanity which it is his duty to show towards mankind/. If he is not to stifle his human feelings, he must practice kindness towards animals, for he who is cruel to animals becomes hard also in his dealing with men.
+#+END_QUOTE
+
+**** Are Animals Things?
+#+BEGIN_QUOTE
+ [Non-rational beings] have...only a relative worth, as means, and are
+ therefore called /things/, while rational beings, on the contrary, are called
+ /persons/, because their nature already distinguishes them as ends in
+ themselves, i.e. as something that may not be used merely as a means, hence
+ to this extent limits all arbitrariness (and is an object of respect). (Kant,
+ Groundwork 4:428)
+#+END_QUOTE
+
+#+ATTR_REVEAL: :frag (appear)
+- According to Kant's view non-rational beings are "things" -- they have merely relative value as means
+
+**** The Problem with Indirect Duty Views
+#+ATTR_REVEAL: :frag (appear)
+- Views that allow only indirect duties to animals locate moral status in the
+  wrong place
+  #+ATTR_REVEAL: :frag (appear)
+  - We can see the problem of locating moral status by looking at "marginal
+    cases"
+
+**** Against Utilitarianism
+#+ATTR_REVEAL: :frag (appear)
+- Utilitarianism's emphasis on aggregation fails to respect the rights of
+  those individuals who have moral status
+  
+#+BEGIN_NOTES
+- Fails to respect the separateness of persons
+#+END_NOTES
+
+#+ATTR_REVEAL: :frag (appear)
+#+BEGIN_QUOTE
+ Here is an analogy to help make the philosophical point clearer: a cup
+ contains different liquids—sometimes sweet, sometimes bitter, sometimes a mix
+ of the two. What has value are the liquids: the sweeter the better, the
+ bitter the worse. The cup—the container—has no value. It’s what goes into
+ it, not what they go into, that has value. For the utilitarian, you and I are
+ like the cup; we have no value as individuals and thus no equal value. What
+ has value is what goes into us, what we serve as receptacles for; our
+ feelings of satisfaction have positive value, our feelings of frustration
+ have negative value. (Regan, 35)
+#+END_QUOTE
+
+**** The Rights View
+#+BEGIN_QUOTE
+ you and I, for example, do have value as individuals—what we’ll call
+ /inherent value/ ... My value as an individual is independent of my
+ usefulness to you. Yours is not dependent on your usefulness to me. For
+ either of us to treat the other in ways that fail to show respect for the
+ other’s independent value is to act immorally—is to violate the individual’s
+ rights. (Regan, 36)
+#+END_QUOTE
+
+***** Having Rights
+#+ATTR_REVEAL: :frag (appear)
+- What does it take to have value as an individual---to have rights?
+  #+ATTR_REVEAL: :frag (appear)
+  - Inherent value belongs equally to any who are the "experiencing subjects of a life" (Regan, 37)
+  - At least some animals are such experiencing subjects, so at least some
+    animals have rights---they cannot be used merely as means to another's ends
+**** Animal Rights
+#+BEGIN_QUOTE
+ The fundamental wrong is the system that allows us to view animals as our
+ resources, here for us—to be eaten, or surgically manipulated, or put in our
+ cross hairs for sport or money. (Regan, 31)
+#+END_QUOTE
+
+#+BEGIN_NOTES
+- animals as "resources" means viewing merely as means
+- aims for dissolution of commercial agriculture & commercial/sport hunting/trapping
+- presumably also would eliminate animal testing
+#+END_NOTES
+
+
+**** An Objection
+
+- Problem: It is difficult to understand what inherent value is
+  #+ATTR_REVEAL: :frag (appear)
+  - The problem with inherent value isn't that it is mysterious, but rather
+    that Regan hasn't provided a satisfactory explanation of /why/ animals
+    have inherent value
+  - The fact that our knowledge of which beings have inherent value is
+    limited doesn't mean that we shouldn't be cautious in the manner in
+    which we make life or death decisions regarding their treatment
+   
+#+BEGIN_NOTES
+- It is difficult to understand what inherent value is
+  - "It is not dependent upon the value which either the inherently valuable
+    individual or anyone else may place upon that individual's life or
+    experiences. It is not (necessarily) a function of sentience or any other
+    mental capacity"
+- Hard to identify any sharp line distinguishing those which have it from
+  those that don't (doesn't "subjecthood" come in degrees?)
+#+END_NOTES
+  
+  
+** DONE Week 7 In Defense of Eating Animals
+*** Pollan on Being an Ethical Omnivore
+#+BEGIN_QUOTE
+ if humans no longer need to eat meat to survive, then what exactly are we
+ putting on the human side of the scale to outweigh the interests of the
+ animal? (OD, 312)
+#+END_QUOTE
+
+#+ATTR_REVEAL: :frag (appear)
+- Is there a case to be made for ethical consumption of meat that
+  acknowledges the moral significance of animal suffering?
+
+#+BEGIN_NOTES
+- We've seen rights based cases for and capacity based cases against
+  but is there a sentience based case for?
+- We want a case that doesn't appeal to "utility monsters"
+#+END_NOTES
+
+*** Defense 1: Eating Animals is Part of Our (Cultural) Identity
+#+ATTR_REVEAL: :frag (appear)
+#+BEGIN_QUOTE
+ it seems to me [the vegetarian] has lost something along the way,
+ something I'm not prepared to dismiss as trivial. Healthy and virtuous
+ as I may feel these days, I also feel alienated from traditions I
+ value: cultural traditions like the Thanksgiving turkey, or even franks
+ at the ballpark, and family traditions like my mother's beef brisket at
+ Passover. These ritual meals link us to our history along multiple
+ lines---family, religion, landscape, nation, and, if you want to go back
+ much further, biology. For although humans no longer need meat in order
+ to survive...we have been meat eaters for most of our time on earth.
+ This fact of evolutionary history is reflected in [our physiology]. (OD, 314)
+#+END_QUOTE
+
+#+BEGIN_NOTES
+- Ask (perhaps clicker) how many eat meat at least once a year at some family holiday.
+- Talk about "table fellowship"
+  - Is being a selective omnivore better for fellowship than being vegetarian?
+#+END_NOTES
+
+**** Replies
+#+ATTR_REVEAL: :frag (appear)
+- The evolutionary basis of meat-eating is morally irrelevant
+- The fact that we have cultural practices in which meat eating is a
+  central component does not justify meat-eating, unless the practices
+  as a whole are justified
+  
+  
+*** Defense 2: It Is Suffering Not Pain That Matters
+#+ATTR_REVEAL: :frag (appear)
+#+BEGIN_QUOTE
+  human pain differs from animal pain by an order of magnitude. This
+  qualitative difference is largely the result of our possession of
+  language and, by virtue of language, our ability to have thoughts
+  about thoughts and to imagine what is not...we can draw a distinction
+  between pain, which a great many animals obviously experience, and
+  suffering, which depends on a degree of self-consciousness only a
+  handful of animals appear to command. Suffering in this view is not
+  just lots of pain but pain amplified by distinctly human emotions such
+  as regret, self-pity, shame, humiliation, and dread. (OD, 316)
+#+END_QUOTE 
+
+**** Replies
+#+ATTR_REVEAL: :frag (appear)
+- While it might be true that a /certain kind/ of suffering requires
+  language, it isn't obvious that /suffering/ as such does
+- Cognitively unsophisticated creatures might actually suffer /more/,
+  since they cannot understand the purpose of many pain-inducing
+  activities
+- Even allowing the distinction, industrial farming practices clearly
+  generate prolonged pain that clearly goes against the interests of the
+  animals produced by it
+  
+#+BEGIN_NOTES
+- The argument seems at best to show that there is a *degree* of suffering
+  which cognitively sophisticated animals can "enjoy" but not that
+  cognitively unsophisticated animals cannot suffer *at all*
+#+END_NOTES
+
+*** Defense 3: Domestication & Animal "Forms of Life"
+#+ATTR_REVEAL: :frag (appear)
+#+BEGIN_QUOTE
+ We can take Pollan to be arguing that since domestic animals have
+ evolved to be what they now are through their symbiotic relationship
+ with humans, their "characteristic form of life"---a phrase Pollan
+ borrows from Aristotle---is one lived in domestication with humans, and
+ that means---for chickens, pigs, cows, and sheep---a life on a farm or
+ ranch. This is their nature, and the Good Life for them is one in which
+ they can live, in accordance with their nature, on the Good Farm, until
+ they are killed and eaten. The killing and eating is unavoidable, for
+ without it neither farms, nor the animals on them, would exist at all.
+ (Singer, 250)
+#+END_QUOTE
+
+**** Replies
+#+ATTR_REVEAL: :frag (appear)
+- Why think that bringing an animal into existence is a benefit to that
+  animal, or not bringing it into existence a harm?
+  #+ATTR_REVEAL: :frag (appear)
+  - Could it be true that it would be better for an animal never to have
+    lived at all?
+
+#+BEGIN_NOTES
+- The argument, then, is that eating meat from farms that give pigs good lives cannot be bad for the pigs, since if no one ate meat, these pigs would not exist. To eat them, however, we have to kill them first, so killing them must be justifiable.
+#+END_NOTES
+
+**** Singer's Objection
+
+- Animals consumed for food live lives that are shorter than they
+  would otherwise naturally be, so it is wrong to kill them, even if
+  their lives are "happy"
+
+#+ATTR_REVEAL: :frag (appear)
+#+BEGIN_QUOTE
+ cattle, like all the animals we eat, died while still very young. They might have lived several more years before meeting one of these other forms of death, years in which they matured, experienced sexual intercourse, and, if they were females, cared for their children. We humans, after all, are prepared to pass up many rapid and humane forms of death in order to live a few more years, even if we are then likely to die of a disease that causes us to suffer before we die.
+#+END_QUOTE
+
+**** Scruton's Response to Singer
+#+ATTR_REVEAL: :frag (appear)
+- Dying before the terminus of one's natural life-span is only bad for
+  a creature capable of appreciating the goodness of future
+  achievements. Non-human animals are not capable of being fulfilled
+  or harmed by achievement or lack thereof.
+  #+ATTR_REVEAL: :frag (appear)
+  - Is there a problem for this response raised by "marginal" cases?
+    
+*** Defense 4: Even Vegans Kill Animals in Food Production
+#+ATTR_REVEAL: :frag (appear)
+#+BEGIN_QUOTE
+ The grain that the vegan eats is harvested with a combine that shreds
+ field mice, while the farmer's tractor wheel crushes woodchucks in
+ their burrows and his pesticides drop songbirds from the sky; after
+ harvest whatever animals that would eat our crops we exterminate.
+ Killing animals is probably unavoidable no matter what we choose to
+ eat...If our goal is to kill as few animals as possible people should
+ probably try to eat the largest possible animal that can live on the
+ least cultivated land: grass-finished steaks for everyone. (OD, 326)
+#+END_QUOTE
+
+**** Replies
+#+ATTR_REVEAL: :frag (appear)
+- Reducing demand for meat by vegan & vegarian practices means fewer
+  factory farms and thus less overall pain/suffering
+- More calories can be grown in vegetation on a single acre than can be
+  farmed for meat
+  
+#+BEGIN_NOTES
+- Much of this debate depends on efficiency in getting calories and
+  protein out of a given unit of land (e.g. per acre)
+- Many of the replies to Pollan point to IFS, but small farming might be the way...
+#+END_NOTES
+
+** DONE Mid-Term Review
+*** Format of Exam
+#+ATTR_REVEAL: :frag (appear)
+1. Argument identification (20 pts)
+2. Definitions (20 pts)
+3. Multiple choice (30 pts)
+4. Short answer/essay (30 pts)
+*** What is food?
+#+ATTR_REVEAL: :frag (appear)
+- What is it to define a concept?
+- Natural vs. social concepts/kinds
+- Defining food in terms of nutrients ("nutritionism")
+- Problems with nutritionism
+- Alternatives to nutritionism (agrianism & food holism)
+*** The Industrial Food System
+#+ATTR_REVEAL: :frag (appear)
+- Features of IFS
+  #+ATTR_REVEAL: :frag (appear)
+  - technologically driven
+  - large scale
+  - high efficiency
+  - monoculture
+  - commodification
+- Pollan's "genealogical" critique of IFS
+*** The Ethics of Eating
+#+ATTR_REVEAL: :frag (appear)
+- Details of poultry, beef, lobster farming/meat production
+- Moral status 
+- Problem of Marginal Cases
+- Consequentialism & Utilitarianism
+  - Sentience & moral status
+- Deontology & Rights theory
+  - "Experiencing subject of a life" vs. rational capacities
+#+REVEAL: split
+- Pollan's defenses of ethical omnivorism
+  - culture/identity
+  - suffering not pain that matters
+  - animals are born to be food for us
+  - even veganism requires the killing of animals
+** DONE Week 9 Food Politics & Economics
+*** The Goal of the Food Industry
+#+ATTR_REVEAL: :frag (appear)
+- Generate profit for investors/owners/shareholders
+  
+#+BEGIN_NOTES
+- Food industry aims to generate profit, not provide nutrition
+#+END_NOTES
+*** Food Economics
+#+ATTR_REVEAL: :frag (appear)
+- "Inelasticity" of demand
+- Constant threat of commodification
+  
+#+BEGIN_NOTES
+- the potential boon of falling raw material prices—which should allow you to
+  sell a lot more of your product at a lower price—can't be realized in the
+  case of food because of the special nature of your consumer, who can eat
+  only so much food, no matter how cheap it gets. (Food industry executives
+  used to call this the problem of the "fixed stomach"; economists speak of
+  "inelastic demand.")
+#+END_NOTES
+**** Adding Value
+#+ATTR_REVEAL: :frag (appear)
+-  Functional Food: :: a food or food-based product marketed as providing a 
+     specific health benefit 
+     
+#+ATTR_REVEAL: :frag (appear)     
+#+ATTR_HTML: :style max-width:30%; margin:auto; display:block; text-align:center
+[[/Users/roambot/Dropbox/Work/projects/phil105/slides/Cheerios-Protein-Oats.jpg]]     
+
+#+BEGIN_NOTES
+- iodized salt, vitamin "fortified" rice & cereal, fluoridated water
+- Different countries treat functional foods differently
+- Ask clicker question
+#+END_NOTES
+
+*** The Role of the Market
+#+ATTR_REVEAL: :frag (appear)
+1. It is in the interest of the food market to make us eat more than we
+   need
+2. It is in the interest of the food market to fortify or otherwise
+   process food to add value for which it can charge higher prices
+   * fortified salt, cereal, OJ, rice, etc.
+3. Market mechanisms are "fickle"
+   #+ATTR_REVEAL: :frag (appear)
+   - markets are not designed to solve health problems
+     #+ATTR_REVEAL: :frag (appear)
+     - markets and the interests of public health are compatible so long as no
+       greater harms are inflicted, capacities diminished, or rights abused
+     - the interests of the market do not coincide with public health
+       interests
+       
+*** The Misalignment of Interests
+#+ATTR_REVEAL: :frag (appear)
+- Food industry generates profit only by either (i) lowering costs; (ii) increasing demand
+  #+ATTR_REVEAL: :frag (appear)
+  - Push to lower costs encourges features of IFS 
+    #+ATTR_REVEAL: :frag (appear)
+    - Increasing demand requires either (i) increased processing of food; (ii) increased consumption
+      
+#+BEGIN_NOTES
+- Consumers can only consume so much food without health risks
+- Processed foods are not obviously healthy (Nutritionism rears its head here)
+#+END_NOTES
+
+*** Food Production & Moral Hazard
+#+ATTR_REVEAL: :frag (appear)
+- Moral Hazard :: One party engages in "risky" actions at least in part due to the knowledge that some other party bears the cost of those risks. Typically arises when one or both of the parties possesses incomplete information about the other ("information asymmetry").
+                  
+                  \\
+
+#+BEGIN_NOTES
+- Origin in insurance industry worries about actions of insured people
+- Also seems to apply to tobacco industry, oil industry, and perhaps food industry
+#+END_NOTES
+
+#+ATTR_REVEAL: :frag (appear)
+- Does the food industry engage in practices that generate risks borne primarily by food consumers & government?
+
+*** Influencing Policy
+- Lobbying :: any /legal/ attempt by individuals or groups to inﬂuence government policy or action (i.e. no bribery or coercive threats)             
+
+\\
+
+#+ATTR_REVEAL: :frag (appear)              
+1. Promoting the views of special-interest groups 
+2. Attempting to inﬂuence government laws, rules, or policies that might affect those groups 
+3. Communicating with government ofﬁcials or their representatives about laws, rules, or policies of interest. 
+
+#+REVEAL: split
+- Two primary means of influence
+  #+ATTR_REVEAL: :frag (appear)
+  1. "Revolving door" of lobbyists & policy makers
+  2. Direct spending
+     - PACs and "hard" money
+     - "Soft money" contributed to state & national political organizations
+
+#+BEGIN_NOTES
+- A great deal of lobbying takes place in unreportable gray areas of social transaction, such as dinner parties, receptions, meetings, golf games, birthday parties, and weddings.
+- food and agriculture lobbyists spent $52 million in 1998 on issues other than tobacco 
+#+END_NOTES
+
+** DONE Week 10 Case Study I: Soda Politics
+*** A Misalignment of Interests
+#+ATTR_REVEAL: :frag (appear)
+- It is in the interest of food companies to get us to eat more (or as much as possible) while it is in the interets of public health for us to less (and as healthily as possible) 
+  
+      
+#+BEGIN_NOTES
+- Food industry generates profit only by either (i) lowering costs; (ii) increasing demand
+  - Increasing demand requires either (i) increased processing of food; (ii) increased consumption
+- Consumers can only consume so much food without health risks
+- Processed foods are not obviously healthy (Nutritionism rears its head here)
+#+END_NOTES
+  
+
+
+*** Obesity                                                                   
+#+ATTR_REVEAL: :frag (appear)
+- [[https://www.cdc.gov/obesity/adult/defining.html][Obesity]] is a medical condition involving an excess of body fat that has a negative impact on one's health
+- Global obesity rates have doubled since 1980
+- In the USA more than one-third of adults, 39.8% (over 93.9 million people) and 18.5% (13.7 million) children and adolescents are obese (c. 2016 data)
+  
+#+REVEAL: split
+#+ATTR_HTML: :style min-width:95%; margin:auto; display:block; text-align:center
+[[/Users/roambot/Dropbox/Work/projects/phil105/slides/states-obesity-1990.PNG]]
+Obesity Rates 1990
+#+REVEAL: split
+#+ATTR_HTML: :style min-width:95%; margin:auto; display:block; text-align:center
+[[/Users/roambot/Dropbox/Work/projects/phil105/slides/states-obesity-2005.PNG]]
+Obesity Rates 2005
+#+REVEAL: split
+#+ATTR_HTML: :style min-width:95%; margin:auto; display:block; text-align:center
+[[/Users/roambot/Dropbox/Work/projects/phil105/slides/states-obesity-2016.jpg]]
+Obesity Rates 2016
+#+BEGIN_NOTES
+- obesity -> BMI over 30
+  - mortality/reduced life expectancy
+  - morbidity (e.g. type 2 diabetes, high cholesterol, high blood pressure)
+- maps: https://obesity.procon.org/view.resource.php?resourceID=006026
+- CDC info: https://www.cdc.gov/obesity/data/adult.html
+- general info: https://www.nal.usda.gov/fnic/general-information-and-resources-weight-and-obesity
+- USDA: https://nifa.usda.gov/topic/obesity
+#+END_NOTES
+
+*** Defending Public Health
+- If obesity is a major health problem, what should we do about it?
+  - Personal choice
+  - Governmental oversight 
+  - Industry self-regulation
+
+*** Industry Strategies for Combating Regulation
+#+ATTR_REVEAL: :frag (appear)
+- Blame personal responsibility
+- Dispute the science
+- Defend self-regulation
+- Fund oppositional research
+- Co-opt professional organizations
+- Attack critics
+- Lobby against public health measures 
+- File lawsuits
+# #+REVEAL_HTML: <img class="stretch" src="/Users/roambot/Dropbox/Work/projects/phil105/slides/bloomberg.png">
+
+*** The NYC Soda Rule
+
+- 2013 NYC Sugary Drink Portion Cap Rule or "soda ban"
+  - Prohibited sale of sugar-sweetened drinks larger than 16oz
+  - Struck down by NY State Supreme Court
+  
+    
+#+REVEAL: split
+#+ATTR_HTML: :style max-width:58%; margin:auto; display:block; text-align:center
+[[/Users/roambot/Dropbox/Work/projects/phil105/slides/bloomberg.png]]
+[[https://en.wikipedia.org/wiki/Sugary_Drinks_Portion_Cap_Rule][2013 NYC Soda Ban]]
+#+BEGIN_NOTES
+- The infamous “Bloomberg nanny” ad, New York Times, June 2, 2012.
+- The campaign against the cap rule appeared to be well orchestrated and lavishly funded, and it consistently invoked nanny states, intrusion on personal choice, and lack of patriotism
+- Should the government be regulating things like portion size for public
+  health reasons?
+#+END_NOTES
+
+
+*** Health & Choice
+- What is more important: freedom of choice in a market or public health? 
+
+** DONE Week 10 Case Study II: GMOs
+*** What are GM Foods?
+#+ATTR_REVEAL: :frag (appear)
+#+BEGIN_QUOTE
+ Genetically modified (GM) food derives from microorganisms, plants, or
+ animals manipulated at the molecular level to have traits that farmers or
+ consumers desire. These foods often have been produced using techniques
+ in which “foreign” genes are inserted into the microorganisms, plants, or
+ animals. Foreign genes are genes taken from sources other than the
+ organism’s natural parents. In other words, genetically modified plants
+ contain genes they would not have contained if researchers had only used
+ traditional plant-breeding methods. (Comstock, 122)
+#+END_QUOTE
+
+#+ATTR_REVEAL: :frag (appear)
+- Examples: "Flavr Savr" tomatoes, Bt (Bacillus thuringiensis) corn, Monsanto's "Roundup Ready" soybeans, Golden rice
+#+BEGIN_NOTES
+- GM Food involves the *direct manipulation* of DNA as opposed to tradition indirect manip via breeding
+  - There's "*cisgenesis*" : directly swapping genes between two organisms that could otherwise breed — say, from wheat to wheat. 
+  - "*transgenesis*" : taking well-characterized genes from a different species (say, bacteria) and transplanting them into a crop (such as corn) to produce certain desired traits.
+#+END_NOTES
+***  When given the choice, would you prefer non-GM food over GM Food?
+
+A. Yes \\
+B. No
+
+#+BEGIN_NOTES
+- Discuss why one would answer one way rather than another 
+  - less healthy/nutritious?
+  - less tasty?
+  - actually harmful?
+#+END_NOTES
+*** WIdespread Use of GM Food
+#+ATTR_REVEAL: :frag (appear)
+- 99% of the total GM crops planted since 1997 are "commodity crops": e.g., corn, soya, wheat, rice, potatoes, & cotton
+- In 2014, GM crops made up 94 percent of US soybean acreage, 93 percent of all corn planted, and 96 percent of all cotton
+
+#+ATTR_REVEAL: :frag (appear)
+#+ATTR_HTML: :style max-width:58%; margin:auto; display:block; text-align:center
+[[/Users/roambot/Dropbox/Work/projects/phil105/slides/GMFood-Use.png]]
+
+*** Objections to GMOs
+**** Health & Environmental Risks of GMOs
+#+ATTR_REVEAL: :frag (appear)
+- GM Foods are “generally regarded as safe” (GRAS) but we lack *long-term* data that supporting this
+  #+ATTR_REVEAL: :frag (appear)
+  - For GRAS foods, the burden is on the /consumer/ to show that the food/product is unsafe
+  - There is no definitive data showing that GMO Foods are either (i) dangerous; (ii) less nutritious; (iii) less flavorful
+- Danger of "genetic pollution"
+  #+ATTR_REVEAL: :frag (appear)
+  - cross-pollination with other species
+  - "super-pests" and "super-weeds"
+  - undermining bio-diversity
+    
+#+BEGIN_NOTES
+- Since GM Foods are so new their long-term health risks are unknown
+#+END_NOTES
+**** Nature as Intellectual Property
+#+ATTR_REVEAL: :frag (appear)
+- Diamond v. Chakrabarty, 447 U.S. 303 (1980): A live, human-made micro-organism is patentable subject matter
+- 97% of all agricultural patents are owned by five bio-tech corporations: Monsanto, AstraZeneca, Novartis, DuPont/Pioneer, and Avantis
+  #+ATTR_REVEAL: :frag (appear)
+    
+#+BEGIN_NOTES
+- Describe what patenting GM crops means for farmers
+- Amounts to the privatization & protection of food as intellectual property
+
+#+END_NOTES
+#+REVEAL: split
+#+BEGIN_QUOTE
+GM food production, distribution, and consumption, driven by market imperatives, backed by institutional power, violates our human rights. Specifically, the trade policies enforced by the WTO that require nations to purchase GM food, privatize public farms, and transform agricultural production from subsistence to export violates the internationally recognized right to food security. (Kaplan, 72)
+#+END_QUOTE
+
+#+ATTR_REVEAL: :frag (appear)
+- Should GMO foods be treated as intellectual property?
+
+#+BEGIN_NOTES
+- Argument assumes that food access/security is a human right
+#+END_NOTES
+*** The Precautionary Principle
+#+BEGIN_QUOTE
+if an action or policy has a suspected risk of causing severe harm to the public domain (affecting general health or the environment globally), the action should not be taken in the absence of scientific near-certainty about its safety. Under these conditions, the burden of proof about absence of harm falls on those proposing an action, not those opposing it. (Taleb, et al, 1)
+#+END_QUOTE
+
+#+ATTR_REVEAL: :frag (appear)
+- Should we use the Precautionary Principle when considering whether to produce/consume GM Foods?
+
+*** References
+- Comstock, Gary. ''Ethics and Genetically Modified Foods,'' In /Food Ethics/, edited by Franz-Theo Gottwald, Hans Werner Ingensiep and Marc Meinhardt, 49--66. Dordrecht: Springer, 2010.
+- [[http://www.fao.org/plant-treaty/en/][International Treaty on Plant Genetic Resources for Food and Agriculture]]
+- N. N. Taleb, R. Read, R. Douady, J. Norman, and Y. Bar-Yam, “The Precautionary Principle (with application to the genetic modification of organisms),” /arXiv/ /preprint arXiv:1410.5787/, 2014.
+- [[https://www.loc.gov/law/help/restrictions-on-gmos/usa.php][Legal Restrictions on Genetically Modified Organisms: United States]]
+- Brad Plumer (ed.), [[https://www.vox.com/cards/genetically-modified-foods/][Genetically modified food, explained]], /Vox/ Card Stack
+# - Brad Plumer, [[https://www.vox.com/2014/8/12/5995087/genetically-modified-crops-rise-charts][The rise of GM crops]], /Vox/ Aug 12, 2014
+** DONE Week 11 Famine & Affluence
+*** Food Security
+#+ATTR_REVEAL: :frag (appear)
+1. Available: food is available in sufficient quantities & on a
+   consistent basis
+2. Accessible: people can regularly acquire adequate quantities of food
+   through socially acceptable methods
+3. Utilizable: consumed food has a positive nutritional impact on people
+   
+\\
+   
+#+ATTR_REVEAL: :frag (appear)
+- Food Insecurity: ::  a situation of limited or uncertain availability of
+     nutritionally adequate and safe foods or limited or uncertain ability
+     to acquire acceptable foods in socially acceptable ways ([[https://www.ers.usda.gov/topics/food-nutrition-assistance/food-security-in-the-us/measurement.aspx][USDA]])
+*** The Ethics of Food Security
+#+ATTR_REVEAL: :frag (appear)
+- Do people have a right to food security?
+
+#+ATTR_REVEAL: :frag (appear)
+#+BEGIN_QUOTE
+The Universal Declaration of Human Rights
+Article 25.
+ 
+(1) Everyone has the right to a standard of living adequate for the health and well-being of himself and of his family, including food, clothing, housing and medical care and necessary social services, and the right to security in the event of unemployment, sickness, disability, widowhood, old age or other lack of livelihood in circumstances beyond his control.
+#+END_QUOTE
+
+#+ATTR_REVEAL: :frag (appear)
+- Are we morally obligated (or have a moral responsibility) to help provide others with food security?
+     
+  #+BEGIN_NOTES
+  - Ask clicker question on this point
+  #+END_NOTES
+
+*** Singer's Argument for Famine Relief
+#+ATTR_REVEAL: :frag (appear)
+- The Principle of Preventing Bad Occurences: :: if it is in our power
+     to prevent something bad from happening, without thereby
+     sacrificing anything of comparable moral importance, we ought,
+     morally, to do it. (Singer, 231)
+     
+     \\
+
+#+ATTR_REVEAL: :frag (appear)
+1. Suffering and death from lack of food, shelter, and medical care are bad
+2. We ought to follow the PPBO
+3. \therefore We ought to prevent death from famine, homelessness, etc., if we can do
+   so without sacrificing anything of comparable moral importance 
+
+**** Does Distance Make a Difference?
+#+ATTR_REVEAL: :frag (appear)
+- Why do I need to care about what happens to people who are
+  spatially/geographically remote from me?
+  #+ATTR_REVEAL: :frag (appear)
+  - There is nothing about the PPBO that makes distance relevant, other
+    than concerning what it is in one's power to prevent
+
+**** Do Numbers Make a Difference?
+#+ATTR_REVEAL: :frag (appear)
+#+BEGIN_QUOTE
+ the principle makes no distinction between cases in which I am the only
+ person who could possibly do anything and cases in which I am just one
+ among millions in the same position. (Singer, 232)
+#+END_QUOTE
+
+#+ATTR_REVEAL: :frag (appear)
+- Why do I need to do any more than anyone else?
+  
+#+BEGIN_NOTES
+- Am I less obliged to help someone who is drowning simply because no
+  one else is?
+#+END_NOTES
+
+*** Objections to Singer's Argument
+#+ATTR_REVEAL: :frag (appear)
+1. Erases the distinction between duty & supererogation
+2. Too radical
+3. Too demanding
+   
+**** Erases the Distinction Between Duty & Supererogation
+#+ATTR_REVEAL: :frag (appear)
+#+BEGIN_QUOTE
+ The outcome of this argument is that our traditional moral categories
+ are upset. The traditional distinction between duty and charity cannot
+ be drawn, or at least, not in the place we normally draw it. (Singer, 235)
+#+END_QUOTE
+
+#+ATTR_REVEAL: :frag (appear)
+- "Normal" acts of charity won't count as charity according to PPBO
+  
+#+REVEAL: split
+#+BEGIN_QUOTE
+ Because giving money is regarded as an act of charity, it is not
+ thought that there is anything wrong with not giving. The charitable
+ man may be praised, but the man who is not charitable is not condemned.
+ People do not feel in any way ashamed or guilty about spending money on
+ new clothes or a new car instead of giving it to famine relief.
+ (Indeed, the alternative does not occur to them.) This way of looking
+ at the matter cannot be justified. When we buy new clothes not to keep
+ ourselves warm but to look "well-dressed" we are not providing for any
+ important need. We would not be sacrificing anything significant if we
+ were to continue to wear our old clothes, and give the money to famine
+ relief. By doing so, we would be preventing another person from
+ starving. It follows from what I have said earlier that we ought to
+ give money away, rather than spend it on clothes which we do not need
+ to keep us warm. (Singer, 235)
+#+END_QUOTE
+
+**** It Is Too Radical
+#+BEGIN_QUOTE
+ One objection to the position I have taken might be simply that it is
+ too drastic a revision of our moral scheme. People do not ordinarily
+ judge in the way I have suggested they should. Most people reserve
+ their moral condemnation for those who violate some moral norm, such as
+ the norm against taking another person's property. They do not condemn
+ those who indulge in luxury instead of giving to famine relief.
+ (Singer, 236)
+#+END_QUOTE
+#+ATTR_REVEAL: :frag (appear)
+- Moral judgments are not usually made that require such altruism
+  towards others
+
+#+BEGIN_NOTES
+- raise issue of the relationship between members of society and
+  what morality requires
+- what we think of as morally possible/required is often set by what we
+  see others around us doing
+#+END_NOTES
+
+**** It Is Too Demanding
+#+BEGIN_QUOTE
+ we ought to give until we reach the level of marginal utility-that is,
+ the level at which, by giving more, I would cause as much suffering to
+ myself or my dependents as I would relieve by my gift. This would mean,
+ of course, that one would reduce oneself to very near the material
+ circumstances of a Bengali refugee (Singer, 241)
+#+END_QUOTE
+#+ATTR_REVEAL: :frag (appear)
+- We should give all of our resources until we've reached some level of
+  equality of distribution throughout the world
+  
+#+BEGIN_NOTES
+- What reason have we to reject the strong version of the PPBO?
+- Moderate PPBO: :: we should prevent bad occurrences unless, to do so,
+                    we had to sacrifice something morally significant
+                    (but not *comparably* significant)
+#+END_NOTES
+
+
+** DONE Week 12 Ethics of Sustainability
+*** Hardin's Question
+- Should we give aid to food insecure countries/populations? 
+  
+*** Kinds of Aid for Developing Countries 
+
+**** US Foreign Food Aid
+#+ATTR_REVEAL: :frag (appear)
+- Eisenhower administration creates an international food distribution program
+  known as Public Law 480, or "Food for Peace", on July 10, 1954 to manage
+  commodity surpluses and promote international trade & development
+- Expanded by Kennedy in 1966 explicitly for humanitarian purposes
+
+**** The Green Revolution
+#+ATTR_REVEAL: :frag (appear)
+- Set of initiatives championed by Norman Borlaug intended to disseminate
+  modern agricultural methods and materials (e.g. irrigation, chemical
+  fertilizer, pesticides) to less industrially developed countries
+
+*** Global Wealth Inequality
+
+#+ATTR_HTML: :style min-width:75%; margin:auto; display:block; text-align:center
+[[file:/Users/roambot/Dropbox/Work/projects/phil105/slides/global_wealth.png]]
+
+#+ATTR_REVEAL: :frag (appear)
+- In 2017 1% of the world's adult population, located primarily in North America and
+  Western Europe, holds 50.1% of the world's wealth
+  
+#+BEGIN_NOTES
+- 2018 World population estimate is 7.6 billion
+- So approx populations of Texas + Cali = 50.1% of world's wealth
+#+END_NOTES
+  
+*** Lifeboat Ethics
+ 
+#+ATTR_REVEAL: :frag (appear)
+#+BEGIN_QUOTE
+ Metaphorically, each rich nation amounts to a lifeboat full of
+ comparatively rich people. The poor of the world are in other, much more
+ crowded lifeboats. Continuously, so to speak, the poor fall out of their
+ lifeboats and swim for a while in the water outside, hoping to be
+ admitted to a rich lifeboat, or in some other way to benefit from the
+ "goodies" on board. What should the passengers on a rich lifeboat do?
+ This is the central problem of "the ethics of a lifeboat." (Hardin, 86)
+#+END_QUOTE
+
+#+BEGIN_NOTES
+- The other 13.8% of the wealth is held by the roughly 4.4 billion adults
+  constituting the rest of the world adult population (total pop is 7.495 billion)
+#+END_NOTES
+
+*** The Problem With Sharing
+#+BEGIN_QUOTE
+The fundamental error of the sharing ethic is that it leads to the tragedy of
+the commons. Under a system of private property the men (or group of men) who
+own property recognize their responsibility to care for it, for if they don't
+they will eventually suffer. ... if a [resource] is run as a commons open to all,
+the right of each to use it is not matched by an operational responsibility to
+take care of it. (Hardin, /Lifeboat Ethics/ p. 88)
+#+END_QUOTE
+
+*** Famine Relief & the "Commons"
+#+ATTR_REVEAL: :frag (appear)
+- Tragedy of the Commons: ::  the economic theory concerning behavior
+     within a shared-resource system (i.e. "the commons") where individual
+     users acting independently and according to their own self-interest
+     behave contrary to the common good of all users by depleting or
+     spoiling that resource through their collective action
+     
+#+BEGIN_NOTES
+- The basic idea is that free & unrestricted use of a finite resource
+  ultimately exhausts that resource (either temporarily or permanently) via
+  over-exploitation
+- First discussed in 1833 by English economist William Forster Lloyd, and
+  then by Garrett Hardin in 1968
+#+END_NOTES
+
+#+REVEAL: split
+- Famine aid creates a "commons" that encourages populations to "behave
+  contrary to the common good" by increasing in population beyond a
+  sustainable level
+
+*** The Ratchet Effect
+#+ATTR_REVEAL: :frag (appear)
+#+BEGIN_QUOTE
+ The input of food from a food bank acts as the pawl of a ratchet,
+ preventing the population from retracing its steps to a lower level.
+ Reproduction pushes the population upward, inputs from the world bank
+ prevent its moving downward. Population size escalates, as does the
+ absolute magnitude of "accidents" and "emergencies." The process is
+ brought to an end only by the total collapse of the whole system,
+ producing a catastrophe of scarcely imaginable proportions. (Hardin, 90)
+#+END_QUOTE
+
+*** Summary of Hardin's Argument
+#+ATTR_REVEAL: :frag (appear)
+- The World Food Bank (and organizations like it) creates a "commons"
+  encouraging bad behavior that will generate a "ratchet effect" on
+  population growth, creating further cyclical problems
+- We should treat individual nations as "lifeboats" and refrain from
+  helping them because doing so only causes further problems
+
+
+*** Objections to Hardin
+#+ATTR_REVEAL: :frag (appear)
+1. The lifeboat metaphor is a misleading one
+2. Not every commons results in a "tragedy"
+3. Food security need not always result in population explosions  
+
+**** Are we really in a lifeboat?  
+#+ATTR_REVEAL: :frag (appear)
+- Lifeboats don't necessary interact much, but countries (and their
+  citizens) do all the time and the interaction is not one-sided
+- The isolationism encouraged by the lifeboat metaphor encourages global
+  political and economic instability 
+  
+**** The Commons
+#+ATTR_REVEAL: :frag (appear)
+#+BEGIN_QUOTE
+ Prosperity in the system of the commons cannot survive errors. If
+ everyone would only restrain himself, all would be well; but it takes
+ only one less than everyone to ruin a system of voluntary restraint. In
+ a crowded world of less than petfect human beings-and we will never
+ know any other-mutual ruin is inevitable in the commons. This is the
+ core of the tragedy of the commons. (Hardin, 88)
+#+END_QUOTE
+
+#+ATTR_REVEAL: :frag (appear)
+- Hardin's view assumes that activity in a commons cannot be regulated,
+  but gives no argument as to why we should agree with this
+
+**** Food & Population
+#+ATTR_REVEAL: :frag (appear)
+- Hardin assumes that an increase in food security entails an increase
+  in population
+- But population increases depends on a variety of factors:
+
+#+ATTR_REVEAL: :frag (appear)
+#+BEGIN_QUOTE
+ [Population increase depends on] parental confidence about the future, an
+ improved status of women, and literacy. [Population increases] require low
+ infant mortality rates, widely available rudimentary health care, increased
+ income and employment, and an adequate diet above subsistence levels (Murdoch
+ & Oates, 564)
+#+END_QUOTE
+
+
+*** Sustainability & Food Security
+#+ATTR_REVEAL: :frag (appear)
+1. Sustainability with respect to a population
+2. Sustainability with respect to the environment
+
+*** Why Is Sustainability Important?
+  #+ATTR_REVEAL: :frag (appear)
+  - Food security is important! 
+  - Unsustainable environmental practices lead to famine/food insecurity & possible ecological catastrophe
+    
+#+BEGIN_NOTES
+- There might be other reasons too: intrinsic value of environment/nature, future generations
+#+END_NOTES
+
+*** Climate Change
+
+- Climate Change: :: A long-term change in global or regional weather patterns, typically involving a change in average atmospheric temperature 
+     
+     
+*** What Causes Climate Change?
+#+ATTR_REVEAL: :frag (appear)
+- Non-human factors
+  - Variation in solar radiation, ocean circulation, or the earth's orbit, volcanic eruption, etc. 
+- Human activity (/anthropogenic/ climate change)
+  - Burning fossil fuels
+  - Agriculture
+  - Deforestation
+#+BEGIN_NOTES
+- What is climate change?
+- Why is it undesirable?
+- What factors contribute to climate change?
+- How do agricultural practices conribute?
+- What can we do to avoid (radical) climate change?
+  - Lower carbon footprint
+  - Look for alternative (non-industrial) agricultural methods
+#+END_NOTES
+
+*** Climate Change & Agriculture
+#+ATTR_REVEAL: :frag (appear)
+- The global food system accounts for roughly 30 percent of global emissions
+  - Includes transportation, deforestation, and agricultural management
+- Land clearance and ag management account for more emissions than all of the world’s cars, planes, and trains *combined* 
+- Emissions from agriculture and deforestation are *three times* greater than emissions from the global building sector, and equal to *all* industrial emissions
+  
+*** What Can We Do About Climate Change?
+#+ATTR_REVEAL: :frag (appear)
+- Reduce greenhouse gas emissions (CO_2, N_{2}O, CH_4) 
+- Change our food production & consuption practices
+
+*** Sustainable Production: Farming
+#+ATTR_REVEAL: :frag (appear)
+- Polyculture: :: agricultural practice of simultaneously cultivating several crops or animal species 
+- Biomimicry: :: the imitation of systems and elements of nature
+
+                 
+#+BEGIN_NOTES
+- Basic idea is to mimic nature's own processes for our ends -- a "permaculture"
+#+END_NOTES
+
+**** Mimicking Nature on the Farm
+                
+#+ATTR_REVEAL: :frag (appear)
+- Every organism on the farm contributes to the overall health and productivity of the farm
+- Each part of the farm models a relationship between between animals in nature. 
+  #+ATTR_REVEAL: :frag (appear)
+  - Cattle-chicken relationship
+    - Cattle completely graze down grassy paddock area
+    - Brings chickens into empty paddock to "clean up" 
+      
+      
+**** Contrast With Industrial Farming
+
+| NAYLOR FARM        | POLYFACE FARM     |
+|--------------------+-------------------|
+| Industrial         | Pastoral          |
+| Annual species     | Perennial species |
+| Monoculture        | Polyculture       |
+| Fossil energy      | Solar energy      |
+| Global market      | Local market      |
+| Specialized        | Diversified       |
+| Mechanical         | Biological        |
+| Imported fertility | Local fertility   |
+| Myriad inputs      | Chicken feed      |
+
+*** Sustainable Consumption: Eating Less Meat
+#+ATTR_REVEAL: :frag (appear)
+- If you trade a meal of steak for beans once a week for a year, you will keep the equivalent of 331 kilograms of carbon dioxide (CO_2) out of the atmosphere
+  #+ATTR_REVEAL: :frag (appear)
+  - Equivalent to not burning 38 gallons of gas, or of trading in 12
+    incandescent bulbs for 1 LED
+    
+#+REVEAL: split
+#+ATTR_HTML: :style height:auto; margin:auto; display:block; text-align:center
+[[file:/Users/roambot/Dropbox/Work/projects/phil105/slides/beef-climate-vegetables.jpg]]  
+
+*** References   
+- [[https://www.washingtonpost.com/lifestyle/food/heres-how-much-giving-up-beef-helps--or-doesnt-help--the-planet/2017/07/20/03bb5ba2-6d60-11e7-b9e2-2056e768a7e5_story.html][Washington Post ]]and [[https://www.theguardian.com/environment/2014/jul/21/giving-up-beef-reduce-carbon-footprint-more-than-cars][The Guardian]] on carbon footprint of meat
+- [[https://economix.blogs.nytimes.com/2013/11/12/the-inequality-of-climate-change/?_r=0][The Inequality of Climate Change]]
+- [[http://www.un.org/en/sections/issues-depth/climate-change/][UN on Climate Change]]
+- [[http://report.ipcc.ch/sr15/pdf/sr15_spm_final.pdf][IPCC special report on the impacts of global warming, Oct 2018]]
+- [[http://www.environmentreports.com/how-does-agriculture-change/][Food Matters: How Does Agriculture Change Our Climate?]] (U of Minnesota)
+
+** DONE Week 13 Geography & Identity
+*** Food Security
+#+ATTR_REVEAL: :frag (appear)
+1. /Available/: food is available in sufficient quantities & on a
+   consistent basis
+2. /Accessible/: people can regularly acquire adequate quantities of food
+   through socially acceptable methods
+3. /Utilizable/: consumed food has a positive nutritional impact on people
+   
+#+BEGIN_NOTES
+- food security vs. sovereignty (Mares & Pena)
+#+END_NOTES
+
+*** Food Security & Food Sovereignty
+- Food security is not just about satisfying nutritional needs, it also
+  requires an understanding of the relationship between food and culture
+  
+#+ATTR_REVEAL: :frag (appear)
+#+BEGIN_QUOTE
+the dominant concept of food security .. [is unable] to account for an
+understanding of food as more than just a nutritional commodity but rather, a
+set of social relations and cultural practices, including foodways and
+heritage cuisines that constitute a larger whole (Mares & Peña, 199)
+#+END_QUOTE    
+
+#+REVEAL: split
+- Food Sovereignty: :: Food security achieved in a manner that preserves the
+     relationship between a culture or locale and its agriculture or food
+     production/consumption processes
+
+
+
+
+
+*** Localism/Provincialism
+#+BEGIN_QUOTE
+[Localism] constitutes “the love and pride which leads the inhabitants of a
+province to cherish as their own [those] traditions, beliefs and aspirations
+[with which a province is associated]” (Heldke, 37 (quoting Josiah Royce))
+#+END_QUOTE
+
+#+ATTR_REVEAL: :frag (appear)
+- Localism/Provincialism: :: privileging one's cultural traditions, beliefs,
+     and aspirations over those of other regions when making
+     production/consumption choices
+               
+               
+#+BEGIN_NOTES
+- NY style pizza or bagels
+- Runza in Nebraska
+#+END_NOTES
+
+*** Globalism/Cosmopolitanism
+
+- Globalism/Cosmopolitanism: :: treating all traditions, cultures, and locales
+     equally when making production/consumption choices
+     
+     
+#+BEGIN_NOTES
+- Cosmopolitanism of Anthony Bourdain or "Ugly Delicious" David Chang
+- Starbucks, McDonalds, or Dunkin Donuts everywhere
+- "exoticism" of global food (though some "foreign" foods are really just local food dressed up (e.g. much of chinese food) 
+#+END_NOTES
+**** Does locality at least sometimes make a difference to the kinds of food choices you make?
+
+A. Yes \\
+B. No 
+
+
+**** What are examples of local vs. global food?   
+#+BEGIN_NOTES
+- see if students will volunteer options otherwise pair exercise
+#+END_NOTES
+
+**** /Why/ might one favor 'local' foods over non-local ones?
+#+BEGIN_NOTES
+- think/pair/share exercise
+#+END_NOTES   
+     
+#+BEGIN_NOTES
+- Ask this as a clicker question - then do think/pair/share: as to /why/ it matters (2 reasons)
+#+END_NOTES
+
+
+     
+*** Localism & the Agrarian Ideal                                             :noexport:
+#+ATTR_REVEAL: :frag (appear)     
+- Agrarianism: :: a social philosophy which sees farming as a way of life,
+                 valuable not only for the food and agriculture it produces,
+                 but also in itself.
+                 
+#+BEGIN_NOTES
+- slow food: founded in Italy in 1989 to prevent the disappearance of local food
+  cultures and traditions, promote an alternative to "fast" food
+- group work: two examples of local vs global food? 
+#+END_NOTES
+
+*** Advantages of Localism
+#+ATTR_REVEAL: :frag (appear)
+- Reduced distance for transport of goods means lower environmental impact
+- Supports local economies
+- Promotes the continued existence of specific cultural practices or traditions
+- Promotes a connection to a particular locale or "sense of place"
+- Promotes or maintains a "sustainable community"
+  
+#+BEGIN_NOTES
+- Discuss tendency for people to assume local means "healthy" or
+  "sustainable"
+#+END_NOTES
+
+*** Disadvantages of Localism
+#+ATTR_REVEAL: :frag (appear)
+- Elitist?
+  #+ATTR_REVEAL: :frag (appear)
+  - Increased cost of food
+  - Increased time required for production/consumption
+- Difficulty being scaled (i.e. not all populations can be locavores)
+- Provincial
+- For many areas localism may result in a net decrease in the variety of
+  available foods 
+# - Ignores or perpetuates marginalization of native groups
+  
+#+BEGIN_NOTES
+- note that the elitism and provincialism are both negative 
+#+END_NOTES
+                 
+*** Advantages of Globalism/Cosmopolitanism
+#+ATTR_REVEAL: :frag (appear)
+- Respect for the diversity of cultures/peoples
+- Encourages freedom of choice in how to live
+  
+*** Disadvantages of Globalism
+#+ATTR_REVEAL: :frag (appear)
+- Elitist?
+- Encourages a kind of cultural homogeneity
+- Encourages a kind of alienation from any specific place or culture
+  
+#+BEGIN_NOTES
+- Note that while cosmopolitanism can sound good it can also lead to
+  homogenization of traditions food - e.g. Starbucks/McDonalds
+#+END_NOTES
+
+  
+*** Beyond the Global/Local Dichotomy?
+#+ATTR_REVEAL: :frag (appear)
+1. Recognize that going 'local' doesn't mean that one's practices are
+   necessarily "healthier" or more "just"
+2. Realize that most of our food choices will have global ramifications
+3. Acknowledge that the culture of a region and its agriculture are linked
+4. Accept that there may be irreconcilable costs and benefits to both global
+   and local approaches
+
+#+REVEAL: split
+#+BEGIN_QUOTE
+[The locavore in me thinks that] the Amish child with the McDonald’s bag
+represents a ... challenge, namely that shopping mall culture exerts a
+terrible attraction, even to those outside it...
+
+[The cosmopolitan is me asks:] what if that Amish kid wanted to grow up to be
+a gay vegetarian and sing in a rock band? I finnd myself asking. Or what if he
+just wanted to be a hippie organic farmer instead of an Amish one? A Wiccan,
+maybe? What support for those life choices would he finnd in his community?
+(Heldke, 34-5)
+#+END_QUOTE
+
+
+
+** CANCELED Week 14 The Aesthetics of Food
+*** Two Issues
+#+ATTR_REVEAL: :frag (appear)
+1. Can food be the kind of thing that has genuine aesthetic qualities
+   (e.g. beauty, grace, etc.)
+2. Is there something objectionable (morally or otherwise) to pursuing a
+   life filled with foods that have such qualities (i.e. being a "foodie")?
+   
+#+BEGIN_NOTES
+- discuss the idea that aesthetic evaluation involves critical scrutiny of
+  an object with regard to specific properties and its success or failure
+  in achieving them
+- Clicker question -- can food be beautiful?
+#+END_NOTES
+   
+   
+*** Taste & Artistic Appreciation
+#+ATTR_REVEAL: :frag (appear)
+- Appreciation of art & nature modeled on "alimentary" experience of food
+  & drink
+  
+\\
+  
+#+ATTR_REVEAL: :frag (appear)
+#+BEGIN_QUOTE
+ The external sense of taste...with which nature has furnished us, and by
+ which we distinguish and relish the various kinds of nourishment that are
+ adapted to health and pleasure, has in all languages given occasion to
+ the metaphorical word /taste/, by which we express our perception of
+ beauty, deformity, or defect, in the several arts. (Voltaire, /An Essay on
+ Taste/)
+#+END_QUOTE
+
+*** Three Features of Taste
+#+ATTR_REVEAL: :frag (appear)
+- Hedonically judgmental: :: we naturally evaluate what we ingest by
+     means of a response of pleasure or displeasure
+- Immediate: :: responses of pleasure/displeasure are made without further
+                reflection or judgment
+- Directly Sensory :: critical judgments must depend on one's own experience 
+
+     
+**** Some Consequences of the View of Taste
+#+ATTR_REVEAL: :frag (appear)
+- It isn't clear on this picture that there can be genuine disputes about taste
+- Threat of relativism 
+- Could there even /be/ a refined or "critical" taste?
+
+*** Kant's Criticism of Aesthetics as Taste
+#+ATTR_REVEAL: :frag (appear)
+- Kant argues that we must distinguish the subjective notion of being
+  "agreeable" with the objective and aesthetic notion of being "beautiful"
+
+  \\
+
+#+ATTR_REVEAL: :frag (appear)
+#+BEGIN_QUOTE
+ Many things may be charming and agreeable to him; no one cares about
+ that. But if he proclaims something to be beautiful, then he requires the
+ same liking from others; he then judges not just for himself but for
+ everyone, and speaks of beauty as if it were a property of things. (Kant,
+ /Critique of Judgment/)
+#+END_QUOTE
+
+**** Distinguishing the Subjective from the Objective
+#+ATTR_REVEAL: :frag (appear)
+- Kant distinguishes a subjective "taste of sense" with an objective
+  "taste of reflection"
+  #+ATTR_REVEAL: :frag (appear)
+  - Taste of sense: :: immediate and subjective (pleasurable or
+       displeasurable) impression of some thing
+  - Taste of reflection: :: contemplative enjoyment of something
+       independent of whether it causes a pleasurable/displeasurable
+       feeling in oneself---i.e. one has a /disinterested/ enjoyment of
+       the thing
+       
+**** Kant Against An Aesthetic Appreciation of Food
+#+ATTR_REVEAL: :frag (appear)
+#+BEGIN_QUOTE
+ Kant points out that we have individual, and at times quirky, likes
+ and dislikes of particular foods. We sense liking or disliking a soup,
+ for instance, immediately on tasting it, and our appreciative attitude
+ towards food is one of a “taste of sense.” However, our attitude
+ towards things beautiful is quite different. To value something as
+ beautiful, Kant thought, demanded a universal assent and should not be
+ based on a personal preference. Appreciation of the beautiful calls for
+ our exhibiting a disinterested attitude. Our enjoyment of things
+ beautiful is not a hedonic reﬂex. It requires a taste of reﬂection, a
+ sustained contemplative activity, one which engages our common
+ cognitive faculties, especially our imagination, in an unrestricted
+ way. (Sweeney, 122)
+#+END_QUOTE
+
+#+REVEAL: split
+1. Our appreciation of food at best involves a mere taste of
+   sense---i.e. mere personal preference
+2. Appreciation of aesthetic properties requires a taste of
+   reflection---i.e. taking a disinterested pleasure in something and
+   thinking that others should do so as well
+3. \therefore Food is not a proper object of aesthetic appreciation/criticism
+   
+*** Sweeney's Argument for the Aesthetic Qualitites of Food 
+#+ATTR_REVEAL: :frag (appear)
+#+BEGIN_QUOTE
+ we can answer the question “Can a soup be beautiful?” in the affirmative
+ because a soup can be the object of a complex aesthetic experience that
+ warrants an evaluative label like ‘beautiful.’ Unlike those who hold that
+ food offers only an immediate simple pleasure, we...now recognize that
+ food offers us a contemplative experience, because of the alimentary
+ sequence by which it is consumed and the sensory modalities of taste and
+ smell with which it is engaged. (Sweeney, 129)
+#+END_QUOTE
+
+#+REVEAL: split
+1. The Kantian conception of aesthetic judgment requires that it be
+   reflective/contemplative and disinterested
+2. Alimentary experience is sufficiently complex as to allow for
+   reflective and disinterested judgment
+3. \therefore Food, as the object of such experience, can be a genuine object of
+   aesthetic appreciation
+
+
+#+BEGIN_NOTES
+- Here it might be worth noting that food could be art even if it doesn't
+  represent anything, as there is lots & lots of non-representational art
+#+END_NOTES
+
+*** On Being a "Foodie"
+#+ATTR_REVEAL: :frag (appear)
+- Foodie: :: someone who is an enthusiast about for aesthetic reasons 
+             
+**** Objections to Being a Foodie
+#+ATTR_REVEAL: :frag (appear)
+1. Snobbish/Elitist
+2. Overly bourgeois
+3. Part of an obsession with our "bodily natures"
+4. Appreciation of food is a "low" pleasure
+5. Food is too ephemeral to be an artform
+6. Foods are not representational 
+
+#+BEGIN_NOTES
+- (1) & (2) are general objections and don't get at food in particular
+- (3) seems grounded in contgroversial possibly religious claims about
+  what human beings are or should pursue
+- Appreciation of food can be a high pleasure --- exercises finely honed
+  capacities for discrimination, planning, etc.
+- There are (i) lots of ephemeral arts; (ii) aspects of food (e.g.
+  recipes) that are not ephemeral
+- There are lots of kinds of non-representational art forms
+#+END_NOTES
+
+** DONE Week 15 Elitism & Local Food
+*** The Industrial Food System
+#+ATTR_REVEAL: :frag (appear)
+1. Technologically driven
+2. Large scale
+3. Highly efficient
+4. Monoculture
+5. Commodification
+   
+#+BEGIN_NOTES
+- We've talked about local/global in abstract and in Nebraska; now middle view
+#+END_NOTES
+
+*** Global Produce
+- Imported fresh fruit rose to 53.1% in 2016, from 23% in 1975
+- Fresh vegetable imports rose to 31.1% from 5.8%
+
+#+ATTR_HTML: :style max-width:50%; margin:auto; display:block; text-align:center
+[[/Users/roambot/Dropbox/Work/projects/phil105/slides/fruit-veg-imports.jpg]]
+
+
+**** Advantages of the Global System
+#+ATTR_REVEAL: :frag (appear)
+- Increased /availability/ and /variety/ of fresh produce, particularly in winter, when imported berries, grapes and stone fruit compete with citrus and stored apples
+- Many imports /cost less/ than domestically grown equivalents, & competition from imports keeps prices down for domestic produce
+- Imported produce is also sometimes /fresher/ than the domestic equivalent (e.g. in-season apples or grapes)
+
+**** Disadvantages of the Global System
+#+ATTR_REVEAL: :frag (appear)
+- Imported produce labeled organic may not be as reliably free of pesticide residues as domestic equivalents
+- Primarily supports large growers/producers
+- Possibly increases import of pests and invasive species
+- Because imported fruits and vegetables typically travel farther than domestic produce from farm to table, they cause greater harm from /carbon emissions/ and /pollution/. 
+  
+#+BEGIN_NOTES
+- But not all local foods are more evironmentally friendly: in some cases fruits and vegetables grown in a suitable climate overseas may require fewer resources for farming and be more generally sustainable than off-season domestic produce — cultivated, say, in heated greenhouses
+#+END_NOTES
+**** Quotes                                                                 ::noexport:
+#+BEGIN_QUOTE
+Mr. Pollan said, “I generally have more confidence in domestic than imported organic.”
+#+END_QUOTE
+#+BEGIN_QUOTE
+“It’s easy to criticize food that comes from far away,” Mr. Pollan said. “But if the question is whether this is good for your health or not, in general it is.” (Michael Pollan) 
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+Mr. Pollan, not surprisingly, does worry as imports climb. “I think it would be a tremendous loss if we weren’t growing a significant percentage of our produce, for reasons having to do both with quality, and with the knowledge of the environment that farmers bring to a society,” he said. “Don’t underestimate the ritual of eating seasonally, the pleasure one can have as fruit comes into the market,” Mr. Pollan said.
+#+END_QUOTE
+
+
+*** The Elitism Issue
+#+BEGIN_QUOTE
+[It's messed up] telling some poor little boy that he can’t eat a 99 cent fast
+food cheeseburger because it doesn’t have integrity. Telling him how easy it
+is instead to save his ducketts and maybe he can have a grass-fed...burger at
+the end of the month as a reward, but in the meantime get your protein from
+these canned beans that you can’t actually bake because you don’t have a stove
+and, even if you did, your mom works two jobs and moonlights as an Uber driver
+so she doesn’t have time to heat that shit up anyway. (Chris Newman, January
+28, 2018)
+#+END_QUOTE
+
+#+BEGIN_NOTES
+- Eating local/organic is just a form of "virtue signaling" about health or morals
+- Local/organic food is typically more expensive than global/non-organic (conspicuous consumption)
+- Local/organic food is typically less easily purchased than global/non-organic
+- Being properly informed about local/organic food is difficult and time-consuming
+#+END_NOTES
+
+*** Is Local Food Elitist?
+#+ATTR_REVEAL: :frag (appear)
+- Food Elitism: :: local/organic/sustainable/pro-animal food is really for a select few only---those who have the luxury of time and money to produce & purchase such goods
+
+#+REVEAL: split
+Is (advocacy for) local/organic/sustainable/pro-animal food 'elitist'?  
+
+A. Yes
+B. No
+   
+#+BEGIN_NOTES
+- Ask students to do think/pair/share exercise
+- Eating local/organic is just a form of "virtue signaling" about health or morals
+- Local/organic food is typically more expensive than global/non-organic (conspicuous consumption)
+- Local/organic food is typically less easily purchased than global/non-organic
+- Being properly informed about local/organic food is difficult and time-consuming
+
+#+END_NOTES
+
+
+*** Reply: It is Global Food That's Elitist                                             
+# #+BEGIN_QUOTE
+# By creating a perverted norm, in which everything is always everywhere and little is seasonal, we have ceased to rely upon staples: long-keeping foods like grains, beans and root vegetables, foods that provide nutrition when summer greens, fruits and vegetables aren’t readily available. We expect a steady supply of “fresh” Peruvian asparagus, Canadian tomatoes, South African apples, Dutch peppers and Mexican broccoli. Those who believe they’re entitled to eat any food any time seem to think that predominantly local agriculture is an elitist plot to “force” a more limited diet upon us. (Mark Bittman, /NYT/ November 1, 2011)
+# #+END_QUOTE
+  
+#+BEGIN_QUOTE
+[the objection to localism] gets the elitism charge precisely backward. America’s current system of food production — overly centralized and industrialized, overly controlled by a handful of companies, overly reliant on monocultures, pesticides, chemical fertilizers, chemical additives, genetically modified organisms, factory farms, government subsidies and fossil fuels — is profoundly undemocratic. It is one more sign of how the few now rule the many. (Eric Schlosser, /Washington Post/ April 29, 2011)
+#+END_QUOTE
+
+*** Local Food Culture = Informed Food Culture
+#+ATTR_REVEAL: :frag (appear)
+- Recognize that going 'local' doesn't mean that one's practices are
+  necessarily "healthier" or more "just"
+- Many if not most of our food choices have global ramifications
+- There may be irreconcilable costs and benefits to both global and local
+  approaches
+- Be able to say where your food is from & who produced it
+- Being informed about your food choices = having (some) control over those choices
+  
+
+*** References
+- [[https://www.nytimes.com/2018/03/13/dining/fruit-vegetables-imports.html][USA mports of fruit & vegetables]]
+- [[https://www.theguardian.com/environment/2008/mar/23/food.ethicalliving][Food miles and the environment]]
+- [[https://www.ers.usda.gov/webdocs/publications/87459/oce-2018-1.pdf][USDA Agricultural Projections to 2027]]
+- [[https://opinionator.blogs.nytimes.com/2011/11/01/local-food-no-elitist-plot/][Bittman on Food Elistism]]
+- [[https://shift.newco.co/2018/01/28/Clean-Food--If-You-Want-to-Save-the-World--Get-Over-Yourself-/][Chris Newman on 'clean food']]
+- [[https://www.washingtonpost.com/opinions/why-being-a-foodie-isnt-elitist/2011/04/27/AFeWsnFF_story.html][Eric Schlosser on 'foodie elitism']]  
+** DONE Writing Exercise
+*** Three Topics 
+1. Food Politics
+2. Food Security
+3. Geography & Identity
+*** Sample Question
+- "Local" agriculture privileges geographic and cultural locality when making food consumption and production choices. Describe at least two advantages & disadvantages of "local" vs "global" agriculture. Is one form of agriculture preferable to the other? Defend your answer. 
+  
+#+BEGIN_NOTES
+- Local Advantages:
+  - Reduced distance for transport of goods means lower environmental impact
+  - Supports local economies
+  - Promotes the continued existence of specific cultural practices or traditions
+  - Promotes a connection to a particular locale or "sense of place"
+  - Promotes or maintains a "sustainable community"
+- Local Disadvantages:
+  - Increased cost of food
+  - Increased time required for production/consumption
+  - Perhaps difficult to scale (i.e. maybe not all populations can be locavores)
+  - Provincial
+  - For many areas localism may result in a net decrease in the variety of
+    available foods 
+#+END_NOTES
+*** Things To Study
+#+ATTR_REVEAL: :frag (appear)
+- The misalignment of interests between food industry & public health 
+  #+ATTR_REVEAL: :frag (appear)
+  - "Moral hazard" of food industry practices
+  - Soda & GMO examples
+- The three features of food security & whether we are morally required to provide food security
+  #+ATTR_REVEAL: :frag (appear)
+  - Principle of preventing bad occurrences
+  - Singer's argument for famine relief 
+  - Hardin's population argument against helping the food insecure
+
+* Website                                                                       
 ** Pages
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: ./
@@ -528,7 +2969,7 @@ The course syllabus is available here: [[file:/materials/phil105-syllabus.pdf][P
 
 Much of our discussion focuses on the modern industrial food system. For
 a sense of the scale of such operations you might look at this [[https://www.nytimes.com/interactive/2016/10/09/magazine/big-food-photo-essay.html][New York Times
-Magazine article]].
+Magazine article]] or Gregg Segal's project [[https://www.greggsegal.com/P-Projects/Daily-Bread/1/thumbs][Daily Bread]]. 
 
 All course materials are on the course website on [[https://canvas.unl.edu/courses/49195][Canvas]]. 
 
@@ -932,7 +3373,14 @@ PACs may make unlimited expenditures independently of a candidate or political p
 ***** Chicken slaughter
 - [[http://www.huffingtonpost.com/bruce-friedrich/usda-time-to-stop-the-chi_b_4855990.html][Huffington Post]] article on boiling chickens alive
 - [[https://www.washingtonpost.com/politics/usda-plan-to-speed-up-poultry-processing-lines-could-increase-risk-of-bird-abuse/2013/10/29/aeeffe1e-3b2e-11e3-b6a9-da62c264f40e_story.html?utm_term=.8232daa5b9e5][Washington Post]] article on improper chicken slaughter
+- [[https://www.huffingtonpost.com/entry/chickens-slaughtered-conscious_us_580e3d35e4b000d0b157bf98][Huffington Post]] article on problems with electric stunning method
 - [[https://www.washingtonpost.com/politics/usda-drops-proposal-to-speed-up-poultry-processing-at-plants/2014/07/31/4a6fad90-18eb-11e4-85b6-c1451e622637_story.html?utm_term=.4ac436a9f754][USDA abandons proposal]] that would speed up processing
+***** Labeling
+- [[https://www.huffingtonpost.com/entry/defining-egg-labels_us_57ffaabfe4b05eff55820176][Huffington Post]] on free range vs pasture vs cage free
+- [[https://www.peta.org/issues/animals-used-for-food/organic-free-range-meat/][PETA]] on free range and organic labels
+- [[https://www.nytimes.com/2017/01/31/dining/animal-welfare-labels.html?mabReward=R4&recp=0&version=readinglist&action=click&pgtype=Homepage&clickSource=story-heading&module=c-column-middle-span-region&region=c-column-middle-span-region&WT.nav=c-column-middle-span-region][NYTimes]] on food labels
+
+
 *** No Class  (2/16)
 - WATCH: [[https://www.youtube.com/watch?v=hACdhD_kes8][Consequentialism]]
 ** Week 7
@@ -1059,6 +3507,7 @@ The aesthetics of food
 * One min exercise
 This might be useful to incorporate into the weekly critical questions or quizzes
 
+#+BEGIN_QUOTE
 This formative assessment is typically completed by students in the last 10 minutes of class. Such papers allow students to show what they are learning in a "low stakes" non-evaluative context and enable you to know if your students are fully understanding or achieving your learning goals. Some questions might include the following:
 
 - What is the most important (interesting) issue you learned this week?
@@ -1066,7 +3515,696 @@ This formative assessment is typically completed by students in the last 10 minu
 - Connect the concept of "x" that we discussed today with last week's discussion of "y."
 - What is one concept addressed thus far that you don't fully understand?
 - What is one question you have about course content that you'd like addressed in an upcoming class?
+#+END_QUOTE
+* Quizzes
+** Week 1 - What is food
 
+1. A necessary condition is:
+  a. what is enough for something to be the case
+  b. what is sufficient for something to be the case
+  c. what is required for something to be the case
+  d. what is both required and enough for something to be the case
+
+   
+2. A natural kind is:
+  a. a kind that depends on social conditions to exist
+  b. a kind that depends on human beings to exist
+  c. neither (a) or (b)
+                                                                 
+   
+3. One example of a social kind is:
+  a. gold (the element)
+  b. water
+  c. DNA
+  d. husband                                                     
+
+4. T/F It is necessary to be a human being that one speak some language
+
+5. T/F It is sufficient to be president of the USA that one receive the most votes in national election's popular vote
+
+
+** Week 2 - Nutritionism
+1. T/F: All social kinds are artifacts
+2. T/F: If something is a member of a social kind then it isn't a member
+   of a natural kind
+3. T/F: Different organisms might need different nutrients
+4. T/F: Pollan argues that we should conceive of food solely as a natural kind 
+5. T/F: Pollan argues that we should be more reductive in our approach to food
+
+
+Answers: T, F, T, F, F
+
+# 1. T/F: All social kinds are artifacts
+# 2. T/F: If something is a member of a social kind then it isn't a member
+#    of a natural kind
+# 3. T/F: Different organisms might need different nutrients
+# 4. T/F: Pollan thinks that we should conceive of food solely as a natural kind 
+# 5. T/F: According to "nutritionism" nutrients (e.g. protein) from one kind of
+#    food (e.g. chicken) should be treated differently than the same nutrients
+#    from another kind of food (e.g tofu/soy)
+
+
+** Week 3 - The IFS
+1. T/F: Pollan is a critic of "nutritionism"
+2. T/F: Nutritionism construes anything that has nutritional calories as food
+3. T/F: The IFS is very efficient
+4. T/F: Polyculture is a characteristic feature of the IFS
+5. T/F: Commodities are fungible
+
+
+** Week 4 - The IFS & Animals
+
+Which of the following is not a morally relevant consideration with respect to killing animals for food? A. The suffering of the animal B. The fact that the animal is sentient C. The intelligence of the animal D. The way the animal looks
+T/F: Broiler chickens are stunned/paralyzed but often not rendered unconscious before slaughter
+T/F: Broiler chickens typically have no skeletal problems
+T/F: Moral status concerns whether or not someone is a good person
+T/F: Per year, cows are slaughtered more than any other animal in the United States
+
+Answers: D, T, F, F, F 
+
+** Week 5 - Consider the Lobster
+1. Lobsters are often boiled alive
+   A. True
+   B. False
+
+2. T/F: One reason it may be wrong to eat animals is that they can experience pain
+
+3. T/F: Anthropomorphism is the view that human beings are the most important creatures that exist
+
+4. T/F: We are certain that lobsters do not experience pain
+
+5. Common farming exemptions amend animal protection laws in order to
+
+    A. make it easier to adopt a companion animal from a farm
+    B. help farmers automate their farms
+    C. help farmers avoid taxes
+    D. help farmers avoid charges of cruelty towards their animals/livestock
+Answers: A, T, F, F, D
+   
+   
+   
+
+   
+
+** Week 6 - Consequentialism
+1. T/F: Utilitarianism holds that we evaluate an action as right based on the intention to act, not the consequences of the action
+2. T/F: Hedonism says that pleasure is the only intrinsic good
+3. T/F: An extrinsically valuable good is one that is good/valuable in itself without consideration of any relation to anything else
+4. T/F: Act consequentialism says that an act is right just in case it maximizes the good (and minimizes the bad)
+5. One objection to utilitarianism is that it 
+   A. emphasizes the separateness of persons 
+   B. construes pleasure as a good 
+   C. ignores the separateness of persons 
+   D. fails to provide a decision procedure for right action
+   
+      
+answers: F, T, F, T, C
+
+** Week 7 - Deontology & Ethical Omnivorism
+1. T/F: Deontological ethical theories claim that only consequences matter
+2. T/F: Regan argues that non-human animals have value only in relation to humans
+3. According to Regan, the problem with utilitarianism is
+   A. it ignores animal suffering
+   B. it doesn't require vegetarianism
+   C. it values pleasure
+   D. it ignores the inherent value of experiencing subjects
+4. T/F: Pollan defends omnivorism by arguing that non-human animals are incapable of experiencing pain
+5. T/F: According to Regan, if an animal has rights then it cannot be used merely as a resource to further our ends or aims
+
+** Week 9 - Food politics
+1. The primary aim of large food companies is
+   A. Promote public health
+   B. Increase public knowledge of nutrition
+   C. Maximize profit and shareholder return on investment
+   D. Reduce consumption of processed foods
+
+2. What is an example of "moral hazard"?
+   A. Driving recklessly without any auto insurance
+   B. Using tobacco products despite knowing they are harmful
+   C. Lying about your health history to your doctor
+   D. Driving recklessly after purchasing auto insurance
+
+3. A "functional food" is
+   A. any food produced in the industrial food system
+   B. any food given an additional "function" via added foreign ingredients, or more of what is normally found in the food
+   C. any organic food
+   D. any food not produced via the industrial food system
+
+4. T/F: One problem for the food industry is that there is no limit to the amount of food people can eat
+
+5. T/F: Advertising a food as "functional" in a specific manner is a way for food companies to differentiate their products and avoid commodification
+Answers are: C, D, B, F, T
+
+   
+** Week 10 - Case Studies
+1. The NYC soda rule attempted to ban all soda sales in NYC
+   A. True  
+   B. False  
+   
+2. For foods "generally regarded as safe" the burden is on the consumer to show that a product is unsafe for a product to be pulled from the market
+
+   A. True
+   B. False
+
+3. A genetically modified food is one that
+
+   A. contains foreign genetic material
+   B. is grown or bred with a specific purpose in mind
+   C. is more dangerous to consume
+   D. is cultivated from materials that are not native to the place in which
+      it is grown/raised
+
+
+4. Obesity in the US has been on the decline since 2000
+
+   A. True  
+   B. False
+
+
+5. There is conclusive scientific evidence that GM Foods are unhealthy
+
+   A. True  
+   B. False  
+** Week 11 - Famine 
+1. According to Singer, distant bad occurrences are truly /more/ morally relevant
+   for us than local/close ones. 
+
+   A. True 
+   B. False 
+      
+2. Food security solely concerns the quantity of food available
+
+   A. True 
+   B. False
+   
+3. Singer argues that we are morally obligated to help the food insecure
+
+   A. True
+   B. False
+
+4. The Principle of Preventing Bad Occurences claims that we have to prevent bad occurrences no matter the cost to ourselves
+
+   A. True
+   B. False
+
+5. A supererogatory action is:
+
+   A. Morally required
+   B. Not morally required but morally good -- i.e. it is above and beyond what is required
+   C. Morally wrong
+   D. Morally neutral
+** Week 12 - Ethics of Sustainability
+1. T/F: According to Hardin, we are morally obligated to help people
+   suffering from lack of food due to famine.
+2. T/F: The "tragedy of the commons" is that not everyone is food secure
+3. T/F: Hardin's argument assumes that food security always leads to population increases
+4. T/F: Modern industrial agricultural practices have little impact on greehouse gas emissions
+5. T/F: Polyculture is the agricultural practice of cultivating a single crop or animal at a time
+   
+answers: F, F, T, F, F
+** Week 13 - Food Sovereignty 
+1. T/F: "Food sovereignty" is just another name for food security
+2. T/F: A localist treats food from all locations and cultures as equal
+3. T/F: An advantage of localism is that it helps support local economies
+4. T/F: One worry about globalism is that it encourages a kind of cultural homogeneity
+5. A clear example of a global/cosmopolitan food is:
+   A. Runza  
+   B. Omaha beef
+   C. An organic chicken
+   D. A McDonald's cheeseburger
+   
+
+Answers: F, F, T, T, D
+** Old Quizzes
+*** Argument
+1. An argument consists of two parts -- the evidence, and what follows
+   from it. What do we call each of these two parts?
+2. The parts of an argument must be statements. What is a statement?
+3. If the premises of a valid argument are true, is the conclusion true?
+4. Can a valid argument have a false conclusion?
+5. Is a sound argument also valid?
+
+1. An argument consists of two parts -- the evidence, and what follows
+   from it. What do we call each of these two parts?
+2. The parts of an argument must be statements. Is a question a
+   statement?
+3. Can a valid argument have false premises?
+4. Can a sound argument have false premises?
+5. Can a sound argument have a false conclusion?
+*** Week 5 - Food Politics & Ethics
+1. The primary aim of large food companies is
+    A. Promote public health
+    B. Increase public knowledge of nutrition
+    C. Maximize profit and shareholder return on investment
+    D. Reduce consumption of processed foods
+
+2. What is an example of "moral hazard"?
+    A. Driving recklessly without any auto insurance
+    B. Using tobacco products despite knowing they are harmful
+    C. Lying about your health history to your doctor
+    D. Driving recklessly after purchasing auto insurance
+
+3. A "functional food" is
+    A. any food produced in the industrial food system
+    B. any food given an additional "function" via added foreign ingredients, or more of what is normally found in the food
+    C. any organic food
+    D. any food not produced via the industrial food system
+
+4. T/F: One problem for the food industry is that there is no limit to the amount of food people can eat
+
+5. T/F: Advertising a food as "functional" in a specific manner is a way for food companies to differentiate their products and avoid commodification
+
+
+Answers are: C, D, B, F, T
+
+
+2. What is a "check-off"? 
+
+3. A means of bribing government officials \\
+4. A grant given to sectors of the food industry for research \\ 
+5. A grant from the government for advertising \\
+6. A mandatory deduction of industry profits specifically for the purpose of
+   advertising and research
+
+7. Lobsters are often boiled alive
+
+8. True \\ 
+9. False \\
+
+10. What is an example of "moral hazard"?
+
+11. Driving recklessly without any auto insurance \\
+12. Using tobacco products despite knowing they are harmful \\
+13. Lying about your health history to your doctor \\ 
+14. Driving recklessly after purchasing auto insurance
+
+15. A commodity is
+
+16. Any good or service \\
+17. A good or service for which there is little demand \\
+18. Demand for a good or service that has little to no qualitative differentiation across a market \\
+19. A fungible good or service 
+
+
+
+1. The primary aim of large food companies is
+A. Promote public health
+B. Increase public knowledge of nutrition
+C. Maximize profit and shareholder return on investment
+D. Reduce consumption of processed foods
+
+2. What is an example of "moral hazard"?
+A. Driving recklessly without any auto insurance
+B. Using tobacco products despite knowing they are harmful
+C. Lying about your health history to your doctor
+D. Driving recklessly after purchasing auto insurance
+
+3. A "functional food" is
+A. any food produced in the industrial food system
+B. any food given an additional "function" via added foreign ingredients, or
+more of what is normally found in the food
+C. any organic food
+D. any food not produced via the industrial food system
+
+4. T/F: 
+Answers are: C, T, D, B, T
+
+
+
+*** Week 6 - Industrial Meat
+1. Which of the following is *not* a morally relevant consideration with respect
+   to killing animals for food?
+   A. The suffering of the animal
+   B. The fact that the animal is sentient
+   C. The intelligence of the animal
+   D. The way the animal looks
+2. T/F: Broiler chickens are stunned/paralyzed but typically not rendered unconscious before slaughter
+3. T/F: Broiler chickens typically have no skeletal problems
+4. Consequentialism claims that that moral status of an action as good/bad
+   A. sometimes depends on its consequences
+   B. completely depends on its consequences
+   C. sometimes depends on its causes
+   D. completely depends on its causes
+5. T/F: Hedonism is the claim that the right thing is that which maximizes
+   the good
+   
+D, T, F, B, F
+      
+*** Week 7-8 Consequentialism
+1. T/F: Utilitarianism provides a kind of moral decision procedure
+2. T/F: Hedonism says that pleasure is the only intrinsic good
+3. T/F: An extrinsically valuable good is one that is good/valuable in
+   itself without consideration of any relation to anything else
+4. T/F: Act consequentialism says that an act is right just in case it
+   maximizes the good (and minimizes the bad)
+5. One objection to utilitarianism is that it
+   A. emphasizes the separateness of persons  
+   B. construes pleasure as a good
+   C. ignores the separateness of persons
+   D. fails to provide a decision procedure for right action
+
+   
+   
+*** Week 12 - Famine & Affluence 
+1. According to Singer, distant bad occurrences are more morally relevant
+   to us than local ones. 
+
+   A. True 
+   B. False 
+
+2. Food security solely concerns the quantity of food available
+
+   A. True 
+   B. False
+   
+3. Singer argues that we are morally obligated to help the food insecure
+
+   A. True
+   B. False
+
+4. True or false: According to Hardin, we are morally obligated to help people
+   suffering from lack of food due to famine.
+
+5. A supererogatory action is:
+
+  A. Morally required
+  B. Not morally required but morally good
+  C. Morally wrong
+  C. Morally neutral
+
+
+*** Week 13 - Food Justice
+1. 
+*** Week 14 - GMOs and Functional Foods
+1. What is the precise definition of a functional food in the USA?
+
+   A. Anything with vitamins and nutrients
+   B. There is no precise definition of a functional food in the USA
+   C. A food supplement
+   D. Anything with added ingredients aimed at providing a specific health
+      effect
+
+2. The FDA must demonstrate that a product is unsafe for a product to be pulled from the market
+
+   A. True
+   B. False
+
+3. The 'unnaturalness' objection (UE) is a kind of intrinsic objection to GM food
+
+   A. True
+   B. False
+
+4. A genetically modified food is one that
+
+   A. contains foreign genetic material
+   B. is grown or bred with a specific purpose in mind
+   C. is more dangerous to consume
+   D. is cultivated from materials that are not native to the place in which
+      it is grown/raised
+
+5. People react to "negative information" concerning food choices by
+
+   A. typically ignoring it
+   B. giving it great significance in deliberation
+   C. giving it too little significance in deliberation
+   D. misunderstanding it
+* Clicker Questions
+** Logic & Argument
+*** Every argument must have a premise and a conclusion 
+A. True  \\
+B. False  
+*** Can a valid argument have a false conclusion?
+A. Yes  \\
+B. No  
+*** Can a sound argument have a false conclusion?
+A. Yes  \\
+B. No  
+*** In a deductive argument the truth of the conclusion is made probable by the truth of the premises
+A. True  \\
+B. False  
+** Week 2 What is food?
+*** Any kind of artifact is a social kind
+A. True \\
+B. False
+
+
+*** Any instance of a natural kind cannot also be an instance of a social kind
+A. True \\
+B. False
+
+
+*** What counts as a nutrient for one organism may not be a nutrient for another
+A. True \\
+B. False
+
+
+** The food system
+*** Pollan is a proponent of "nutritionism"
+A. True \\
+B. False
+*** Food holism says that food is any substance or stuff that provides nutritional calories
+A. True \\
+B. False
+
+   
+*** The IFS is not very efficient
+A. True  \\
+B. False
+   
+*** One feature of industrial agriculture is monoculture
+A. True \\ 
+B. False
+** Food Policy
+
+*** A commodity is
+A. Any good or service \\
+B. A good or service for which there is little demand \\
+C. Demand for a good or service that has little to no qualitative differentiation across a market \\
+D. A non-fungible good or service 
+
+
+*** Most farms in the USA are now corporate owned farms   
+A. True \\
+B. False
+
+
+*** The Haber-Bosch process is
+
+A. A process for fixing hydrogen in the soil
+B. A process for generating nitrogen
+C. A process for manufacturing explosives
+D. A process for creating fertilizer
+** Week 5 Clicker Questions
+*** Anthropocentrism is the view that human beings are the most important beings there are
+A. True \\
+B. False \\
+*** Which of the following is a plausible example of anthropomorphism?
+A. Giving your pet food because it might be hungry \\
+B. Putting a lobster in boiling water \\
+C. Wondering whether a lobster feels pain \\
+D. Thinking that your dog regrets not chasing a squirrel 
+*** It is uncertain whether lobsters experience pain in the way that humans do
+A. True \\
+B. False \\
+*** The experience of pain in animals is, at most, only sometimes relevant to the legal status of their treatment
+A. True \\
+B. False \\
+
+   ** Food Ethics
+*** Lobsters are often boiled alive
+A. True \\ 
+B. False \\
+   
+*** Lobsters lack the ability to produce or absorb natural opioids like endorphins
+A. True \\ 
+B. False \\
+
+*** Lobsters can sense changes in water temperature
+A. True \\ 
+B. False \\
+
+*** What is a fisherman's gaff?
+#+BEGIN_QUOTE
+A. A mistake made by a fisherman \\
+B. A kind of fishing line \\
+C. A pickaxe used to haul fish \\
+D. A kind of bait used to catch fish
+#+END_QUOTE
+
+** Deontology
+*** According to Kant, the moral status of a human being lies in their capacity for pleasure and pain
+
+1. True \\
+2. False \\
+
+*** Kantian Deontology says that it is ok to break a moral rule or principle if the consequences of breaking that rule are good enough
+
+1. True \\
+2. False
+
+*** A "hypothetical imperative" is one according to which, if one desires an end, then one is rationally required to bring about the means to that end
+
+1. True \\
+2. False 
+
+*** Kant's view construes animals as things
+
+1. True \\
+2. False
+   
+*** Kant allows that human beings can be used "merely as means"
+
+1. True \\
+2. False
+
+** Ethical Omnivorism
+*** Has learning about factory farm methods influenced the kinds of foods you're willing to eat?  
+
+A. Yes \\ 
+B. No
+
+*** Is it sometimes ethically permissible to eat meat?
+
+A. Yes \\
+B. No
+
+** Week 9 Clicker Questions 
+*** Do food companies have a responsibility to protect public health?
+A. Yes \\
+B. No \\
+*** Should the government regulate food companies in order to protect public health?
+A. Yes \\
+B. No\\
+*** What is an example of "moral hazard"?
+#+BEGIN_QUOTE
+A. Driving recklessly without any auto insurance \\
+B. Using tobacco products despite knowing they are harmful \\
+C. Lying about your health history to your doctor \\ 
+D. Driving recklessly after purchasing auto insurance
+#+END_QUOTE
+
+*** The primary aim of large food companies is
+
+A. Promote public health \\
+B. Increase public knowledge of nutrition \\
+C. Maximize profit and shareholder return on investment \\
+D. Reduce consumption of processed foods
+
+
+#+REVEAL: split
+- Food industry profit depends on (i) lowering costs; (ii) increasing demand
+    #+ATTR_REVEAL: :frag (appear)
+    - Increasing demand requires either (i) increased processing; (ii) increased consumption
+
+#+REVEAL: split
+- "Functional Foods" :: foods that possess features other than those of normal
+     nutrients that are supposed to improve health
+
+#+REVEAL: split
+#+ATTR_HTML: :style min-width:80%; margin:auto; display:block; text-align:center
+[[/Users/roambot/projects/phil105/content/slides/functionalfood.jpg]]
+
+#+BEGIN_NOTES
+ - Functional foods increase food sales
+ - Functional foods can often advertise health benefits that aren't proven & encourage views of low-calorie status of what are really high-calorie foods 
+ - Treat processed foods as "health foods"
+#+END_NOTES
+
+
+*** How are the interests of the food industry misaligned with those of consumers?
+*** Corporate lobbying of politicians has a negative effect on policy 
+#+BEGIN_QUOTE
+A. True \\
+B. False \\
+#+END_QUOTE
+
+*** If a nutritional expert's claims are based on research that depended on food industry funds, would you be:
+
+#+BEGIN_QUOTE
+A. More inclined to believe the claims \\
+B. Less inclined to believe the claims \\
+C. Neither more nor less inclined 
+#+END_QUOTE
+
+*** What is a "check-off"? 
+
+#+BEGIN_QUOTE
+A. A means of bribing government officials \\
+B. A grant given to sectors of the food industry for research \\ 
+C. A grant from the government for advertising \\
+D. A mandatory deduction of industry profits specifically for the purpose of
+   advertising and research
+#+END_QUOTE
+*** If an 8oz soda has 100 calories, a 64oz soda has:
+#+BEGIN_QUOTE
+A. 200 calories
+B. 400 calories
+C. 800 calories
+D. 1600 calories
+#+END_QUOTE
+*** Food industry interests align with those of public health in fighting obesity
+
+A. True  \\ 
+B. False  \\
+
+** Singer on Famine Relief
+*** According to Singer, distant bad occurrences are less morally relevant to us than local ones.  
+A. True \\ 
+B. False 
+
+*** The central issue of food security concerns the quantity of food available
+
+A. True \\
+B. False
+   
+*** Singer argues that we are morally obligated to help the food insecure
+
+A. True \\ 
+B. False
+   
+** Genetically Modified Foods
+
+*** A genetically modified food/crop is one that
+
+#+BEGIN_QUOTE
+A. is grown or bred with a specific purpose in mind  
+B. is manipulated at the molecular level to have traits that farmers or
+   consumers desire
+C. contains no foreign genetic material
+D. is more dangerous to consume than non-genetically modified food  
+#+END_QUOTE
+
+*** The 'unnaturalness' objection (UE) is a kind of extrinsic objection to GM food 
+
+#+BEGIN_QUOTE
+A. True  
+B. False  
+#+END_QUOTE
+
+*** People react to "negative information" concerning food choices by
+
+#+BEGIN_QUOTE
+A. typically ignoring it
+B. giving it great significance in deliberation
+C. giving it too little significance in deliberation
+D. misunderstanding it
+#+END_QUOTE
+
+#+BEGIN_NOTES
+- Kimmel Clip: https://www.youtube.com/watch?v=EzEr23XJwFY
+#+END_NOTES
+
+* Final Essay Topics
+** Ethics of Food Security
+1. Explain the "principle of preventing bad occurrences". How does Singer use
+   this principle to argue for famine relief? What objections might we raise
+   for this argument? How might Singer respond in defense of the argument?
+   
+** Food: Political & Economic Issues 
+1. What is "moral hazard"? Why might the structure of the industrial food
+   system present an instance of moral hazard?
+
+** Food Localism
 * Configuration                                                                 :noexport:
 #+HUGO_BASE_DIR: ./ 
 #+STARTUP: nologdone
@@ -1085,15 +4223,17 @@ This formative assessment is typically completed by students in the last 10 minu
 #+OPTIONS: reveal_center:nil reveal_progress:t reveal_history:nil reveal_control:t
 #+OPTIONS: reveal_rolling_links:nil reveal_keyboard:t reveal_overview:t num:nil
 #+OPTIONS: toc:2 reveal_slide_number:c/t 
+#+OPTIONS: timestamp:nil
 #+REVEAL_TRANS: convex
 #+REVEAL_THEME: solarized
 #+REVEAL_HLEVEL: 1
 #+REVEAL_HEAD_PREAMBLE: <meta name="description" content="PHIL 105 Slides">
 #+REVEAL_POSTAMBLE: <p> Created by Colin McLear. </p>
 #+REVEAL_PLUGINS: (markdown notes highlight)
-#+REVEAL_EXTRA_CSS: /Users/cmclear2/Dropbox/Work/projects/phil101/content/slides/local.css
+# #+REVEAL_EXTRA_CSS: /Users/cmclear2/Dropbox/Work/projects/phil101/content/slides/local.css
 #+REVEAL_EXTRA_CSS: /Users/Roambot/Dropbox/Work/projects/phil101/content/slides/local.css
 #+EXCLUDE_TAGS: noexport
 # #+OPTIONS: toc:1 reveal_slide_number:c/t 
-# #+OPTIONS: reveal_single_file:t
+#+OPTIONS: reveal_single_file:nil
+#+OPTIONS: toc:nil
 # -*- org-list-allow-alphabetical: t; -*- 
